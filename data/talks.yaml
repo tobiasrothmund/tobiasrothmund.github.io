@@ -53,3 +53,59 @@
   summary: Im Gespräch mit Ute Welty vor der Bundestagswahl 2021 geht es um „negative Campaigning“ – Wahlkampfstrategien, die den politischen Gegner diskreditieren sollen und dabei häufig nach hinten losgehen.
   audio: true
   duration: 9 Min
+
+- type: interview
+  date: 2025-06-18
+  title: Wie man News konsumiert, ohne schlechte Laune zu bekommen
+  venue: MDR AKTUELL – Das Interview
+  lang: de
+  url: https://www.mdr.de/nachrichten/podcast/interview/audio-nachrichten-vermeiden-studie-belastung-100.html
+  summary: Laut einer Studie meidet mehr als ein Drittel der Menschen in Deutschland Nachrichten. Ein Gespräch über die Gründe – und darüber, wie man informiert bleibt, ohne sich zu überfordern.
+  audio: true
+  duration: 4 Min
+
+- type: podcast
+  date: 2021-07-05
+  title: "Vertrauen – Über ein riskantes Gefühl"
+  venue: Deutschlandfunk Kultur – Zeitfragen. Feature
+  lang: de
+  url: https://www.deutschlandfunkkultur.de/vertrauen-ueber-ein-riskantes-gefuehl-100.html
+  summary: Ohne Vertrauen funktioniert keine Gesellschaft – doch wer vertraut, macht sich verletzlich. Im Feature von Constanze Lehmann spricht Tobias Rothmund über die wahrgenommene Krise des Vertrauens und des gesellschaftlichen Zusammenhalts.
+  audio: true
+  duration: 31 Min
+
+- type: press
+  date: 2020-09-28
+  title: "Sprache in den Nachrichten: Zwischen Zuspitzung und Präzision"
+  venue: Deutschlandfunk
+  lang: de
+  url: https://www.deutschlandfunk.de/sprache-in-den-nachrichten-zwischen-zuspitzung-und-100.html
+  summary: Ein Beitrag von Michael Meyer über saloppe und zugespitzte Formulierungen in Nachrichtensendungen. Tobias Rothmund erklärt, warum sensationalistische Sprache mediale Aufmerksamkeit begünstigt und wo Populismus und Medienlogik einander nahekommen.
+  audio: true
+  duration: 5 Min
+
+- type: press
+  date: 2020-01-01
+  datelabel: Heft 1/2020
+  title: "Das Porträt: Tobias Rothmund"
+  venue: tv diskurs / mediendiskurs
+  lang: de
+  url: https://mediendiskurs.online/beitrag/das-portraet-tobias-rothmund/
+  summary: Porträt von Alexander Grau über die Forschung von Tobias Rothmund – von der Wirkung gewalthaltiger Computerspiele über politische Ideologien und Gerechtigkeitsvorstellungen bis zur Polarisierung in fragmentierten digitalen Medien.
+
+- type: interview
+  date: 2017-09-11
+  title: "Wähler vor der Bundestagswahl: „Menschen haben sich von den Parteien emanzipiert“"
+  venue: Deutschlandfunk
+  lang: de
+  url: https://www.deutschlandfunk.de/waehler-vor-der-bundestagswahl-menschen-haben-sich-von-den-100.html
+  summary: Im Gespräch mit Tobias Armbrüster, zwei Wochen vor der Bundestagswahl 2017. Fast ein Drittel der Wahlberechtigten lehnt die etablierten Parteien ab oder misstraut ihnen – ein größeres Problem als die Unentschlossenheit vieler Wählerinnen und Wähler.
+
+- type: podcast
+  date: 2013-12-02
+  title: Gewalt in Medien und Computerspielen
+  venue: "SozioPod+1 #01 – mit Patrick Breitenbach und Nils Köbel"
+  lang: de
+  url: https://www.soziopod.de/2013/12/soziopod1-01-mit-jun-prof-dr-tobias-rothmund-ueber-gewalt-in-medien-und-computerspielen/index.html
+  summary: Ein Gespräch über den Forschungsstand zu Gewalt in Medien und Computerspielen – und darüber, was gewalthaltige Inhalte mit Aggression und dem Verhalten von Spielerinnen und Spielern zu tun haben.
+  audio: true
