@@ -5,8 +5,11 @@ status: completed
 period: "Juli 2024 – Dezember 2025"
 partners: ["Internationales Büro / Career Point der Universität Jena", "Arbeitsgruppe Wirtschaftsgeographie", "KomRex"]
 funding: "Thüringer Ministerium für Wirtschaft, Wissenschaft und Digitale Gesellschaft"
-team: ["Dr. Claudia Hillinger (Leitung)", "Prof. Dr. Sebastian Henn", "Prof. Dr. Tobias Rothmund", "Christina Julia Holewik", "Laura Dellagiacoma", "Verena Wilk", "Jenny Kretzmann", "Anne Beck", "Anna Kunz", "Jonas Zetzsche"]
+team: ["Dr. Claudia Hillinger (Leitung)", "Prof. Dr. Sebastian Henn (Leitung)", "Prof. Dr. Tobias Rothmund (Leitung)", "Christina Julia Holewik", "Laura Dellagiacoma", "Verena Wilk", "Jenny Kretzmann", "Anne Beck", "Anna Kunz", "Jonas Zetzsche"]
 weight: -1
+image: "/images/projekte/Bildschirmfoto%202026-09-23%20um%2021.53.30.png"
+imagealt: "Titelseite des ARAPiS-Abschlussberichts mit einem Foto internationaler Studierender"
+publications: ["https://www.career.uni-jena.de/aaa32media/71753/abschlussbericht-arapis-universitaet-jena-08-2026-deu.pdf"]
 summary: "Was entscheidet darüber, ob internationale Absolventinnen und Absolventen der Universität Jena in Thüringen beruflich Fuß fassen und bleiben? Ein interdisziplinäres Projekt zu Übergängen in den Arbeitsmarkt, Rekrutierungsstrategien von Unternehmen und erlebten Hürden."
 ---
 **ARAPiS** steht für „Analyse der Rolle und des Arbeitsmarkt-Potenzials internationaler Studierender der Friedrich-Schiller-Universität Jena im Kontext Thüringens“. Hintergrund ist die Frage, welchen Beitrag Hochschulen zur Fachkräftesicherung leisten können: Jedes Jahr schließen rund 400 internationale Studierende ihr Studium in Jena ab – ein erhebliches Potenzial für den Thüringer Arbeitsmarkt.
