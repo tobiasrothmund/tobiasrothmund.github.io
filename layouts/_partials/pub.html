@@ -2,20 +2,41 @@
 {{- $me := site.Params.highlightAuthor -}}
 {{- $authors := $p.authors | htmlEscape -}}
 {{- with $me }}{{ $authors = replace $authors (htmlEscape .) (printf "<strong>%s</strong>" (htmlEscape .)) }}{{ end -}}
-{{- $cite := printf "%s (%v). %s. %s" $p.authors $p.year $p.title $p.venue -}}
-{{- with $p.volume }}{{ $cite = printf "%s, %s" $cite . }}{{ end -}}
-{{- with $p.pages }}{{ $cite = printf "%s, %s" $cite . }}{{ end -}}
-{{- $cite = printf "%s." $cite -}}
-{{- with $p.doi }}{{ $cite = printf "%s https://doi.org/%s" $cite . }}{{ end -}}
+{{- /* ── APA-7-Zitation (Text + HTML mit Kursivsetzung) ── */ -}}
+{{- $vol := $p.volume | default "" -}}
+{{- $inpress := eq $vol "in press" -}}
+{{- $year := cond $inpress "in press" (string $p.year) -}}
+{{- $title := $p.title -}}
+{{- if not (in (slice "?" "!" ".") (substr $title -1)) }}{{ $title = printf "%s." $title }}{{ end -}}
+{{- $link := "" -}}
+{{- with $p.doi }}{{ $link = printf "https://doi.org/%s" . }}{{ else }}{{ with $p.url }}{{ $link = . }}{{ end }}{{ end -}}
+{{- $srcT := $p.venue -}}
+{{- $srcH := $p.venue -}}
+{{- if eq $p.type "article" -}}
+  {{- $srcH = printf "<i>%s</i>" $p.venue -}}
+  {{- if and $vol (not $inpress) -}}
+    {{- if hasPrefix $vol "Advance" -}}
+      {{- $srcT = printf "%s. %s" $srcT $vol -}}{{- $srcH = printf "%s. %s" $srcH $vol -}}
+    {{- else -}}
+      {{- $num := index (findRE `^[0-9]+` $vol) 0 | default "" -}}
+      {{- $rest := strings.TrimPrefix $num $vol -}}
+      {{- $srcT = printf "%s, %s" $srcT $vol -}}
+      {{- $srcH = printf "%s, <i>%s</i>%s" $srcH $num $rest -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not (in (slice "." "?" "!") (substr $srcT -1)) }}{{ $srcT = printf "%s." $srcT }}{{ $srcH = printf "%s." $srcH }}{{ end -}}
+{{- $citeT := printf "%s (%s). %s %s" $p.authors $year $title $srcT -}}
+{{- $citeH := printf "%s (%s). %s %s" $p.authors $year $title $srcH -}}
+{{- with $link }}{{ $citeT = printf "%s %s" $citeT . }}{{ $citeH = printf "%s %s" $citeH . }}{{ end -}}
 <li class="pub" data-type="{{ $p.type }}" data-search="{{ lower (printf "%s %s %s %v" $p.authors $p.title $p.venue $p.year) }}">
   <p class="pub-title">{{ $p.title }}</p>
   <p class="pub-authors">{{ $authors | safeHTML }}</p>
   <p class="pub-venue">{{ if eq $p.type "article" }}<em>{{ $p.venue }}</em>{{ else }}{{ $p.venue }}{{ end }}{{ with $p.volume }}, {{ . }}{{ end }}{{ with $p.pages }}, {{ . }}{{ end }}</p>
   <div class="pub-actions">
-    {{ with $p.doi }}<a class="chip-link" href="https://doi.org/{{ . }}" rel="noopener">DOI</a>{{ end }}
-    {{ with $p.url }}<a class="chip-link" href="{{ . }}" rel="noopener">Link</a>{{ end }}
+    {{ with $link }}<a class="chip-link" href="{{ . }}" rel="noopener">Link</a>{{ end }}
     {{ with $p.pdf }}<a class="chip-link" href="{{ . | relURL }}">PDF</a>{{ end }}
-    <button class="chip-link cite-btn" type="button" data-cite="{{ $cite }}" data-done="{{ i18n "copied" }}">{{ i18n "cite" }}</button>
+    <button class="chip-link cite-btn" type="button" data-apa="{{ $citeT }}" data-apa-html="{{ $citeH }}" data-done="{{ i18n "copied" }}" title="APA 7">{{ i18n "cite" }}</button>
     {{ if $p.openaccess }}<span class="badge badge-oa">{{ i18n "openAccess" }}</span>{{ end }}
   </div>
 </li>
