@@ -16,6 +16,21 @@
         {{ with .Params.funding }}<dt>{{ i18n "funding" }}</dt><dd>{{ . }}</dd>{{ end }}
         {{ with .Params.team }}<dt>{{ i18n "team" }}</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
       </dl>
+      {{- $refs := .Params.publications | default slice -}}
+      {{- if or $refs (in (slice "forschung" "research") .Section) }}
+      <div class="project-pubs">
+        <h2 class="project-pubs-title">{{ i18n "projectPubs" }}</h2>
+        {{- $found := slice -}}
+        {{- range $refs }}{{ $r := . }}{{ range where site.Data.publications "doi" $r }}{{ $found = $found | append . }}{{ end }}{{ end -}}
+        {{- with $found }}
+        <ul class="project-pubs-list">
+          {{- range . }}<li>{{ partial "apa-cite.html" . }}</li>{{ end }}
+        </ul>
+        {{- else }}
+        <p class="muted small">{{ i18n "projectPubsNone" }}</p>
+        {{- end }}
+      </div>
+      {{- end }}
     </aside>
   </div>
 </article>
