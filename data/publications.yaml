@@ -9,6 +9,7 @@
 #  doi / url: optional (DOI ohne https://doi.org/)
 #  selected:  true  → erscheint auch auf der Startseite
 #  openaccess: true → Open-Access-Kennzeichnung
+#  cover:     Bild für Bücher, z. B. /images/cover-buch.jpg
 # ─────────────────────────────────────────────────────────────
 
 - type: article
@@ -17,6 +18,7 @@
   title: Ideological differences in harm-based moral judgments of toxic speech
   venue: Political Psychology
   volume: in press
+  openaccess: true
   selected: true
 
 - type: article
@@ -46,6 +48,7 @@
   venue: Political Psychology
   volume: 47(2)
   doi: 10.1111/pops.70076
+  openaccess: true
 
 - type: article
   year: 2026
@@ -54,6 +57,7 @@
   venue: Political Psychology
   volume: 47(1), e13070
   doi: 10.1111/pops.13070
+  openaccess: true
 
 - type: article
   year: 2025
@@ -61,6 +65,7 @@
   title: 'Yesterday, all our troubles seemed so far away: Measuring nostalgic deprivation as a predictor for radical-right support – Empirical evidence from Germany and the US'
   venue: Political Psychology
   doi: 10.1111/pops.70057
+  openaccess: true
 
 - type: article
   year: 2025
@@ -69,6 +74,14 @@
   venue: 'Peace and Conflict: Journal of Peace Psychology'
   volume: Advance online publication
   doi: 10.1037/pac0000813
+
+- type: book
+  year: 2024
+  authors: Rothmund, T., & Walther, E. (Hrsg.).
+  title: Psychologie der Rechtsradikalisierung – Theorien, Perspektiven, Prävention
+  venue: Kohlhammer
+  url: https://shop.kohlhammer.de/psychologie-der-rechtsradikalisierung-43997.html
+  cover: /images/cover-rechtsradikalisierung.jpg
 
 - type: chapter
   year: 2024
@@ -257,6 +270,7 @@
   venue: Political Psychology
   volume: 42(6), 1071–1090
   doi: 10.1111/pops.12735
+  openaccess: true
 
 - type: article
   year: 2020
@@ -274,6 +288,7 @@
   venue: Political Psychology
   volume: 41(3), 479–497
   doi: 10.1111/pops.12632
+  openaccess: true
 
 - type: article
   year: 2020
