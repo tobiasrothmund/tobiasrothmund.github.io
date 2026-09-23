@@ -137,6 +137,7 @@
   title: Gefährdungen der demokratischen Kultur in Thüringen
   venue: KomRex – Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration, Universität Jena
   url: https://www.komrex.uni-jena.de/
+  openaccess: true
 
 - type: article
   year: 2024
@@ -145,6 +146,7 @@
   venue: 'Journal of Media Psychology: Theories, Methods, and Applications'
   volume: Advance online publication
   doi: 10.1027/1864-1105/a000407
+  openaccess: true
 
 - type: chapter
   year: 2023
@@ -166,6 +168,7 @@
   title: Konkurrierende Bedrohungsdebatten in Krisenzeiten – Eine sozialpsychologische Perspektive
   venue: Wissenschaft und Frieden (W&F), 2023/1
   url: https://wissenschaft-und-frieden.de/artikel/konkurrierende-bedrohungsdebatten-in-krisenzeiten/
+  openaccess: true
 
 - type: article
   year: 2023
@@ -213,6 +216,7 @@
   venue: Public Understanding of Science
   volume: 31(4), 437–457
   doi: 10.1177/09636625211068131
+  openaccess: true
 
 - type: article
   year: 2021
@@ -237,6 +241,7 @@
   title: Mapping political trust and involvement in the personality space – A meta-analysis and new evidence
   venue: Journal of Personality
   doi: 10.1111/jopy.12700
+  openaccess: true
 
 - type: article
   year: 2021
@@ -261,7 +266,7 @@
   authors: Ziemer, C.-T., Farkhari, F., & Rothmund, T.
   title: Was zeichnet Pandemieleugner*innen aus? – Eine Analyse politischer Einstellungen, kognitiver Stile und Mediennutzung
   venue: In Institut für Demokratie und Zivilgesellschaft (Hrsg.), Wissen schafft Demokratie. Schwerpunkt Demokratiegefährdungen in der Coronakrise (Band 9, S. 28–41)
-  url: https://www.idz-jena.de/fileadmin/user_upload/PDFS_WsD_9/WsD_09_Beitrag_Carolin-Theresa_Ziemer_et_al..pdf
+  url: https://www.idz-jena.de/wsddet/wsd9-4/
 
 - type: article
   year: 2021
