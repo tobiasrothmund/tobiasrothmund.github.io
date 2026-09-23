@@ -5,6 +5,7 @@
     <h1 class="page-title">{{ .Title }}</h1>
     {{ with .Params.summary }}<p class="page-lead">{{ . }}</p>{{ end }}
   </header>
+  <div class="wrap">{{ partial "project-image.html" (dict "page" . "class" "project-hero") }}</div>
   <div class="wrap with-aside">
     <div class="prose">{{ .Content }}</div>
     <aside class="facts">
