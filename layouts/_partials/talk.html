@@ -3,20 +3,25 @@
 {{- $future := gt $d now -}}
 <li class="talk{{ if $future }} is-upcoming{{ end }}" data-type="{{ $t.type }}">
   <time class="talk-date" datetime="{{ $d.Format "2006-01-02" }}">
+    {{- with $t.datelabel }}
+    <span class="talk-day">{{ . }}</span>
+    {{- else }}
     <span class="talk-day">{{ $d.Format "02.01." }}</span>
     <span class="talk-year">{{ $d.Year }}</span>
+    {{- end }}
   </time>
   <div class="talk-body">
-    <p class="talk-kind"><span class="badge badge-{{ $t.type }}">{{ i18n (printf "type_%s" $t.type) }}</span>{{ if $future }}<span class="badge badge-soon">{{ cond (eq site.Language.Lang "de") "demnächst" "upcoming" }}</span>{{ end }}{{ with $t.lang }}{{ if ne . site.Language.Lang }}<span class="badge badge-lang">{{ upper . }}</span>{{ end }}{{ end }}</p>
+    <p class="talk-kind"><span class="badge badge-{{ $t.type }}">{{ i18n (printf "type_%s" $t.type) }}</span>{{ if $future }}<span class="badge badge-soon">{{ cond (eq site.Language.Lang "de") "demnächst" "upcoming" }}</span>{{ end }}{{ with $t.lang }}{{ if ne . site.Language.Lang }}<span class="badge badge-lang">{{ upper . }}</span>{{ end }}{{ end }}{{ if $t.paywall }}<span class="badge badge-paywall">{{ cond (eq site.Language.Lang "de") "Bezahlinhalt" "Paywall" }}</span>{{ end }}</p>
     <p class="talk-title">{{ with $t.url }}<a href="{{ . }}" rel="noopener">{{ $t.title }}</a>{{ else }}{{ $t.title }}{{ end }}</p>
     <p class="talk-venue muted">{{ $t.venue }}{{ with $t.place }} · {{ . }}{{ end }}</p>
     {{ with $t.summary }}<p class="talk-summary">{{ . }}</p>{{ end }}
-    {{ if and $t.video $t.url }}
+    {{ if and (or $t.video $t.audio) $t.url }}
+    {{- $de := eq site.Language.Lang "de" -}}
     <a class="video-card" href="{{ $t.url }}" rel="noopener" target="_blank">
       <span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span>
       <span class="video-text">
-        <span class="video-label">{{ cond (eq site.Language.Lang "de") "Video ansehen" "Watch video" }}{{ with $t.duration }} · {{ . }}{{ end }}</span>
-        <span class="video-source">{{ $t.venue }} {{ cond (eq site.Language.Lang "de") "(öffnet externe Seite)" "(opens external site)" }}</span>
+        <span class="video-label">{{ if $t.video }}{{ cond $de "Video ansehen" "Watch video" }}{{ else }}{{ cond $de "Audio anhören" "Listen" }}{{ end }}{{ with $t.duration }} · {{ . }}{{ end }}</span>
+        <span class="video-source">{{ $t.venue }} {{ cond $de "(öffnet externe Seite)" "(opens external site)" }}</span>
       </span>
     </a>
     {{ end }}
