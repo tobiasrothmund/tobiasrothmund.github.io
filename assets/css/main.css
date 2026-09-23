@@ -460,3 +460,10 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .video-source { font-size: 0.8125rem; opacity: .75; }
 .badge-paywall { background: var(--warn-soft); color: var(--warn); }
 .talk-day:only-child { font-size: 1rem; }
+
+/* Startseite: Logos unter dem Vorstellungstext */
+.intro-logos { display: grid; grid-template-columns: repeat(3, auto); justify-content: space-between; align-items: center; gap: 1.25rem; margin-top: 2.25rem; padding-top: 1.75rem; border-top: 1px solid rgb(255 255 255 / .2); }
+.intro-logos li { min-width: 0; }
+.intro-logos img { display: block; width: auto; max-width: 100%; height: auto; max-height: 2.6rem; }
+.intro-logos .logo-komrex, .intro-logos .logo-imaginamics { max-height: 1.3rem; }
+@media (max-width: 880px) { .intro-logos { justify-content: start; gap: 1.25rem 2.5rem; } }
