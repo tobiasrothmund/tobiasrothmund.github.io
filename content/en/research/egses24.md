@@ -7,6 +7,8 @@ partners: ["KomRex (University of Jena)", "Chair of Social Psychology (Trier Uni
 funding: "Free State of Thuringia and Volkswagen Foundation"
 team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Eva Walther (lead)", "Carla Grosche", "Dr. Christine Finn", "Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
 weight: -3
+image: /images/projekte/oslwo24.webp
+imagealt: "Outlines of Thuringia, Saxony and Brandenburg with the 2024 election dates and a ballot box"
 summary: "A longitudinal survey of 1,200 people in Thuringia, Saxony and Brandenburg before and after the 2024 state elections – on the causes and consequences of voting behaviour."
 ---
 The state elections in Thuringia, Saxony and Brandenburg in autumn 2024 were awaited with particular suspense. To study the causes and consequences of voting behaviour, the Centre for Research on Right-Wing Extremism, Democracy Education and Societal Integration (KomRex) at Friedrich Schiller University Jena and the Chair of Social Psychology at Trier University are conducting a longitudinal survey of 1,200 people in these three states.
