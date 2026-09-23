@@ -16,7 +16,7 @@
 #             date wird dann nur zum Sortieren verwendet)
 # ─────────────────────────────────────────────────────────────
 
-- type: interview
+- type: tv
   date: 2026-07-02
   title: Warum Menschen die gleichen Nachrichten unterschiedlich wahrnehmen
   venue: MDR – MEDIEN360G
@@ -44,7 +44,7 @@
   url: https://fuenf-zu-eins.de/de/ausgaben/nr-1-2025/tobias-rothmund
   summary: Wie können Kultureinrichtungen weiterarbeiten, wenn sie von rechtspopulistischen und rechtsextremen Akteuren angegriffen werden? Ein Gespräch darüber, warum solche Angriffe meist symbolisch gemeint sind und wie die Unterscheidung zwischen ideologischen Aktivisten und erreichbarem Publikum echten Dialog möglich macht.
 
-- type: interview
+- type: podcast
   date: 2021-07-09
   title: Risiken und Nebenwirkungen von Negativkampagnen
   venue: Deutschlandfunk Kultur – Studio 9
@@ -54,7 +54,7 @@
   audio: true
   duration: 9 Min
 
-- type: interview
+- type: podcast
   date: 2025-06-18
   title: Wie man News konsumiert, ohne schlechte Laune zu bekommen
   venue: MDR AKTUELL – Das Interview
@@ -93,7 +93,7 @@
   url: https://mediendiskurs.online/beitrag/das-portraet-tobias-rothmund/
   summary: Porträt von Alexander Grau über die Forschung von Tobias Rothmund – von der Wirkung gewalthaltiger Computerspiele über politische Ideologien und Gerechtigkeitsvorstellungen bis zur Polarisierung in fragmentierten digitalen Medien.
 
-- type: interview
+- type: podcast
   date: 2017-09-11
   title: "Wähler vor der Bundestagswahl: „Menschen haben sich von den Parteien emanzipiert“"
   venue: Deutschlandfunk
