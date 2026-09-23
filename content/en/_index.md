@@ -21,6 +21,6 @@ focus:
     text: "Motivated reasoning, polarisation and radicalisation from a social-psychological perspective."
 ---
 
-Tobias Rothmund is Professor of Media and Communication Psychology at Friedrich Schiller University Jena, where he heads KomRex (Centre for Research on Right-Wing Extremism, Democracy Education and Social Integration). He is a Principal Investigator in the Cluster of Excellence Imaginamics at the University of Jena and a member of the distributed DFG Research Unit Beyond Cracy.
+Tobias Rothmund is Professor of [**Media and Communication Psychology**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) at Friedrich Schiller University Jena, where he heads [**KomRex**](https://www.komrex.uni-jena.de/) (Centre for Research on Right-Wing Extremism, Democracy Education and Social Integration). He is a Principal Investigator in the Cluster of Excellence [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena and a member of the distributed DFG Research Unit **Beyond Cracy**.
 
 His research combines social-psychological and communication-science perspectives on political experience and behaviour. His work focuses on differing conceptions of justice, political biases and ideologies, misinformation and conspiracy myths, as well as political radicalisation and the dynamics of polarisation.
