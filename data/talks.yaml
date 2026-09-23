@@ -9,7 +9,11 @@
 #  url:      Link zum Beitrag
 #  summary:  kurzer Beschreibungstext (optional)
 #  video:    true → wird als Video-Karte mit Abspiel-Symbol gezeigt
+#  audio:    true → wie video, aber mit „Audio anhören“ (Radio, Podcast)
 #  duration: Länge, z. B. "29 Min" (optional)
+#  paywall:  true → Hinweis „Bezahlinhalt“ (optional)
+#  datelabel: ersetzt die Tagesangabe, z. B. "Nr. 1/2025" (optional;
+#             date wird dann nur zum Sortieren verwendet)
 # ─────────────────────────────────────────────────────────────
 
 - type: interview
@@ -21,3 +25,31 @@
   summary: Wie wirken Bilder und Medienberichte von politischen Ereignissen und Protesten auf unser Denken? Im Video-Interview zu den Protesten rund um den AfD-Parteitag in Erfurt erklärt Tobias Rothmund, warum viele Menschen vor allem das sehen, was sie ohnehin glauben.
   video: true
   duration: 29 Min
+
+- type: interview
+  date: 2026-01-30
+  title: "Grausame Videos auf Social Media: Wenn Nachrichten nicht auszuhalten sind"
+  venue: Süddeutsche Zeitung – jetzt
+  lang: de
+  url: https://www.sueddeutsche.de/projekte/artikel/jetzt/social-media-nachrichten-gewalt-psyche-videos-bilder-e178532/
+  summary: Kriege, Gewalt und verstörende Bilder erreichen uns in sozialen Medien oft ungefiltert. Im Interview mit Sophie Kobel geht es darum, wie man informiert bleibt, ohne sich zu überfordern – und warum ein Spiel wie Tetris dabei helfen kann.
+  paywall: true
+
+- type: interview
+  date: 2025-01-01
+  datelabel: Nr. 1/2025
+  title: Über Angriffe, Kampagnen und Dialog
+  venue: fünf zu eins – Magazin der Kulturstiftung des Bundes
+  lang: de
+  url: https://fuenf-zu-eins.de/de/ausgaben/nr-1-2025/tobias-rothmund
+  summary: Wie können Kultureinrichtungen weiterarbeiten, wenn sie von rechtspopulistischen und rechtsextremen Akteuren angegriffen werden? Ein Gespräch darüber, warum solche Angriffe meist symbolisch gemeint sind und wie die Unterscheidung zwischen ideologischen Aktivisten und erreichbarem Publikum echten Dialog möglich macht.
+
+- type: interview
+  date: 2021-07-09
+  title: Risiken und Nebenwirkungen von Negativkampagnen
+  venue: Deutschlandfunk Kultur – Studio 9
+  lang: de
+  url: https://www.deutschlandfunkkultur.de/bundestagswahlkampf-risiken-und-nebenwirkungen-von-100.html
+  summary: Im Gespräch mit Ute Welty vor der Bundestagswahl 2021 geht es um „negative Campaigning“ – Wahlkampfstrategien, die den politischen Gegner diskreditieren sollen und dabei häufig nach hinten losgehen.
+  audio: true
+  duration: 9 Min
