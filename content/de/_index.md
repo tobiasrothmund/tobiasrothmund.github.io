@@ -2,7 +2,18 @@
 title: "Tobias Rothmund"
 translationKey: home
 # Hervorgehobener erster Satz der Vorstellung auf der Startseite
-lead: "Wie nehmen Menschen Informationen über Politik und Gesellschaft wahr, wie bewerten und teilen sie diese – und was bedeutet das für die demokratische Öffentlichkeit?"
+lead: "Wie entwickeln, bewerten und verbreiten Menschen Vorstellungen über Politik und Gesellschaft – und was bedeutet das für die demokratische Öffentlichkeit?"
+# Logos unter dem Vorstellungstext (Reihenfolge = Anzeige)
+logos:
+  - id: uni-jena
+    img: /images/logos/uni-jena.png
+    alt: Friedrich-Schiller-Universität Jena
+  - id: komrex
+    img: /images/logos/komrex.png
+    alt: KomRex – Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration
+  - id: imaginamics
+    img: /images/logos/imaginamics.png
+    alt: Exzellenzcluster Imaginamics
 # Forschungsschwerpunkte auf der Startseite
 focus:
   - title: "Medien & Vertrauen"
@@ -13,10 +24,6 @@ focus:
     text: "Motiviertes Denken, Polarisierung und Radikalisierung aus sozialpsychologischer Perspektive."
 ---
 
-Tobias Rothmund ist Professor für **Medien- und Kommunikationspsychologie** an der **Friedrich-Schiller-Universität Jena**. *(Hier weitere Stationen und Funktionen ergänzen, z. B. Promotion, frühere Professuren, Leitungsfunktionen.)*
+Tobias Rothmund ist Professor für Medien- und Kommunikationspsychologie an der Friedrich-Schiller-Universität Jena und leitet dort das Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration. Er ist Principal Investigator im Exzellenzcluster Imaginamics der Universität Jena und Teil der verteilten DFG-Forschungsgruppe Beyond Cracy.
 
-Seine Forschung verbindet Medien-, Sozial- und politische Psychologie. Er beschäftigt sich unter anderem mit Vertrauen in Medien und Wissenschaft, mit Desinformation und Verschwörungsdenken sowie mit politischer Polarisierung. *(Bitte prüfen und präzisieren.)*
-
-*(Absatz zu Publikationen, Drittmittelprojekten und Auszeichnungen – bitte ergänzen.)*
-
-*(Absatz zu Wissenschaftskommunikation, Medienauftritten und Vorträgen – bitte ergänzen.)*
+In seiner Forschung verbindet er sozialpsychologische und kommunikationswissenschaftliche Perspektiven auf politisches Erleben und Verhalten. Er arbeitet insbesondere zu unterschiedlichen Gerechtigkeitsvorstellungen, politischen Voreingenommenheiten und Ideologien, Desinformation und Verschwörungsmythen sowie zu politischer Radikalisierung und Polarisierungsdynamiken.
