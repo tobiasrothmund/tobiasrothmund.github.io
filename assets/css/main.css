@@ -469,18 +469,25 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-logos .logo-komrex, .intro-logos .logo-imaginamics { max-height: 1.3rem; }
 @media (max-width: 880px) { .intro-logos { justify-content: start; gap: 1.25rem 2.5rem; } }
 
-/* Projektbilder (Forschung & Transfer) */
+/* Projektbilder (Forschung & Transfer): Bild und Text nebeneinander, abwechselnd */
+.project-grid { grid-template-columns: 1fr; gap: 1.5rem; }
+.project-card a { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); }
+.project-card:nth-child(even) a { grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); }
+.project-card:nth-child(even) .project-fig { order: 2; border-left: 1px solid var(--line); }
+.project-card:nth-child(odd) .project-fig { border-right: 1px solid var(--line); }
 .project-fig, .project-hero { margin: 0; position: relative; overflow: hidden; background: var(--hero-bg, #002f5d); }
-.project-fig { aspect-ratio: 16 / 9; border-bottom: 1px solid var(--line); }
-.project-fig img, .project-hero img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.project-fig { min-height: 16rem; }
+.project-fig img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .4s; }
 .project-card a:hover .project-fig img { transform: scale(1.02); }
-.project-fig img { transition: transform .4s; }
-.project-hero { aspect-ratio: 21 / 9; border-radius: var(--radius); margin-bottom: clamp(2rem, 4vw, 3rem); }
-.project-hero figcaption { position: absolute; right: 0; bottom: 0; padding: 0.35rem 0.7rem; font-size: 0.75rem; color: #fff; background: rgb(0 0 0 / .45); border-top-left-radius: 8px; }
+.project-hero { aspect-ratio: 4 / 3; border-radius: 10px; margin-bottom: 1.5rem; }
+.project-hero img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.project-hero figcaption { position: absolute; right: 0; bottom: 0; padding: 0.3rem 0.6rem; font-size: 0.7rem; color: #fff; background: rgb(0 0 0 / .45); border-top-left-radius: 8px; }
 .is-fallback { display: grid; place-items: center; background:
   radial-gradient(120% 140% at 100% 0%, rgb(255 255 255 / .16), transparent 55%),
   linear-gradient(135deg, #002f5d 0%, #0b4a8a 100%); }
-.project-fallback { color: #fff; font-weight: 650; letter-spacing: -0.03em; font-size: clamp(1.75rem, 4vw, 2.75rem); opacity: .95; padding: 1rem; text-align: center; }
-.project-hero .project-fallback { font-size: clamp(2.5rem, 7vw, 5rem); }
-.project-hero.is-fallback { aspect-ratio: 4 / 1; }
-@media (max-width: 760px) { .project-hero { aspect-ratio: 16 / 9; } .project-hero.is-fallback { aspect-ratio: 3 / 1; } }
+.project-fallback { color: #fff; font-weight: 650; letter-spacing: -0.03em; font-size: clamp(1.75rem, 3.5vw, 2.75rem); opacity: .95; padding: 1rem; text-align: center; }
+@media (max-width: 760px) {
+  .project-card a, .project-card:nth-child(even) a { grid-template-columns: 1fr; }
+  .project-card:nth-child(even) .project-fig { order: 0; border-left: 0; }
+  .project-card .project-fig { border-right: 0; border-bottom: 1px solid var(--line); min-height: 0; aspect-ratio: 16 / 9; }
+}
