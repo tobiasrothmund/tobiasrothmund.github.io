@@ -5,8 +5,11 @@ status: completed
 period: "July 2024 – December 2025"
 partners: ["International Office / Career Point, University of Jena", "Economic Geography working group", "KomRex"]
 funding: "Thuringian Ministry for Economic Affairs, Science and Digital Society"
-team: ["Dr. Claudia Hillinger (lead)", "Prof. Dr. Sebastian Henn", "Prof. Dr. Tobias Rothmund", "Christina Julia Holewik", "Laura Dellagiacoma", "Verena Wilk", "Jenny Kretzmann", "Anne Beck", "Anna Kunz", "Jonas Zetzsche"]
+team: ["Dr. Claudia Hillinger (lead)", "Prof. Dr. Sebastian Henn (lead)", "Prof. Dr. Tobias Rothmund (lead)", "Christina Julia Holewik", "Laura Dellagiacoma", "Verena Wilk", "Jenny Kretzmann", "Anne Beck", "Anna Kunz", "Jonas Zetzsche"]
 weight: -1
+image: "/images/projekte/Bildschirmfoto%202026-09-23%20um%2021.53.30.png"
+imagealt: "Cover of the ARAPiS final report showing a photo of international students"
+publications: ["https://www.career.uni-jena.de/aaa32media/71753/abschlussbericht-arapis-universitaet-jena-08-2026-deu.pdf"]
 summary: "What determines whether international graduates of the University of Jena find work and stay in Thuringia? An interdisciplinary project on labour market transitions, employers' recruitment strategies and perceived barriers."
 ---
 **ARAPiS** stands for "Analysis of the role and labour market potential of international students at Friedrich Schiller University Jena in the context of Thuringia". It addresses the question of how universities can contribute to securing skilled workers: every year around 400 international students graduate in Jena – a considerable potential for the Thuringian labour market.
