@@ -12,6 +12,13 @@
 #  cover:     Bild für Bücher, z. B. /images/cover-buch.jpg
 # ─────────────────────────────────────────────────────────────
 
+- type: other
+  year: 2026
+  authors: Rothmund, T., Hillinger, C., Wilk, V., & Henn, S. (Hrsg.).
+  title: 'Abschlussbericht ARAPiS: Analyse der Rolle und des Arbeitsmarkt-Potenzials internationaler Studierender der Friedrich-Schiller-Universität Jena im Kontext Thüringens'
+  venue: Friedrich-Schiller-Universität Jena
+  url: https://www.career.uni-jena.de/aaa32media/71753/abschlussbericht-arapis-universitaet-jena-08-2026-deu.pdf
+
 - type: article
   year: 2026
   authors: Bojarskich, V., Yucel, M., Hahn, L., & Rothmund, T.
