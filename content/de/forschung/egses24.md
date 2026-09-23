@@ -7,6 +7,8 @@ partners: ["KomRex (Universität Jena)", "Lehrstuhl für Sozialpsychologie (Univ
 funding: "Freistaat Thüringen und VolkswagenStiftung"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Carla Grosche", "Dr. Christine Finn", "Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
 weight: -3
+image: /images/projekte/oslwo24.webp
+imagealt: "Umrisse von Thüringen, Sachsen und Brandenburg mit den Wahlterminen 2024 und einer Wahlurne"
 summary: "Eine längsschnittliche Befragung von 1200 Personen in Thüringen, Sachsen und Brandenburg vor und nach den Landtagswahlen 2024 – zu Ursachen und Folgen des Wahlverhaltens."
 ---
 Die Landtagswahlen in Thüringen, Sachsen und Brandenburg im Herbst 2024 wurden mit besonderer Spannung erwartet. Um die Ursachen und Folgen des Wahlverhaltens wissenschaftlich zu untersuchen, führt das Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration (KomRex) der Friedrich-Schiller-Universität Jena gemeinsam mit dem Lehrstuhl für Sozialpsychologie der Universität Trier eine längsschnittliche Befragung mit 1200 Personen in diesen Bundesländern durch.
