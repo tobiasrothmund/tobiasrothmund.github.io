@@ -69,6 +69,10 @@ timeZone = "Europe/Berlin"
       pageRef = "/forschung"
       weight = 10
     [[languages.de.menus.main]]
+      name = "Transfer"
+      pageRef = "/transfer"
+      weight = 15
+    [[languages.de.menus.main]]
       name = "Publikationen"
       pageRef = "/publikationen"
       weight = 20
@@ -107,6 +111,10 @@ timeZone = "Europe/Berlin"
       name = "Research"
       pageRef = "/research"
       weight = 10
+    [[languages.en.menus.main]]
+      name = "Transfer"
+      pageRef = "/transfer"
+      weight = 15
     [[languages.en.menus.main]]
       name = "Publications"
       pageRef = "/publications"
