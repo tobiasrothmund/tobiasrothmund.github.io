@@ -1,44 +1,23 @@
 # ─────────────────────────────────────────────────────────────
 #  VORTRÄGE, INTERVIEWS & MEDIENAUFTRITTE
-#  type: talk | keynote | interview | podcast | tv | press
-#  date: JJJJ-MM-TT  (zukünftige Termine werden als "demnächst" markiert)
-#  lang: de | en  (Sprache des Beitrags; wird als kleines Kürzel angezeigt)
+#  Neue Einträge einfach oben ergänzen (sortiert wird automatisch).
 #
-#  HINWEIS: Die folgenden Einträge sind PLATZHALTER.
+#  type:     talk | keynote | interview | podcast | tv | press
+#  date:     JJJJ-MM-TT (zukünftige Termine werden als "demnächst" markiert)
+#  venue:    Sender, Zeitung, Konferenz …   place: Ort (optional)
+#  lang:     de | en (Sprache des Beitrags)
+#  url:      Link zum Beitrag
+#  summary:  kurzer Beschreibungstext (optional)
+#  video:    true → wird als Video-Karte mit Abspiel-Symbol gezeigt
+#  duration: Länge, z. B. "29 Min" (optional)
 # ─────────────────────────────────────────────────────────────
 
-- type: keynote
-  date: 2026-11-12
-  title: "[Beispiel] Keynote zu Vertrauen und Polarisierung"
-  venue: "Beispielkonferenz 2026"
-  place: "Berlin"
-  lang: de
-  url: "https://example.org"
-
-- type: podcast
-  date: 2026-06-03
-  title: "[Beispiel] Gespräch über Verschwörungsdenken"
-  venue: "Beispiel-Podcast"
-  lang: de
-  url: "https://example.org"
-
 - type: interview
-  date: 2026-03-18
-  title: "[Beispiel] Interview zur Wirkung von Social Media"
-  venue: "Beispielzeitung"
+  date: 2026-07-02
+  title: Warum Menschen die gleichen Nachrichten unterschiedlich wahrnehmen
+  venue: MDR – MEDIEN360G
   lang: de
-  url: "https://example.org"
-
-- type: talk
-  date: 2025-10-09
-  title: "[Example] Invited talk on misinformation and political attitudes"
-  venue: "Example University"
-  place: "Amsterdam"
-  lang: en
-
-- type: tv
-  date: 2025-05-21
-  title: "[Beispiel] Expertenstatement in einer TV-Dokumentation"
-  venue: "Beispielsender"
-  lang: de
-  url: "https://example.org"
+  url: https://www.mdr.de/medien360g/medienpolitik/politik-erfurt-protest-demonstrationen-linke,interview-tobias-rothmund-afd-parteitag-100.html
+  summary: Wie wirken Bilder und Medienberichte von politischen Ereignissen und Protesten auf unser Denken? Im Video-Interview zu den Protesten rund um den AfD-Parteitag in Erfurt erklärt Tobias Rothmund, warum viele Menschen vor allem das sehen, was sie ohnehin glauben.
+  video: true
+  duration: 29 Min
