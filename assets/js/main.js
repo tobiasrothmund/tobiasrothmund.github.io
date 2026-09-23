@@ -56,7 +56,13 @@
     b.addEventListener('click', function () {
       var label = b.textContent;
       var done = function () { b.textContent = b.dataset.done; setTimeout(function () { b.textContent = label; }, 1600); };
-      if (navigator.clipboard) navigator.clipboard.writeText(b.dataset.cite).then(done, function () {});
+      var txt = b.dataset.apa, html = b.dataset.apaHtml;
+      if (navigator.clipboard && window.ClipboardItem && html) {
+        navigator.clipboard.write([new ClipboardItem({
+          'text/plain': new Blob([txt], { type: 'text/plain' }),
+          'text/html': new Blob([html], { type: 'text/html' })
+        })]).then(done, function () { navigator.clipboard.writeText(txt).then(done, function () {}); });
+      } else if (navigator.clipboard) navigator.clipboard.writeText(txt).then(done, function () {});
     });
   });
 
