@@ -1,7 +1,17 @@
 ---
 title: "Tobias Rothmund"
 translationKey: home
-lead: "How do people perceive, evaluate and share information about politics and society – and what does this mean for the democratic public sphere?"
+lead: "How do people develop, evaluate and spread ideas about politics and society – and what does this mean for the democratic public sphere?"
+logos:
+  - id: uni-jena
+    img: /images/logos/uni-jena.png
+    alt: Friedrich Schiller University Jena
+  - id: komrex
+    img: /images/logos/komrex.png
+    alt: KomRex – Centre for Research on Right-Wing Extremism, Democracy Education and Social Integration
+  - id: imaginamics
+    img: /images/logos/imaginamics.png
+    alt: Cluster of Excellence Imaginamics
 focus:
   - title: "Media & trust"
     text: "How does trust in journalism, science and institutions emerge – and when is it lost?"
@@ -11,10 +21,6 @@ focus:
     text: "Motivated reasoning, polarisation and radicalisation from a social-psychological perspective."
 ---
 
-Tobias Rothmund is Professor of **Media and Communication Psychology** at **Friedrich Schiller University Jena**. *(Add further positions and roles here, e.g. PhD, previous professorships, leadership roles.)*
+Tobias Rothmund is Professor of Media and Communication Psychology at Friedrich Schiller University Jena, where he heads the Centre for Research on Right-Wing Extremism, Democracy Education and Social Integration. He is a Principal Investigator in the Cluster of Excellence Imaginamics at the University of Jena and a member of the distributed DFG Research Unit Beyond Cracy.
 
-His research combines media, social and political psychology. Among other things, he studies trust in media and science, misinformation and conspiracy thinking, and political polarisation. *(Please check and refine.)*
-
-*(Paragraph on publications, funded projects and awards – please add.)*
-
-*(Paragraph on science communication, media appearances and talks – please add.)*
+His research combines social-psychological and communication-science perspectives on political experience and behaviour. His work focuses in particular on differing conceptions of justice, political biases and ideologies, misinformation and conspiracy myths, as well as political radicalisation and the dynamics of polarisation.
