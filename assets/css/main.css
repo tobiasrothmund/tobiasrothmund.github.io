@@ -467,10 +467,3 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-logos img { display: block; width: auto; max-width: 100%; height: auto; max-height: 2.6rem; }
 .intro-logos .logo-komrex, .intro-logos .logo-imaginamics { max-height: 1.3rem; }
 @media (max-width: 880px) { .intro-logos { justify-content: start; gap: 1.25rem 2.5rem; } }
-
-/* Forschung: durchgehender blauer Streifen im linken Seitenrand */
-body.type-research main {
-  background: linear-gradient(90deg, var(--hero-bg, #002f5d) 0 max(calc((100% - var(--wrap)) / 2), 0px), transparent 0);
-  padding-bottom: clamp(3rem, 8vw, 6rem);
-}
-body.type-research .site-footer { margin-top: 0; }
