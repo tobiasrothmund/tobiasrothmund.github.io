@@ -6,14 +6,17 @@
     {{ range .Pages.ByWeight }}
     <li class="project-card">
       <a href="{{ .RelPermalink }}">
-        <p class="project-meta">
-          <span class="badge badge-{{ .Params.status }}">{{ i18n (.Params.status | default "running") }}</span>
-          {{ with .Params.period }}<span class="muted">{{ . }}</span>{{ end }}
-        </p>
-        <h2 class="project-title">{{ .Title }}</h2>
-        {{ with .Params.summary }}<p class="project-summary">{{ . }}</p>{{ end }}
-        {{ with .Params.funding }}<p class="project-funding muted small">{{ i18n "funding" }}: {{ . }}</p>{{ end }}
-        <span class="arrow" aria-hidden="true">→</span>
+        {{ partial "project-image.html" (dict "page" . "class" "project-fig") }}
+        <div class="project-body">
+          <p class="project-meta">
+            <span class="badge badge-{{ .Params.status }}">{{ i18n (.Params.status | default "running") }}</span>
+            {{ with .Params.period }}<span class="muted">{{ . }}</span>{{ end }}
+          </p>
+          <h2 class="project-title">{{ .Title }}</h2>
+          {{ with .Params.summary }}<p class="project-summary">{{ . }}</p>{{ end }}
+          {{ with .Params.funding }}<p class="project-funding muted small">{{ i18n "funding" }}: {{ . }}</p>{{ end }}
+          <span class="arrow" aria-hidden="true">→</span>
+        </div>
       </a>
     </li>
     {{ end }}
