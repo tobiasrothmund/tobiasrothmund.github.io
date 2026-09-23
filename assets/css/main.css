@@ -491,3 +491,11 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
   .project-card:nth-child(even) .project-fig { order: 0; border-left: 0; }
   .project-card .project-fig { border-right: 0; border-bottom: 1px solid var(--line); min-height: 0; aspect-ratio: 16 / 9; }
 }
+
+/* Projektseiten: Publikationen in der rechten Spalte */
+.project-pubs { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+.project-pubs-title { font-size: 0.8125rem; font-weight: 600; color: var(--ink-3); letter-spacing: 0; margin-bottom: 0.75rem; }
+.project-pubs-list { display: grid; gap: 0.9rem; }
+.project-pubs-list li { font-size: 0.875rem; line-height: 1.5; color: var(--ink-2); overflow-wrap: anywhere; }
+.project-pubs-list strong { color: var(--ink); font-weight: 600; }
+.project-pubs-list a { color: var(--accent); }
