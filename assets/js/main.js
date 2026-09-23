@@ -10,6 +10,16 @@
     try { localStorage.setItem('theme', next); } catch (e) {}
   });
 
+  // Links zu anderen Webseiten (und PDFs) immer in einem neuen Tab öffnen
+  Array.prototype.forEach.call(document.querySelectorAll('a[href]'), function (a) {
+    var external = a.hostname && a.hostname !== location.hostname;
+    var file = /\.pdf($|[?#])/i.test(a.pathname);
+    if ((external || file) && !a.hasAttribute('download')) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+  });
+
   // Mobiles Menü
   var mbtn = document.querySelector('.menu-toggle');
   if (mbtn) mbtn.addEventListener('click', function () {
