@@ -1,0 +1,30 @@
+{{- /* Gibt eine APA-7-Zitation als HTML zurück (eigener Name fett, DOI als Link). Eingabe: ein Eintrag aus data/publications.yaml */ -}}
+{{- $p := . -}}
+{{- $me := site.Params.highlightAuthor -}}
+{{- $authors := $p.authors | htmlEscape -}}
+{{- with $me }}{{ $authors = replace $authors (htmlEscape .) (printf "<strong>%s</strong>" (htmlEscape .)) }}{{ end -}}
+{{- $vol := $p.volume | default "" -}}
+{{- $inpress := eq $vol "in press" -}}
+{{- $year := cond $inpress "in press" (string $p.year) -}}
+{{- $title := $p.title | htmlEscape -}}
+{{- if not (in (slice "?" "!" ".") (substr $title -1)) }}{{ $title = printf "%s." $title }}{{ end -}}
+{{- $link := "" -}}
+{{- with $p.doi }}{{ $link = printf "https://doi.org/%s" . }}{{ else }}{{ with $p.url }}{{ $link = . }}{{ end }}{{ end -}}
+{{- $src := $p.venue | htmlEscape -}}
+{{- if eq $p.type "article" -}}
+  {{- $src = printf "<i>%s</i>" $src -}}
+  {{- if and $vol (not $inpress) -}}
+    {{- if hasPrefix $vol "Advance" -}}
+      {{- $src = printf "%s. %s" $src $vol -}}
+    {{- else -}}
+      {{- $num := index (findRE `^[0-9]+` $vol) 0 | default "" -}}
+      {{- $rest := strings.TrimPrefix $num $vol -}}
+      {{- $src = printf "%s, <i>%s</i>%s" $src $num $rest -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not (in (slice "." "?" "!") (substr $src -1)) }}{{ $src = printf "%s." $src }}{{ end -}}
+{{- if eq $p.type "book" }}{{ $title = printf "<i>%s</i>" $title }}{{ end -}}
+{{- $out := printf "%s (%s). %s %s" $authors $year $title $src -}}
+{{- with $link }}{{ $out = printf "%s <a href=\"%s\">%s</a>" $out . . }}{{ end -}}
+{{- return ($out | safeHTML) -}}
