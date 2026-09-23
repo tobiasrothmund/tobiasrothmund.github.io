@@ -27,9 +27,13 @@
 {{- end -}}
 {{- if not (in (slice "." "?" "!") (substr $srcT -1)) }}{{ $srcT = printf "%s." $srcT }}{{ $srcH = printf "%s." $srcH }}{{ end -}}
 {{- $citeT := printf "%s (%s). %s %s" $p.authors $year $title $srcT -}}
-{{- $citeH := printf "%s (%s). %s %s" $p.authors $year $title $srcH -}}
+{{- $titleH := $title -}}
+{{- if eq $p.type "book" }}{{ $titleH = cond (eq $title (printf "%s." $p.title)) (printf "<i>%s</i>." $p.title) (printf "<i>%s</i>" $title) }}{{ end -}}
+{{- $citeH := printf "%s (%s). %s %s" $p.authors $year $titleH $srcH -}}
 {{- with $link }}{{ $citeT = printf "%s %s" $citeT . }}{{ $citeH = printf "%s %s" $citeH . }}{{ end -}}
-<li class="pub" data-type="{{ $p.type }}" data-search="{{ lower (printf "%s %s %s %v" $p.authors $p.title $p.venue $p.year) }}">
+<li class="pub{{ with $p.cover }} has-cover{{ end }}" data-type="{{ $p.type }}" data-search="{{ lower (printf "%s %s %s %v" $p.authors $p.title $p.venue $p.year) }}">
+  {{ with $p.cover }}<img class="pub-cover" src="{{ . | relURL }}" alt="Cover: {{ $p.title }}" loading="lazy" width="120" height="180">{{ end }}
+  <div class="pub-main">
   <p class="pub-title">{{ $p.title }}</p>
   <p class="pub-authors">{{ $authors | safeHTML }}</p>
   <p class="pub-venue">{{ if eq $p.type "article" }}<em>{{ $p.venue }}</em>{{ else }}{{ $p.venue }}{{ end }}{{ with $p.volume }}, {{ . }}{{ end }}{{ with $p.pages }}, {{ . }}{{ end }}</p>
@@ -38,5 +42,6 @@
     {{ with $p.pdf }}<a class="chip-link" href="{{ . | relURL }}">PDF</a>{{ end }}
     <button class="chip-link cite-btn" type="button" data-apa="{{ $citeT }}" data-apa-html="{{ $citeH }}" data-done="{{ i18n "copied" }}" title="APA 7">{{ i18n "cite" }}</button>
     {{ if $p.openaccess }}<span class="badge badge-oa">{{ i18n "openAccess" }}</span>{{ end }}
+  </div>
   </div>
 </li>
