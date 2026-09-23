@@ -6,6 +6,9 @@ period: "November 2023 – Oktober 2026"
 funding: "Bundesministerium für Bildung und Forschung (BMBF)"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Christian Thiel (Leitung)", "Dr. Christine Finn", "Arne Stolp, M. Sc."]
 weight: -1
+image: /images/projekte/a011123003.jpg
+imagealt: "Zwei Personen und ein Spiegel: Ein Mann hält einem anderen einen Spiegel vor, in dem dieser sich selbst betrachtet."
+imagepos: "50% 30%"
 summary: "Wie gut erkennen Menschen die eigene politische Voreingenommenheit und die anderer im Umgang mit wissenschaftlicher Evidenz – und kann eine Sensibilisierung dafür die Anfälligkeit für Desinformation verringern?"
 ---
 In einem interdisziplinären Forschungsprojekt untersuchen wir die individuelle Sensibilität für politische Voreingenommenheit (*Political Bias Awareness*) im Umgang mit wissenschaftlicher Evidenz zu gesellschaftlich-wissenschaftlichen Problemlagen (*Socio-Scientific Issues*) als metakognitive Überzeugung (*Metacognitive Belief*). Metakognitive Überzeugungen sind subjektive Annahmen dazu, wie das eigene Denken sowie das Denken anderer Menschen funktioniert, also das „Denken über das Denken“. Die Sensibilität für politische Voreingenommenheit beschreibt in diesem Sinne das individuelle Denken über die eigene politische Voreingenommenheit sowie die politische Voreingenommenheit von Anderen.
