@@ -11,6 +11,7 @@
       <dl>
         {{ with .Params.status }}<dt>{{ i18n "status" }}</dt><dd><span class="badge badge-{{ . }}">{{ i18n . }}</span></dd>{{ end }}
         {{ with .Params.period }}<dt>{{ i18n "period" }}</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.partners }}<dt>{{ i18n "partners" }}</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
         {{ with .Params.funding }}<dt>{{ i18n "funding" }}</dt><dd>{{ . }}</dd>{{ end }}
         {{ with .Params.team }}<dt>{{ i18n "team" }}</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
       </dl>
