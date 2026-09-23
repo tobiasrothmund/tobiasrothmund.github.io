@@ -6,6 +6,9 @@ period: "November 2023 – October 2026"
 funding: "Federal Ministry of Education and Research (BMBF)"
 team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Christian Thiel (lead)", "Dr. Christine Finn", "Arne Stolp, M. Sc."]
 weight: -1
+image: /images/projekte/a011123003.jpg
+imagealt: "Two people and a mirror: one man holds up a mirror in which the other looks at himself."
+imagepos: "50% 30%"
 summary: "How well do people recognise their own and others' political bias when dealing with scientific evidence – and can raising awareness of it reduce susceptibility to misinformation?"
 ---
 In an interdisciplinary research project, we study individual *political bias awareness* when dealing with scientific evidence on *socio-scientific issues*, understood as a *metacognitive belief*. Metacognitive beliefs are subjective assumptions about how one's own thinking and the thinking of others works – "thinking about thinking". Political bias awareness in this sense describes how individuals think about their own political bias and the political bias of others.
