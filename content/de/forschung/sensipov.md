@@ -5,7 +5,7 @@ status: running
 period: "November 2023 – Oktober 2026"
 funding: "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Christian Thiel (Leitung)", "Dr. Christine Finn", "Arne Stolp, M. Sc."]
-weight: -1
+weight: -2
 image: /images/projekte/a011123003.jpg
 imagealt: "Zwei Personen und ein Spiegel: Ein Mann hält einem anderen einen Spiegel vor, in dem dieser sich selbst betrachtet."
 imagepos: "50% 30%"
