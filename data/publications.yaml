@@ -267,6 +267,7 @@
   title: Was zeichnet Pandemieleugner*innen aus? – Eine Analyse politischer Einstellungen, kognitiver Stile und Mediennutzung
   venue: In Institut für Demokratie und Zivilgesellschaft (Hrsg.), Wissen schafft Demokratie. Schwerpunkt Demokratiegefährdungen in der Coronakrise (Band 9, S. 28–41)
   url: https://www.idz-jena.de/wsddet/wsd9-4/
+  openaccess: true
 
 - type: article
   year: 2021
@@ -341,6 +342,7 @@
   title: 'Systematically monitoring social media: The case of the German Federal Election 2017'
   venue: GESIS Papers 2018|04
   url: https://nbn-resolving.de/urn:nbn:de:0168-ssoar-56149-4
+  openaccess: true
 
 - type: chapter
   year: 2018
@@ -363,6 +365,7 @@
   venue: Journal of Media Psychology
   volume: 30, 53–65
   doi: 10.1027/1864-1105/a000177
+  openaccess: true
 
 - type: article
   year: 2018
