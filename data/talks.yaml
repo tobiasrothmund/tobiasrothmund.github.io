@@ -161,3 +161,20 @@
   lang: de
   url: https://www.welt.de/regionales/thueringen/article206873417/Medienpsychologe-warnt-vor-Fake-News-in-Corona-Krise.html
   summary: Mit dem Coronavirus verbreiten sich auch Falschinformationen in sozialen Netzwerken. Auch sie können der Gesundheit schaden – und niemand ist vor Fake News gefeit.
+
+- type: press
+  date: 2025-03-27
+  title: "Jenaer Forscher: Warum Menschen in der Politik ihren Gefühlen folgen"
+  venue: Thüringische Landeszeitung
+  lang: de
+  url: https://www.tlz.de/politik/article408642325/jenaer-forscher-warum-menschen-in-der-politik-ihren-gefuehlen-folgen.html
+  summary: Beitrag von Sebastian Haak. Als Direktor des Zentrums für Rechtsextremismusforschung der Universität Jena erläutert Tobias Rothmund, welche Rolle Gefühle bei politischen Entscheidungen spielen und was die Parteien daraus lernen sollten.
+  paywall: true
+
+- type: press
+  date: 2020-04-03
+  title: Warum Verschwörungstheorien und Fake News boomen
+  venue: Schwäbische Zeitung
+  lang: de
+  url: https://www.schwaebische.de/panorama/alternativen-zur-wirklichkeit-214589
+  summary: Beitrag von Dirk Grupe zu Beginn der Corona-Pandemie. Tobias Rothmund erklärt, warum Unsicherheit und Bedrohung das Informationsbedürfnis steigern und für fragwürdige Informationen anfällig machen – und warum man Quellen prüfen sollte, bevor man etwas teilt.
