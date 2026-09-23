@@ -1,9 +1,10 @@
 ---
-title: "EGSES24 – 2024 East German State Election Study"
+title: "OSLWO24 – Omnibus-Studie zur Landtagswahl in Ostdeutschland 2024"
 translationKey: egses24
 status: running
 period: "2024 – 2026"
 partners: ["KomRex (Universität Jena)", "Lehrstuhl für Sozialpsychologie (Universität Trier)"]
+funding: "Freistaat Thüringen und VolkswagenStiftung"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Carla Grosche", "Dr. Christine Finn", "Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
 weight: -3
 summary: "Eine längsschnittliche Befragung von 1200 Personen in Thüringen, Sachsen und Brandenburg vor und nach den Landtagswahlen 2024 – zu Ursachen und Folgen des Wahlverhaltens."
