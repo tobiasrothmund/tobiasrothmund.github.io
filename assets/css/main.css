@@ -438,3 +438,8 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
     -webkit-mask-image: linear-gradient(0deg, transparent 0%, #000 18%); mask-image: linear-gradient(0deg, transparent 0%, #000 18%); }
   .intro-text { padding: 1.5rem var(--gutter) 3rem; }
 }
+
+/* Publikationen: Buchcover */
+.pub.has-cover { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); gap: 1.5rem; align-items: start; }
+.pub-cover { width: 100%; height: auto; border-radius: 4px; box-shadow: 0 1px 2px rgb(0 0 0 / .08), 0 8px 24px -10px rgb(0 0 0 / .35); }
+@media (max-width: 640px) { .pub.has-cover { grid-template-columns: 5rem minmax(0, 1fr); gap: 1rem; } }
