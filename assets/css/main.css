@@ -303,12 +303,13 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 /* ── Forschung ──────────────────────────────────────────────── */
 .project-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
 .project-card a {
-  position: relative; display: flex; flex-direction: column; gap: 0.75rem; height: 100%;
-  padding: clamp(1.5rem, 3vw, 2rem); border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface);
+  position: relative; display: flex; flex-direction: column; height: 100%; overflow: hidden;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface);
   text-decoration: none; transition: border-color .2s, transform .2s, box-shadow .2s;
 }
+.project-body { position: relative; display: flex; flex-direction: column; gap: 0.75rem; flex: 1; padding: clamp(1.5rem, 3vw, 2rem); }
 .project-card a:hover { border-color: var(--line-strong); transform: translateY(-2px); box-shadow: 0 12px 30px -18px rgb(0 0 0 / .25); color: inherit; }
-.project-meta { display: flex; gap: 0.75rem; align-items: center; font-size: 0.875rem; }
+.project-meta { display: flex; flex-wrap: wrap; gap: 0.4rem 0.75rem; align-items: center; font-size: 0.875rem; padding-right: 2rem; }
 .project-title { font-size: 1.5rem; letter-spacing: -0.028em; line-height: 1.15; padding-right: 2rem; }
 .project-summary { color: var(--ink-2); }
 .project-funding { margin-top: auto; padding-top: 0.5rem; }
@@ -467,3 +468,19 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-logos img { display: block; width: auto; max-width: 100%; height: auto; max-height: 2.6rem; }
 .intro-logos .logo-komrex, .intro-logos .logo-imaginamics { max-height: 1.3rem; }
 @media (max-width: 880px) { .intro-logos { justify-content: start; gap: 1.25rem 2.5rem; } }
+
+/* Projektbilder (Forschung & Transfer) */
+.project-fig, .project-hero { margin: 0; position: relative; overflow: hidden; background: var(--hero-bg, #002f5d); }
+.project-fig { aspect-ratio: 16 / 9; border-bottom: 1px solid var(--line); }
+.project-fig img, .project-hero img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.project-card a:hover .project-fig img { transform: scale(1.02); }
+.project-fig img { transition: transform .4s; }
+.project-hero { aspect-ratio: 21 / 9; border-radius: var(--radius); margin-bottom: clamp(2rem, 4vw, 3rem); }
+.project-hero figcaption { position: absolute; right: 0; bottom: 0; padding: 0.35rem 0.7rem; font-size: 0.75rem; color: #fff; background: rgb(0 0 0 / .45); border-top-left-radius: 8px; }
+.is-fallback { display: grid; place-items: center; background:
+  radial-gradient(120% 140% at 100% 0%, rgb(255 255 255 / .16), transparent 55%),
+  linear-gradient(135deg, #002f5d 0%, #0b4a8a 100%); }
+.project-fallback { color: #fff; font-weight: 650; letter-spacing: -0.03em; font-size: clamp(1.75rem, 4vw, 2.75rem); opacity: .95; padding: 1rem; text-align: center; }
+.project-hero .project-fallback { font-size: clamp(2.5rem, 7vw, 5rem); }
+.project-hero.is-fallback { aspect-ratio: 4 / 1; }
+@media (max-width: 760px) { .project-hero { aspect-ratio: 16 / 9; } .project-hero.is-fallback { aspect-ratio: 3 / 1; } }
