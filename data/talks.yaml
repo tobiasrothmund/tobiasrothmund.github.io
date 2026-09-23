@@ -109,3 +109,47 @@
   url: https://www.soziopod.de/2013/12/soziopod1-01-mit-jun-prof-dr-tobias-rothmund-ueber-gewalt-in-medien-und-computerspielen/index.html
   summary: Ein Gespräch über den Forschungsstand zu Gewalt in Medien und Computerspielen – und darüber, was gewalthaltige Inhalte mit Aggression und dem Verhalten von Spielerinnen und Spielern zu tun haben.
   audio: true
+
+- type: tv
+  date: 2023-04-13
+  title: Inszenierte Kommunikation
+  venue: 3sat – scobel
+  lang: de
+  url: https://www.3sat.de/wissen/scobel/scobel---inszenierte-kommunikation-100.html
+  summary: Gesprächsrunde bei Gert Scobel über politische Kommunikation – von ikonischen Gesten bis zu missglückten Inszenierungen – und darüber, welche Formen der Vermittlung politischer Entscheidungen gelingen.
+  video: true
+  duration: 58 Min
+
+- type: interview
+  date: 2024-09-01
+  title: "Warum haben so viele Menschen für die AfD gestimmt? „Wen der Wandel stresst, wählt rechtskonservativ“"
+  venue: Der Tagesspiegel
+  lang: de
+  url: https://www.tagesspiegel.de/gesellschaft/warum-haben-so-viele-menschen-fur-die-afd-gestimmt-wen-der-wandel-stresst-wahlt-rechtskonservativ-12265748.html
+  summary: Im Interview mit Marie Rövekamp nach den Landtagswahlen in Sachsen und Thüringen – über Wahlentscheidungen als Form der Selbstermächtigung und warum das subjektive Empfinden von Veränderung oft entscheidender ist als die objektive Lage.
+  paywall: true
+
+- type: interview
+  date: 2024-08-30
+  title: "„Es hilft nicht, AfD-Wähler pauschal als Nazis zu beschimpfen“"
+  venue: WELT
+  lang: de
+  url: https://www.welt.de/wissenschaft/plus253223800/Psychologe-Es-hilft-nicht-AfD-Waehler-pauschal-als-Nazis-zu-beschimpfen.html
+  summary: Im Interview mit Gerald Wagner – über die Wirkung von Anschlägen wie in Solingen, die langen Nachwirkungen der Wende und die Frage, wie sich eine Radikalisierung der Gesellschaft aufhalten lässt.
+  paywall: true
+
+- type: press
+  date: 2024-04-01
+  title: "Experte: TV-Duell könnte CDU in ein Dilemma führen"
+  venue: dpa, u. a. Mitteldeutsche Zeitung
+  lang: de
+  url: https://www.mz.de/panorama/experte-tv-duell-konnte-cdu-in-ein-dilemma-fuhren-3816854
+  summary: Zum geplanten TV-Duell zwischen Mario Voigt (CDU) und Björn Höcke (AfD) vor der Thüringer Landtagswahl. Das Format nütze vor allem Höcke, weil es ihn in die Rolle eines ernst zu nehmenden politischen Gegners hebe.
+
+- type: interview
+  date: 2019-03-15
+  title: "Fridays for Future: „Greta inspiriert dazu, es ihr gleichzutun“"
+  venue: Frankfurter Allgemeine Zeitung
+  lang: de
+  url: https://www.faz.net/aktuell/politik/fridays-for-future-wieso-ist-greta-thunberg-so-erfolgreich-16088880.html
+  summary: Im Interview mit Rebecca Reinhard über die Rolle von Vorbildern – warum Greta Thunberg so viele Jugendliche mobilisiert und was sie mit Donald Trump gemeinsam hat.
