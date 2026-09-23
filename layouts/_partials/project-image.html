@@ -1,0 +1,12 @@
+{{- /* Projektbild: Front-Matter-Feld "image" (Pfad unter static/, z. B. /images/projekte/sensipov.jpg),
+       optional "imagecaption". Ohne Bild erscheint eine blaue Grafik mit dem Kurznamen ("short"). */ -}}
+{{- $p := .page -}}
+{{- $short := $p.Params.short | default (cond (in $p.Title " – ") (index (split $p.Title " – ") 0) "") -}}
+<figure class="{{ .class }}{{ if not $p.Params.image }} is-fallback{{ end }}">
+  {{- with $p.Params.image }}
+  <img src="{{ . | relURL }}" alt="{{ $p.Params.imagealt | default $p.Title }}" loading="lazy">
+  {{- else }}
+  {{ with $short }}<span class="project-fallback" aria-hidden="true">{{ . }}</span>{{ end }}
+  {{- end }}
+  {{- if eq .class "project-hero" }}{{ with $p.Params.imagecaption }}<figcaption>{{ . }}</figcaption>{{ end }}{{ end }}
+</figure>
