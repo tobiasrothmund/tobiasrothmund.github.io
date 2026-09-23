@@ -8,7 +8,11 @@
     <h1 class="intro-name">{{ site.Params.name }}</h1>
     {{ with .Params.lead }}<p class="intro-lead">{{ . }}</p>{{ end }}
     <div class="intro-bio">{{ .Content }}</div>
-    <div class="intro-links">{{ partial "social.html" . }}</div>
+    {{ with .Params.logos }}
+    <ul class="intro-logos">
+      {{ range . }}<li><img class="logo-{{ .id }}" src="{{ .img | relURL }}" alt="{{ .alt }}"></li>{{ end }}
+    </ul>
+    {{ end }}
   </div>
   {{ with $hero }}<div class="intro-photo"><img class="intro-img" src="{{ . | relURL }}" alt="{{ site.Params.name }}"></div>{{ end }}
 </section>
