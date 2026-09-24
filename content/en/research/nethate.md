@@ -22,6 +22,6 @@ At the Department of Communication Science at the University of Jena, doctoral r
 
 1. systematically reviewed existing research on predictors of and interventions against online hate speech,
 2. experimentally investigated the dynamic causes of online hate – with a particular focus on individuals' social and ideological characteristics – and
-3. building on these causes, designed an online intervention and tested its effectiveness.
+3. building on these causes, designed an online intervention and tested its effectiveness (see [intervention map](/en/transfer/interventionsatlas/)).
 
 Further information is available on the [NETHATE network website](https://nethate-itn.eu/).
