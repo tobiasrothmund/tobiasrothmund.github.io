@@ -4,7 +4,7 @@
 {{- $short := $p.Params.short | default (cond (in $p.Title " – ") (index (split $p.Title " – ") 0) "") -}}
 <figure class="{{ .class }}{{ if not $p.Params.image }} is-fallback{{ end }}">
   {{- with $p.Params.image }}
-  <img src="{{ . | relURL }}" alt="{{ $p.Params.imagealt | default $p.Title }}" loading="lazy">
+  <img src="{{ . | relURL }}" alt="{{ $p.Params.imagealt | default $p.Title }}" loading="lazy"{{ with $p.Params.imagefit }} style="object-fit:{{ . }};background:#fff;padding:0.5rem;box-sizing:border-box"{{ end }}>
   {{- else }}
   {{ with $short }}<span class="project-fallback" aria-hidden="true">{{ . }}</span>{{ end }}
   {{- end }}
