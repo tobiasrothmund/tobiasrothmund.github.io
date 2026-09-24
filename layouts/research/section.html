@@ -2,7 +2,7 @@
 {{ partial "page-head.html" . }}
 <div class="wrap">
   {{ with .Content }}<div class="prose intro">{{ . }}</div>{{ end }}
-  {{ $pages := .Pages.ByWeight }}
+  {{ $pages := .Pages.ByDate.Reverse }}
   {{ with .Params.categories }}
   <div class="toolbar" data-filter-root>
     <div class="chips" role="group">
