@@ -1,6 +1,7 @@
 ---
 title: "Motivated biases in the reception of empirical research findings: The role of social identity and moral values"
 short: "Motivated science reception"
+date: 2011-01-01
 translationKey: motivierte-wissenschaftsrezeption
 status: completed
 period: "2011 – 2015"
