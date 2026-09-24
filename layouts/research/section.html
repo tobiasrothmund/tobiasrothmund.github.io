@@ -4,16 +4,17 @@
   {{ with .Content }}<div class="prose intro">{{ . }}</div>{{ end }}
   {{ $pages := .Pages.ByWeight }}
   {{ with .Params.categories }}
-    {{ range . }}
-    <div class="project-category">
-      <h2 style="font-size:1.5rem;letter-spacing:-0.02em;margin:2.5rem 0 1.25rem">{{ .label }}</h2>
-      {{ with where $pages "Params.category" .key }}
-        {{ partial "project-cards.html" (dict "pages" . "cats" $.Params.categories) }}
-      {{ else }}
-        <p class="muted">{{ $.Params.emptytext | default "…" }}</p>
+  <div class="toolbar" data-filter-root>
+    <div class="chips" role="group">
+      <button class="chip is-active" data-filter="all" type="button">{{ i18n "all" }} <span class="count">{{ len $pages }}</span></button>
+      {{ range . }}<button class="chip" data-filter="{{ .key }}" type="button">{{ .label }} <span class="count">{{ len (where $pages "Params.category" .key) }}</span></button>
       {{ end }}
     </div>
-    {{ end }}
+  </div>
+  <div data-filter-list>
+    {{ partial "project-cards.html" (dict "pages" $pages "cats" .) }}
+    <p class="no-results muted" hidden>{{ $.Params.emptytext | default (i18n "noResults") }}</p>
+  </div>
   {{ else }}
     {{ partial "project-cards.html" (dict "pages" $pages) }}
   {{ end }}
