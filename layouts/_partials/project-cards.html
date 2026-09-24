@@ -2,7 +2,7 @@
 {{- $cats := .cats | default slice -}}
 <ul class="project-grid">
   {{ range .pages }}{{ $p := . }}
-  <li class="project-card">
+  <li class="project-card"{{ with .Params.category }} data-type="{{ . }}"{{ end }}>
     <a href="{{ .RelPermalink }}">
       {{ partial "project-image.html" (dict "page" . "class" "project-fig") }}
       <div class="project-body">
