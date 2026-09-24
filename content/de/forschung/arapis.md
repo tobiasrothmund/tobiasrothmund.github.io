@@ -1,5 +1,6 @@
 ---
 title: "ARAPiS – Internationale Studierende und der Thüringer Arbeitsmarkt"
+date: 2024-07-01
 translationKey: arapis
 status: completed
 period: "Juli 2024 – Dezember 2025"
