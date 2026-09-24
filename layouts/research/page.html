@@ -6,9 +6,14 @@
     {{ with .Params.summary }}<p class="page-lead">{{ . }}</p>{{ end }}
   </header>
   <div class="wrap with-aside">
-    <div class="prose">{{ .Content }}</div>
+    <div class="prose">
+      {{- if eq .Params.imageposition "main" }}{{ with .Params.image }}
+      <figure class="project-hero" style="aspect-ratio:auto;background:#fff;border:1px solid var(--line)"><img src="{{ . | relURL }}" alt="{{ $.Params.imagealt | default $.Title }}" style="height:auto">{{ with $.Params.imagecaption }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>
+      {{- end }}{{ end }}
+      {{ .Content }}
+    </div>
     <aside class="facts">
-      {{ partial "project-image.html" (dict "page" . "class" "project-hero") }}
+      {{ if ne .Params.imageposition "main" }}{{ partial "project-image.html" (dict "page" . "class" "project-hero") }}{{ end }}
       <dl>
         {{ with .Params.status }}<dt>{{ i18n "status" }}</dt><dd><span class="badge badge-{{ . }}">{{ i18n . }}</span></dd>{{ end }}
         {{ with .Params.period }}<dt>{{ $.Params.periodlabel | default (i18n "period") }}</dt><dd>{{ . }}</dd>{{ end }}
