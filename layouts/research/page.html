@@ -11,11 +11,13 @@
       {{ partial "project-image.html" (dict "page" . "class" "project-hero") }}
       <dl>
         {{ with .Params.status }}<dt>{{ i18n "status" }}</dt><dd><span class="badge badge-{{ . }}">{{ i18n . }}</span></dd>{{ end }}
-        {{ with .Params.period }}<dt>{{ i18n "period" }}</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.period }}<dt>{{ $.Params.periodlabel | default (i18n "period") }}</dt><dd>{{ . }}</dd>{{ end }}
         {{ with .Params.partners }}<dt>{{ i18n "partners" }}</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
-        {{ with .Params.funding }}<dt>{{ i18n "funding" }}</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.partnerlogos }}<dd class="team-logos" style="display:flex;flex-wrap:wrap;gap:0.75rem;margin-top:0.6rem">{{ range . }}{{ if .link }}<a href="{{ .link }}" target="_blank" rel="noopener" title="{{ .alt }}">{{ end }}<img src="{{ .img | relURL }}" alt="{{ .alt }}" style="display:block;height:88px;width:auto">{{ if .link }}</a>{{ end }}{{ end }}</dd>{{ end }}
+        {{ with .Params.funding }}<dt>{{ i18n "funding" }}</dt><dd>{{ . | markdownify }}</dd>{{ end }}
         {{ with .Params.team }}<dt>{{ i18n "team" }}</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
         {{ with .Params.teamlogos }}<dd class="team-logos" style="display:flex;flex-wrap:wrap;gap:0.75rem;margin-top:0.6rem">{{ range . }}{{ if .link }}<a href="{{ .link }}" target="_blank" rel="noopener" title="{{ .alt }}">{{ end }}<img src="{{ .img | relURL }}" alt="{{ .alt }}" style="display:block;height:88px;width:auto">{{ if .link }}</a>{{ end }}{{ end }}</dd>{{ end }}
+        {{ with .Params.website }}<dt>{{ $.Params.websitelabel | default "Website" }}</dt><dd><a href="{{ . }}" target="_blank" rel="noopener">{{ $.Params.websitetext | default . }}</a></dd>{{ end }}
       </dl>
       {{- $refs := .Params.publications | default slice -}}
       {{- if or $refs (in (slice "forschung" "research") .Section) }}
