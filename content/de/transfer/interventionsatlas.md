@@ -18,6 +18,7 @@ weight: 1
 image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2013.38.38.png"
 imagealt: "Grafik des Interventionsatlas: Handlungsfelder Regulierung, Prävention & Bildung, Kommunikation, Nachsorge und Analyse – bevor, während und nachdem Hass im Netz passiert – sowie Wissenstransfer & Zusammenarbeit"
 imagefit: contain
+imageposition: main
 summary: "Dieser interaktive Interventionsatlas bietet einen strukturierten Überblick über die zahlreichen Bereiche, in denen Intervention und Prävention gegen Hass im Netz stattfinden, und unterstützt beim Auffinden geeigneter Maßnahmen."
 ---
 Der Atlas entstand 2023 im Rahmen des Forschungsprojekts [NetHate](/forschung/nethate/) in Zusammenarbeit mit Das NETTZ und media designers schultz+schultz.
