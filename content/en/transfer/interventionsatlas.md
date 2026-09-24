@@ -1,6 +1,6 @@
 ---
-title: "Intervention atlas against online hate – a guide through the jungle of measures"
-short: "Intervention atlas"
+title: "Intervention map against online hate – a guide through the jungle of measures"
+short: "Intervention map"
 translationKey: interventionsatlas
 status: completed
 period: "2023"
@@ -11,16 +11,16 @@ partnerlogos:
     alt: "Das NETTZ logo"
     link: "https://www.das-nettz.de/"
 funding: "[NETHATE project](/en/research/nethate/)"
-website: "https://toneshift.org/interventionsatlas/"
+website: "https://nethate-itn.eu/applications/"
 websitelabel: "Link"
-websitetext: "Go to the intervention atlas"
+websitetext: "Go to the intervention map"
 weight: 1
-image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2013.38.38.png"
-imagealt: "Graphic of the intervention atlas: fields of action regulation, prevention & education, communication, aftercare and analysis – before, during and after online hate occurs – plus knowledge transfer & cooperation"
+image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2015.37.21.png"
+imagealt: "Graphic of the intervention map: fields of action legal regulation, prevention & education, communication, support and analysis – before, during and after a hate speech act – plus transactional"
 imagefit: contain
 imageposition: main
-summary: "This interactive intervention atlas provides a structured overview of the many areas in which intervention and prevention against online hate take place, and helps users find suitable measures."
+summary: "This interactive intervention map provides a structured overview of the many areas in which intervention and prevention against online hate take place, and helps users find suitable measures."
 ---
-The atlas was created in 2023 as part of the research project [NetHate](/en/research/nethate/) in cooperation with Das NETTZ and media designers schultz+schultz.
+The intervention map was created in 2023 as part of the research project [NetHate](/en/research/nethate/) in cooperation with Das NETTZ and media designers schultz+schultz.
 
-[Go to the intervention atlas →](https://toneshift.org/interventionsatlas/)
+[Go to the intervention map →](https://nethate-itn.eu/applications/)
