@@ -5,11 +5,11 @@ type: about
 url: /about/
 ---
 
-Tobias Rothmund ist Professor für Medien- und Kommunikationspsychologie an der Friedrich-Schiller-Universität Jena. *(Bitte hier eine ausführliche Kurzbiografie einfügen.)*
+Tobias Rothmund ist Professor für Kommunikations- und Medienpsychologie an der Friedrich-Schiller-Universität Jena. *(Bitte hier eine ausführliche Kurzbiografie einfügen.)*
 
 ## Werdegang
 
-- **seit 20XX** – Professur für Medien- und Kommunikationspsychologie, Universität Jena
+- **seit 20XX** – Professur für Kommunikations- und Medienpsychologie, Universität Jena
 - **20XX–20XX** – Station (Beispiel)
 - **20XX** – Promotion (Beispiel)
 
