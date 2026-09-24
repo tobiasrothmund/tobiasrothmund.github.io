@@ -1,5 +1,6 @@
 ---
 title: "EGSES24 – 2024 East German State Election Study"
+date: 2024-08-01
 translationKey: egses24
 status: running
 period: "2024 – 2026"
