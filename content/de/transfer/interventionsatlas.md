@@ -1,6 +1,7 @@
 ---
 title: "Interventionsatlas gegen Hass im Netz – eine Navigationshilfe durch den Maßnahmendschungel"
 short: "Interventionsatlas"
+date: 2023-01-01
 translationKey: interventionsatlas
 category: digital
 period: "2023"
