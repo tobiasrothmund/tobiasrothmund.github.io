@@ -1,0 +1,21 @@
+{{- /* Projektkarten. Parameter: pages (Seiten), cats (optional: Kategorien aus dem Abschnitt, Liste mit key/label/badge). */ -}}
+{{- $cats := .cats | default slice -}}
+<ul class="project-grid">
+  {{ range .pages }}{{ $p := . }}
+  <li class="project-card">
+    <a href="{{ .RelPermalink }}">
+      {{ partial "project-image.html" (dict "page" . "class" "project-fig") }}
+      <div class="project-body">
+        <p class="project-meta">
+          {{ with .Params.category }}{{ $k := . }}{{ range where $cats "key" $k }}<span class="badge badge-talk">{{ .badge | default .label }}</span>{{ end }}{{ else }}<span class="badge badge-{{ $p.Params.status }}">{{ i18n ($p.Params.status | default "running") }}</span>{{ end }}
+          {{ with .Params.period }}<span class="muted">{{ . }}</span>{{ end }}
+        </p>
+        <h2 class="project-title">{{ .Title }}</h2>
+        {{ with .Params.summary }}<p class="project-summary">{{ . }}</p>{{ end }}
+        {{ with .Params.funding }}<p class="project-funding muted small">{{ i18n "funding" }}: {{ . | markdownify | plainify }}</p>{{ end }}
+        <span class="arrow" aria-hidden="true">→</span>
+      </div>
+    </a>
+  </li>
+  {{ end }}
+</ul>
