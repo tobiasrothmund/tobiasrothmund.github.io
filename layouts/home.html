@@ -17,16 +17,20 @@
   {{ with $hero }}<div class="intro-photo"><img class="intro-img" src="{{ . | relURL }}" alt="{{ site.Params.name }}"></div>{{ end }}
 </section>
 
-{{ with .Params.focus }}
+{{ $r := site.GetPage (cond $de "/forschung" "/research") }}
+{{ with $r }}
 <section class="wrap block">
-  {{ $r := site.GetPage (cond $de "/forschung" "/research") }}
-  {{ partial "section-head.html" (dict "title" (i18n "researchFocus") "link" $r.RelPermalink "label" (i18n "allProjects")) }}
+  {{ partial "section-head.html" (dict "title" (cond $de "Forschungsprojekte" "Research projects") "link" .RelPermalink "label" (i18n "allProjects")) }}
   <ol class="focus-grid">
-    {{ range $i, $f := . }}
-    <li class="focus-card">
-      <span class="focus-num">{{ printf "%02d" (add $i 1) }}</span>
-      <h3>{{ $f.title }}</h3>
-      <p>{{ $f.text }}</p>
+    {{ range first 3 .Pages.ByWeight }}
+    <li class="focus-card" style="padding:0;gap:0;min-height:0">
+      <a href="{{ .RelPermalink }}" style="display:flex;flex-direction:column;height:100%;color:inherit;text-decoration:none">
+        {{ partial "project-image.html" (dict "page" . "class" "project-fig") }}
+        <div style="padding:clamp(1.25rem, 2.5vw, 1.75rem);display:flex;flex-direction:column;gap:0.6rem">
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+        </div>
+      </a>
     </li>
     {{ end }}
   </ol>
