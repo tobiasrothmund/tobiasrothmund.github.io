@@ -22,6 +22,6 @@ Am Institut für Kommunikationswissenschaft der Universität Jena untersuchten V
 
 1. die bestehende Forschung zu Prädiktoren von und Interventionen gegen Online-Hassrede systematisch aufgearbeitet,
 2. die dynamischen Ursachen von Online-Hass experimentell untersucht – mit besonderem Augenmerk auf soziale und ideologische Merkmale der Individuen – und
-3. auf dieser Grundlage eine Online-Intervention entworfen und auf ihre Wirksamkeit geprüft.
+3. auf dieser Grundlage eine Online-Intervention entworfen und auf ihre Wirksamkeit geprüft (siehe [Interventionsatlas](/transfer/interventionsatlas/)).
 
 Weitere Informationen bietet die [Website des NETHATE-Netzwerks](https://nethate-itn.eu/).
