@@ -5,11 +5,11 @@ type: about
 url: /en/about/
 ---
 
-Tobias Rothmund is Professor of Media and Communication Psychology at Friedrich Schiller University Jena. *(Please add a full short biography here.)*
+Tobias Rothmund is Professor for Psychology of Communication and Media Use at Friedrich Schiller University Jena. *(Please add a full short biography here.)*
 
 ## Career
 
-- **since 20XX** – Professor of Media and Communication Psychology, University of Jena
+- **since 20XX** – Professor for Psychology of Communication and Media Use, University of Jena
 - **20XX–20XX** – Position (example)
 - **20XX** – PhD (example)
 
