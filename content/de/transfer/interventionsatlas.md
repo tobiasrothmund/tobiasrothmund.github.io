@@ -5,7 +5,7 @@ translationKey: interventionsatlas
 status: completed
 period: "2023"
 periodlabel: "Umsetzung"
-partners: ["Vladimir Bojarskich (Leitung)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "media designers schultz+schultz"]
+partners: ["Vladimir Bojarskich (Leitung)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "[media designers schultz+schultz](https://www.schultzundschultz.at/)"]
 partnerlogos:
   - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
     alt: "Logo Das NETTZ"
@@ -21,6 +21,6 @@ imagefit: contain
 imageposition: main
 summary: "Dieser interaktive Interventionsatlas bietet einen strukturierten Überblick über die zahlreichen Bereiche, in denen Intervention und Prävention gegen Hass im Netz stattfinden, und unterstützt beim Auffinden geeigneter Maßnahmen."
 ---
-Der Atlas entstand 2023 im Rahmen des Forschungsprojekts [NetHate](/forschung/nethate/) in Zusammenarbeit mit Das NETTZ und media designers schultz+schultz.
+Der Atlas entstand 2023 im Rahmen des Forschungsprojekts [NetHate](/forschung/nethate/) in Zusammenarbeit mit Das NETTZ und [media designers schultz+schultz](https://www.schultzundschultz.at/).
 
 [Zum Interventionsatlas →](https://toneshift.org/interventionsatlas/)
