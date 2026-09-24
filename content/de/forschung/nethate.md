@@ -7,6 +7,7 @@ partners: ["Network of Excellence for Training on Hate (NETHATE): 15 Forschungst
 funding: "EU Horizon 2020, Marie Skłodowska-Curie Actions (Grant Nr. 861047)"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Vladimir Bojarskich"]
 weight: 0
+publications: ["10.1515/commun-2024-0097", "10.5817/CP2026-3-1", "Ideological differences in harm-based moral judgments of toxic speech"]
 summary: "Kommunikative Dynamiken und Präventionsansätze: Wie entsteht Online-Hass in polarisierten politischen Debatten – und wie lässt er sich verhindern? Ein Teilprojekt im europäischen Marie-Skłodowska-Curie-Netzwerk NETHATE."
 ---
 Online- und Offline-Hass stellen eine ernsthafte Gefahr für direkte Opfer sowie für das soziale und politische Miteinander demokratischer Gesellschaften dar. Das [Network of Excellence for Training on Hate (NETHATE)](https://nethate-itn.eu/), finanziert durch das Horizon-2020-Programm der Europäischen Union (Grant Nr. 861047), ermöglichte die übergreifende Zusammenarbeit von 15 Forschungsteams mit dem Ziel, die Entstehung, Dynamik und Verbreitung von Hassrede zu verstehen und Strategien zur Schadensbegrenzung für Opfer, Anwesende und demokratische Institutionen zu entwickeln. Jedes Projekt innerhalb von NETHATE trug mit einem eigenen Forschungsvorhaben bei. Insgesamt umfasste NETHATE 15 Nachwuchswissenschaftler\*innen und ihre Betreuer\*innen, verteilt auf 10 Universitäten und eine Nichtregierungsorganisation (NGO), in Kooperation mit 14 Partnerorganisationen – darunter Ministerien, Unternehmen und NGOs.
