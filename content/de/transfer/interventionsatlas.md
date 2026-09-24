@@ -15,7 +15,7 @@ website: "https://toneshift.org/interventionsatlas/"
 websitelabel: "Link"
 websitetext: "Zum Interventionsatlas"
 weight: 1
-image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2013.38.38.png"
+image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2015.46.54.png"
 imagealt: "Grafik des Interventionsatlas: Handlungsfelder Regulierung, Prävention & Bildung, Kommunikation, Nachsorge und Analyse – bevor, während und nachdem Hass im Netz passiert – sowie Wissenstransfer & Zusammenarbeit"
 imagefit: contain
 imageposition: main
