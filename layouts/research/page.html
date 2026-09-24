@@ -15,6 +15,7 @@
     <aside class="facts">
       {{ if ne .Params.imageposition "main" }}{{ partial "project-image.html" (dict "page" . "class" "project-hero") }}{{ end }}
       <dl>
+        {{ with .Params.category }}{{ $k := . }}{{ range where ($.Parent.Params.categories | default slice) "key" $k }}<dt>{{ $.Parent.Params.categorytitle | default "Kategorie" }}</dt><dd><span class="badge badge-talk">{{ .badge | default .label }}</span></dd>{{ end }}{{ end }}
         {{ with .Params.status }}<dt>{{ i18n "status" }}</dt><dd><span class="badge badge-{{ . }}">{{ i18n . }}</span></dd>{{ end }}
         {{ with .Params.period }}<dt>{{ $.Params.periodlabel | default (i18n "period") }}</dt><dd>{{ . }}</dd>{{ end }}
         {{ with .Params.partners }}<dt>{{ i18n "partners" }}</dt><dd>{{ delimit . ", " | markdownify }}</dd>{{ end }}
