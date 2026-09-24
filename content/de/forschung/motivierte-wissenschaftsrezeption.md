@@ -8,6 +8,9 @@ partners: ["Philipps-Universität Marburg", "Universität Koblenz-Landau", "DFG-
 funding: "Deutsche Forschungsgemeinschaft (DFG), RO 4248/1-2"
 team: ["Prof. Dr. Mario Gollwitzer (Standortleitung Marburg)", "Prof. Dr. Tobias Rothmund (Standortleitung Landau)", "Peter Nauroth", "Jens Bender"]
 weight: 1
+image: "/images/projekte/logo%20(1).png"
+imagealt: "Logo des DFG-Schwerpunktprogramms 1409 „Science and the Public – Wissenschaft & Öffentlichkeit“"
+imagefit: contain
 publications: ["The Sensitivity to Mean Intentions (SeMI) model: Basic assumptions, recent findings, and potential avenues for future research", "Biased estimation of violent video game effects on aggression: Contributing factors and boundary conditions", "10.1002/ejsp.1998", "https://www.hogrefe.de/shop/neue-medien-und-deren-schatten-66434.html", "10.1002/ejsp.2125", "10.1371/journal.pone.0117476", "10.1177/0146167216671518", "10.1177/0963662516631289", "10.1026/0033-3042/a000364", "Does exposure to violence in entertainment media make people aggressive?"]
 summary: "Warum lehnen Menschen wissenschaftliche Befunde ab, wenn diese ihre Identität oder ihre moralischen Überzeugungen berühren? Ein DFG-Projekt am Beispiel der Debatte um gewalthaltige Computerspiele."
 ---
