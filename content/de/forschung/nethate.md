@@ -1,5 +1,6 @@
 ---
 title: "NetHate – Online-Hassrede in polarisierten politischen Kontroversen"
+date: 2021-02-01
 translationKey: nethate
 status: completed
 period: "Februar 2021 – Januar 2024"
