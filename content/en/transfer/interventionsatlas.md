@@ -18,6 +18,7 @@ weight: 1
 image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2013.38.38.png"
 imagealt: "Graphic of the intervention atlas: fields of action regulation, prevention & education, communication, aftercare and analysis – before, during and after online hate occurs – plus knowledge transfer & cooperation"
 imagefit: contain
+imageposition: main
 summary: "This interactive intervention atlas provides a structured overview of the many areas in which intervention and prevention against online hate take place, and helps users find suitable measures."
 ---
 The atlas was created in 2023 as part of the research project [NetHate](/en/research/nethate/) in cooperation with Das NETTZ and media designers schultz+schultz.
