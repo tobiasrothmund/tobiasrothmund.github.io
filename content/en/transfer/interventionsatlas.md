@@ -2,7 +2,7 @@
 title: "Intervention map against online hate – a guide through the jungle of measures"
 short: "Intervention map"
 translationKey: interventionsatlas
-status: completed
+category: digital
 period: "2023"
 periodlabel: "Implementation"
 partners: ["Vladimir Bojarskich (lead)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "[media designers schultz+schultz](https://www.schultzundschultz.at/)"]
