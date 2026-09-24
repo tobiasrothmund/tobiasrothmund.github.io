@@ -7,6 +7,12 @@ partners: ["Network of Excellence for Training on Hate (NETHATE): 15 Forschungst
 funding: "EU Horizon 2020, Marie Skłodowska-Curie Actions (Grant Nr. 861047)"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Vladimir Bojarskich"]
 weight: 0
+image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2010.50.20.png"
+imagealt: "Illustration: Eine Person sitzt zusammengekauert neben einem Laptop mit Chatnachrichten, auf sie zeigen mehrere Finger"
+teamlogos:
+  - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
+    alt: "Logo Das NETTZ"
+    link: "https://www.das-nettz.de/"
 publications: ["10.1515/commun-2024-0097", "10.5817/CP2026-3-1", "Ideological differences in harm-based moral judgments of toxic speech"]
 summary: "Kommunikative Dynamiken und Präventionsansätze: Wie entsteht Online-Hass in polarisierten politischen Debatten – und wie lässt er sich verhindern? Ein Teilprojekt im europäischen Marie-Skłodowska-Curie-Netzwerk NETHATE."
 ---
