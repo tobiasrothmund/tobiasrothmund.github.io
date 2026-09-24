@@ -2,7 +2,7 @@
 title: "Interventionsatlas gegen Hass im Netz – eine Navigationshilfe durch den Maßnahmendschungel"
 short: "Interventionsatlas"
 translationKey: interventionsatlas
-status: completed
+category: digital
 period: "2023"
 periodlabel: "Umsetzung"
 partners: ["Vladimir Bojarskich (Leitung)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "[media designers schultz+schultz](https://www.schultzundschultz.at/)"]
