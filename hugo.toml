@@ -61,9 +61,9 @@ timeZone = "Europe/Berlin"
     weight = 1
     title = "Tobias Rothmund"
     [languages.de.params]
-      role = "Professor für Medien- und Kommunikationspsychologie"
+      role = "Professor für Kommunikations- und Medienpsychologie"
       affiliation = "Friedrich-Schiller-Universität Jena"
-      description = "Forschung, Publikationen und Blog von Tobias Rothmund – Medien- und Kommunikationspsychologie, Universität Jena."
+      description = "Forschung, Publikationen und Blog von Tobias Rothmund – Kommunikations- und Medienpsychologie, Universität Jena."
     [[languages.de.menus.main]]
       name = "Forschung"
       pageRef = "/forschung"
@@ -104,9 +104,9 @@ timeZone = "Europe/Berlin"
     weight = 2
     title = "Tobias Rothmund"
     [languages.en.params]
-      role = "Professor of Media and Communication Psychology"
+      role = "Professor for Psychology of Communication and Media Use"
       affiliation = "Friedrich Schiller University Jena"
-      description = "Research, publications and blog of Tobias Rothmund – media and communication psychology, University of Jena."
+      description = "Research, publications and blog of Tobias Rothmund – psychology of communication and media use, University of Jena."
     [[languages.en.menus.main]]
       name = "Research"
       pageRef = "/research"
