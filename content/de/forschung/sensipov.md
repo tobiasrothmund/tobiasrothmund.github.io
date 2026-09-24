@@ -1,5 +1,6 @@
 ---
 title: "SensipoV – Sensibilisierung für politische Voreingenommenheit"
+date: 2023-11-01
 translationKey: sensipov
 status: running
 period: "November 2023 – Oktober 2026"
