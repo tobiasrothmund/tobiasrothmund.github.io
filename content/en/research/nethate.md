@@ -7,8 +7,9 @@ partners: ["Network of Excellence for Training on Hate (NETHATE): 15 research te
 funding: "EU Horizon 2020, Marie Skłodowska-Curie Actions (grant no. 861047)"
 team: ["Prof. Dr. Tobias Rothmund (lead)", "Vladimir Bojarskich"]
 weight: 0
-image: "/images/projekte/Bildschirmfoto%202026-09-24%20um%2010.50.20.png"
-imagealt: "Illustration: a person sits huddled next to a laptop with chat messages while several fingers point at them"
+image: "/images/projekte/Hasskommentar_dpa-photothek-Thomas-Trutschelphotothek.de_2000_256490222.jpg"
+imagealt: "Screenshot detail of a hateful comment on social media with reaction emojis and the cursor on “Like”"
+imagecaption: "Photo: Thomas Trutschel / photothek / dpa"
 teamlogos:
   - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
     alt: "Das NETTZ logo"
