@@ -9,6 +9,9 @@ partners: ["Universität Koblenz-Landau", "Johannes Gutenberg-Universität Mainz
 funding: "VolkswagenStiftung, Förderinitiative „Science – Public – Society“"
 team: ["Prof. Dr. Mario Gollwitzer (Antragsteller)", "Prof. Dr. Christoph Klimmt (Antragsteller, Kontaktperson)", "Prof. Dr. Tobias Rothmund (Antragsteller, Leitung Team Landau)", "Prof. Dr. Brad J. Bushman (Kooperationspartner, US-Teilstudien)"]
 weight: 2
+image: "/images/projekte/viscom_2c_subline.jpg"
+imagealt: "Logo des Projekts VISCOM – violent video games and science communication"
+imagefit: contain
 publications: ["Psychologische Forschung zur Wirkung gewalthaltiger Videospiele. Ein Überblick", "Kämpfen und „Killen“ in Computerspielen: Ergebnisse der Medienwirkungsforschung und Folgerungen für die Gewaltprävention", "Implicit measures and media effects research: Challenges and opportunities", "Exploring audience judgments of social science in media discourse: The case of the violent video games debate", "Gründe und Konsequenzen einer verzerrten Darstellung und Wahrnehmung sozialwissenschaftlicher Forschungsbefunde: Das Beispiel der Killerspiele-Debatte", "Wie Journalisten mit sozialwissenschaftlicher Evidenz umgehen: Erkenntnisse aus einem Workshop"]
 summary: "Warum weicht die Berichterstattung über Forschung zu Gewalt in Videospielen so oft vom wissenschaftlichen Erkenntnisstand ab? Ein Projekt der VolkswagenStiftung zur Kommunikation zwischen Sozialwissenschaft, Journalismus und Öffentlichkeit."
 ---
