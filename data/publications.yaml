@@ -543,8 +543,8 @@
   authors: Gollwitzer, M., Rothmund, T., Klimmt, C., Nauroth, P., & Bender, J.
   title: 'Gründe und Konsequenzen einer verzerrten Darstellung und Wahrnehmung sozialwissenschaftlicher Forschungsbefunde: Das Beispiel der Killerspiele-Debatte'
   venue: Zeitschrift für Erziehungswissenschaft
-  volume: 17(4), 101–117
-  url: https://www.springer.com/de/book/9783658057961
+  volume: 17(S4), 101–117
+  doi: 10.1007/s11618-014-0511-8
 
 - type: article
   year: 2014
@@ -603,6 +603,7 @@
   title: 'Exploring audience judgments of social science in media discourse: The case of the violent video games debate'
   venue: Journal of Media Psychology
   volume: 25(1), 27–38
+  doi: 10.1027/1864-1105/a000077
 
 - type: chapter
   year: 2013
@@ -652,10 +653,11 @@
 
 - type: article
   year: 2011
-  authors: Hefner, D., Rothmund, T., Gollwitzer, M., & Klimmt, C.
+  authors: Hefner, D., Rothmund, T., Klimmt, C., & Gollwitzer, M.
   title: 'Implicit measures and media effects research: Challenges and opportunities'
   venue: Communication Methods and Measures
   volume: 5(3), 181–202
+  doi: 10.1080/19312458.2011.597006
 
 - type: article
   year: 2011
