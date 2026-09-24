@@ -5,7 +5,7 @@ translationKey: interventionsatlas
 status: completed
 period: "2023"
 periodlabel: "Implementation"
-partners: ["Vladimir Bojarskich (lead)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "media designers schultz+schultz"]
+partners: ["Vladimir Bojarskich (lead)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "[media designers schultz+schultz](https://www.schultzundschultz.at/)"]
 partnerlogos:
   - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
     alt: "Das NETTZ logo"
@@ -21,6 +21,6 @@ imagefit: contain
 imageposition: main
 summary: "This interactive intervention map provides a structured overview of the many areas in which intervention and prevention against online hate take place, and helps users find suitable measures."
 ---
-The intervention map was created in 2023 as part of the research project [NetHate](/en/research/nethate/) in cooperation with Das NETTZ and media designers schultz+schultz.
+The intervention map was created in 2023 as part of the research project [NetHate](/en/research/nethate/) in cooperation with Das NETTZ and [media designers schultz+schultz](https://www.schultzundschultz.at/).
 
 [Go to the intervention map →](https://nethate-itn.eu/applications/)
