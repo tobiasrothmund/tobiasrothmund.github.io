@@ -1,6 +1,7 @@
 ---
 title: "Intervention map against online hate – a guide through the jungle of measures"
 short: "Intervention map"
+date: 2023-01-01
 translationKey: interventionsatlas
 category: digital
 period: "2023"
