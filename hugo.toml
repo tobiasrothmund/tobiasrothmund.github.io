@@ -77,7 +77,7 @@ timeZone = "Europe/Berlin"
       pageRef = "/publikationen"
       weight = 20
     [[languages.de.menus.main]]
-      name = "Vorträge & Medien"
+      name = "In den Medien"
       pageRef = "/medien"
       weight = 30
     [[languages.de.menus.main]]
@@ -120,7 +120,7 @@ timeZone = "Europe/Berlin"
       pageRef = "/publications"
       weight = 20
     [[languages.en.menus.main]]
-      name = "Talks & Media"
+      name = "In the Media"
       pageRef = "/media"
       weight = 30
     [[languages.en.menus.main]]
