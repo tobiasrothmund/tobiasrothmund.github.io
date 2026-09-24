@@ -21,7 +21,7 @@
       <div class="project-pubs">
         <h2 class="project-pubs-title">{{ i18n "projectPubs" }}</h2>
         {{- $found := slice -}}
-        {{- range $refs }}{{ $r := . }}{{ range where site.Data.publications "doi" $r }}{{ $found = $found | append . }}{{ end }}{{ range where site.Data.publications "url" $r }}{{ $found = $found | append . }}{{ end }}{{ end -}}
+        {{- range $refs }}{{ $r := . }}{{ range where site.Data.publications "doi" $r }}{{ $found = $found | append . }}{{ end }}{{ range where site.Data.publications "url" $r }}{{ $found = $found | append . }}{{ end }}{{ range where site.Data.publications "title" $r }}{{ $found = $found | append . }}{{ end }}{{ end -}}
         {{- with $found }}
         <ul class="project-pubs-list">
           {{- range . }}<li>{{ partial "apa-cite.html" . }}</li>{{ end }}
