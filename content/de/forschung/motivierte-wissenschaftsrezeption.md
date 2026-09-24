@@ -1,6 +1,7 @@
 ---
 title: "Motivierte Verzerrungen bei der Rezeption empirischer Forschungsbefunde: Die Rolle von sozialer Identität und moralischen Wertüberzeugungen"
 short: "Motivierte Wissenschaftsrezeption"
+date: 2011-01-01
 translationKey: motivierte-wissenschaftsrezeption
 status: completed
 period: "2011 – 2015"
