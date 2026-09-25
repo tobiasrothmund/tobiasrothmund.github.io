@@ -1,6 +1,7 @@
 ---
 title: "SensipoV – Raising awareness of political bias"
 date: 2023-11-01
+enddate: 2026-10-31
 translationKey: sensipov
 status: running
 period: "November 2023 – October 2026"
