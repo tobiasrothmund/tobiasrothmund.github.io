@@ -63,7 +63,7 @@ timeZone = "Europe/Berlin"
     [languages.de.params]
       role = "Professor für Kommunikations- und Medienpsychologie"
       affiliation = "Friedrich-Schiller-Universität Jena"
-      description = "Forschung, Publikationen und Blog von Tobias Rothmund – Kommunikations- und Medienpsychologie, Universität Jena."
+      description = "Forschung und Publikationen von Tobias Rothmund – Kommunikations- und Medienpsychologie, Universität Jena."
     [[languages.de.menus.main]]
       name = "Forschung"
       pageRef = "/forschung"
@@ -80,10 +80,11 @@ timeZone = "Europe/Berlin"
       name = "In den Medien"
       pageRef = "/medien"
       weight = 30
-    [[languages.de.menus.main]]
-      name = "Blog"
-      pageRef = "/blog"
-      weight = 40
+    # Blog ausgeblendet, solange es keine Beiträge gibt – zum Einblenden die # entfernen
+    # [[languages.de.menus.main]]
+    #   name = "Blog"
+    #   pageRef = "/blog"
+    #   weight = 40
     [[languages.de.menus.main]]
       name = "Über mich"
       pageRef = "/about"
@@ -106,7 +107,7 @@ timeZone = "Europe/Berlin"
     [languages.en.params]
       role = "Professor for Psychology of Communication and Media Use"
       affiliation = "Friedrich Schiller University Jena"
-      description = "Research, publications and blog of Tobias Rothmund – psychology of communication and media use, University of Jena."
+      description = "Research and publications of Tobias Rothmund – psychology of communication and media use, University of Jena."
     [[languages.en.menus.main]]
       name = "Research"
       pageRef = "/research"
@@ -123,10 +124,11 @@ timeZone = "Europe/Berlin"
       name = "In the Media"
       pageRef = "/media"
       weight = 30
-    [[languages.en.menus.main]]
-      name = "Blog"
-      pageRef = "/blog"
-      weight = 40
+    # Blog hidden while there are no posts – remove the # to show it again
+    # [[languages.en.menus.main]]
+    #   name = "Blog"
+    #   pageRef = "/blog"
+    #   weight = 40
     [[languages.en.menus.main]]
       name = "About"
       pageRef = "/about"
