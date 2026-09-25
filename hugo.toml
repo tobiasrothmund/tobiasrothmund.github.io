@@ -38,7 +38,7 @@ timeZone = "Europe/Berlin"
   email = "tobias.rothmund@uni-jena.de"
   # Porträtfoto: Datei in static/images/ ablegen und Namen hier eintragen.
   # Leer lassen = elegante Initialen-Grafik.
-  portrait = ""
+  portrait = "/images/IMG_5245.jpeg"
   # Kürzel, das in Publikationslisten hervorgehoben wird
   highlightAuthor = "Rothmund, T."
 
