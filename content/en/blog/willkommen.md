@@ -2,6 +2,7 @@
 title: "Welcome to my new website"
 date: 2026-09-22
 translationKey: willkommen
+draft: true
 tags: ["Announcements"]
 summary: "Why I will be writing here, at irregular intervals, about research, media and society."
 ---
