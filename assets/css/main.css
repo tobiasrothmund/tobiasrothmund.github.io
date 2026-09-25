@@ -499,3 +499,10 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .project-pubs-list li { font-size: 0.875rem; line-height: 1.5; color: var(--ink-2); overflow-wrap: anywhere; }
 .project-pubs-list strong { color: var(--ink); font-weight: 600; }
 .project-pubs-list a { color: var(--accent); }
+
+/* Startseite: Forschungsprojekt-Karten mit Abstand und leichtem Anheben beim Überfahren */
+.focus-grid { gap: 1.25rem; background: none; border: 0; border-radius: 0; overflow: visible; }
+.focus-grid > .focus-card { border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; transition: border-color .2s, transform .2s, box-shadow .2s; }
+.focus-grid > .focus-card:hover { border-color: var(--line-strong); transform: translateY(-3px); box-shadow: 0 12px 30px -18px rgb(0 0 0 / .25); }
+.focus-grid > .focus-card:hover .project-fig img { transform: scale(1.02); }
+@media (prefers-reduced-motion: reduce) { .focus-grid > .focus-card:hover { transform: none; } }
