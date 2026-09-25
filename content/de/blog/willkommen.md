@@ -2,6 +2,7 @@
 title: "Willkommen auf meiner neuen Webseite"
 date: 2026-09-22
 translationKey: willkommen
+draft: true
 tags: ["In eigener Sache"]
 summary: "Warum ich hier künftig in unregelmäßigen Abständen über Forschung, Medien und Gesellschaft schreiben werde."
 ---
