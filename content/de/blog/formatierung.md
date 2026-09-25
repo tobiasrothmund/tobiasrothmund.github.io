@@ -2,6 +2,7 @@
 title: "Beispiel: So sieht ein formatierter Beitrag aus"
 date: 2026-09-15
 translationKey: formatierung
+draft: true
 tags: ["Anleitung", "Methoden"]
 summary: "Überschriften, Zitate, Listen, Tabellen, Bilder und Fußnoten – alles, was ein Blogbeitrag braucht, in einfachem Markdown."
 toc: true
