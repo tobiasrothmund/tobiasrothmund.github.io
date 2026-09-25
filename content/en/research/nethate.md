@@ -1,6 +1,7 @@
 ---
 title: "NetHate – Online hate speech in polarised political controversies"
 date: 2021-02-01
+enddate: 2024-01-31
 translationKey: nethate
 status: completed
 period: "February 2021 – January 2024"
