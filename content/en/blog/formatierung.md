@@ -2,6 +2,7 @@
 title: "Example: what a formatted post looks like"
 date: 2026-09-15
 translationKey: formatierung
+draft: true
 tags: ["Guide", "Methods"]
 summary: "Headings, quotes, lists, tables, images and footnotes – everything a blog post needs, in plain Markdown."
 toc: true
