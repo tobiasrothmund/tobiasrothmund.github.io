@@ -39,14 +39,17 @@
 </section>
 {{ end }}
 
-<section class="wrap block split">
+{{ $posts := where site.RegularPages "Section" "blog" }}
+<section class="wrap block{{ if $posts }} split{{ end }}">
+  {{ if $posts }}
   <div>
     {{ $blog := site.GetPage "/blog" }}
     {{ partial "section-head.html" (dict "title" (i18n "latestPosts") "link" $blog.RelPermalink "label" (i18n "allPosts")) }}
     <ul class="post-list compact">
-      {{ range first 3 (where site.RegularPages "Section" "blog") }}{{ partial "post-item.html" . }}{{ end }}
+      {{ range first 3 $posts }}{{ partial "post-item.html" . }}{{ end }}
     </ul>
   </div>
+  {{ end }}
   <div>
     {{ $pubs := site.GetPage (cond (eq site.Language.Lang "de") "/publikationen" "/publications") }}
     {{ partial "section-head.html" (dict "title" (i18n "selectedPubs") "link" $pubs.RelPermalink "label" (i18n "allPubs")) }}
