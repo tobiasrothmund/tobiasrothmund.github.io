@@ -2,6 +2,7 @@
 title: "VISCOM – Improving the Media Relations of Social Science Research: The Case of the Violent Video Games Debate"
 short: "VISCOM"
 date: 2009-01-01
+enddate: 2011-12-31
 translationKey: viscom
 status: completed
 period: "2009 – 2011"
