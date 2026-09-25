@@ -1,6 +1,7 @@
 ---
 title: "OSLWO24 – Omnibus-Studie zur Landtagswahl in Ostdeutschland 2024"
 date: 2024-08-01
+enddate: 2026-12-31
 translationKey: egses24
 status: running
 period: "2024 – 2026"
