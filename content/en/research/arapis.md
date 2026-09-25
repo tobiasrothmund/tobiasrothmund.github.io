@@ -1,6 +1,7 @@
 ---
 title: "ARAPiS – International students and the Thuringian labour market"
 date: 2024-07-01
+enddate: 2025-12-31
 translationKey: arapis
 status: completed
 period: "July 2024 – December 2025"
