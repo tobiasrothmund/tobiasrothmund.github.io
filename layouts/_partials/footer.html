@@ -10,7 +10,7 @@
     <div class="footer-meta">
       <ul class="footer-nav">
         {{ range site.Menus.footer }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}
-        {{ with site.GetPage "/blog" }}{{ with .OutputFormats.Get "rss" }}<li><a href="{{ .RelPermalink }}">{{ i18n "rss" }}</a></li>{{ end }}{{ end }}
+        {{ if where site.RegularPages "Section" "blog" }}{{ with site.GetPage "/blog" }}{{ with .OutputFormats.Get "rss" }}<li><a href="{{ .RelPermalink }}">{{ i18n "rss" }}</a></li>{{ end }}{{ end }}{{ end }}
       </ul>
       <p class="muted small">© {{ now.Year }} {{ site.Params.name }}</p>
     </div>
