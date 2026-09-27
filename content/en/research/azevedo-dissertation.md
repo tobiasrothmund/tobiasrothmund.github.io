@@ -7,6 +7,13 @@ translationKey: azevedo-dissertation
 status: completed
 period: "2016 – 2023"
 funding: "Data collection funded by TU Darmstadt and Friedrich Schiller University Jena."
+fundinglogos:
+  - img: "/images/projekte/TU_Darmstadt_Logo.svg.webp"
+    alt: "Logo of TU Darmstadt"
+    link: "https://www.tu-darmstadt.de/"
+  - img: "/images/projekte/Bildmarke_blue_15cm.png"
+    alt: "Logo of Friedrich Schiller University Jena"
+    link: "https://www.uni-jena.de/"
 team: ["Dr. Flávio Azevedo", "Prof. Dr. André Kaiser (University of Cologne; first reviewer)", "Prof. Dr. Tobias Rothmund (second reviewer)"]
 teamnote: "Doctorate obtained at the University of Cologne."
 teamlogos:
