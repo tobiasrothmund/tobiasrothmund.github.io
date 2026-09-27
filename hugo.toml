@@ -5,7 +5,7 @@
 
 # Adresse der fertigen Seite (nach dem Veröffentlichen anpassen,
 # z. B. "https://tobiasrothmund.de/" oder "https://<nutzername>.github.io/")
-baseURL = "https://tobiasrothmund.github.io/"
+baseURL = "https://tobiasrothmund.de/"
 
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
