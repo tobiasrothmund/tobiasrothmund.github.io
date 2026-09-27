@@ -1,6 +1,9 @@
 ---
 title: "Competent Use of Online Media among Adolescents? A Longitudinal Survey Study in Eight Schools in Rhineland-Palatinate"
 short: "Online Media"
+image: "/images/projekte/Bildschirmfoto%202026-09-27%20um%2021.26.06.png"
+imagealt: "Young people sitting on steps in a pedestrian zone looking at their smartphones"
+imagecaption: "Image by [natureaddict](https://pixabay.com/de/users/natureaddict-818961/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1543556) on [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1543556)"
 date: 2009-01-01
 enddate: 2010-12-31
 translationKey: onlinemedien-jugendliche
