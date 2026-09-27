@@ -14,6 +14,8 @@ teamlogos:
     alt: "Logo der Friedrich-Schiller-Universität Jena"
     link: "https://www.uni-jena.de/"
 weight: 0
+image: "/images/projekte/unnamed.jpg"
+imagealt: "Porträt von Dr. Carolin-Theresa Ziemer"
 publications: ["10.1027/1864-1105/a000407", "10.56296/aip00015", "10.1111/pops.13070"]
 summary: "Wie lassen sich Falschinformationen und ideologisch verzerrte Urteile wirksam bekämpfen? Welche Rolle spielen soziale Identität und Ideologie dabei?"
 ---
