@@ -14,7 +14,7 @@ fundinglogos:
 team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (Betreuung und Begutachtung)", "Prof. Dr. Christian von Sikorski (Begutachtung)"]
 teamnote: "Dissertation erlangt an der RPTU Kaiserslautern-Landau."
 teamlogos:
-  - img: "/images/projekte/RPTU-Logo.png"
+  - img: "/images/projekte/RPTU_Logo.svg%20(1).webp"
     alt: "Logo der RPTU Kaiserslautern-Landau"
     link: "https://rptu.de/"
 weight: 0
