@@ -8,5 +8,5 @@
   {{- else }}
   {{ with $short }}<span class="project-fallback" aria-hidden="true">{{ . }}</span>{{ end }}
   {{- end }}
-  {{- if eq .class "project-hero" }}{{ with $p.Params.imagecaption }}<figcaption>{{ . }}</figcaption>{{ end }}{{ end }}
+  {{- if eq .class "project-hero" }}{{ with $p.Params.imagecaption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}{{ end }}
 </figure>
