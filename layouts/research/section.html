@@ -2,7 +2,10 @@
 {{ partial "page-head.html" . }}
 <div class="wrap">
   {{ with .Content }}<div class="prose intro">{{ . }}</div>{{ end }}
-  {{ $pages := .Pages.ByDate.Reverse }}
+  {{- /* Sortierung: laufende Projekte ohne Enddatum zuerst (nach Beginn), dann nach Abschlussdatum, neuestes zuerst */ -}}
+  {{ $pages := slice }}
+  {{ range sort (where .Pages "Params.enddate" "==" nil) "Date" "desc" }}{{ $pages = $pages | append . }}{{ end }}
+  {{ range sort (where .Pages "Params.enddate" "!=" nil) "Params.enddate" "desc" }}{{ $pages = $pages | append . }}{{ end }}
   {{ with .Params.categories }}
   <div class="toolbar" data-filter-root>
     <div class="chips" role="group">
