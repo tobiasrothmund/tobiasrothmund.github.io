@@ -1,6 +1,8 @@
 ---
 title: "Pandemieleugnung oder Unterstützung für gesundheitspolitische Maßnahmen? Eine multi-lab Studie in 69 Ländern"
 short: "COVID-19"
+image: "/images/projekte/IMG_2141%202.jpeg"
+imagealt: "Plakat der Stadt Leipzig aus der Corona-Zeit: „Zeig Deine Verbundenheit – mit Abstand!“ mit einem Herz und einem Doppelpfeil"
 date: 2020-01-01
 enddate: 2022-12-31
 translationKey: pandemieleugnung
