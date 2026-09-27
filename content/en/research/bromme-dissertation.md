@@ -7,8 +7,14 @@ translationKey: bromme-dissertation
 status: completed
 period: "2017 – 2021"
 funding: "Doctoral scholarship from the Foundation of German Business (sdw). Doctorate obtained at RPTU Kaiserslautern-Landau."
+fundinglogos:
+  - img: "/images/projekte/RPTU-Logo.png"
+    alt: "Logo of RPTU Kaiserslautern-Landau"
+    link: "https://rptu.de/"
 team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (supervision and review)", "Prof. Dr. Christian von Sikorski (review)"]
 weight: 0
+image: "/images/projekte/Foto_Bromme-2.jpg"
+imagealt: "Portrait of Dr. Laurits Bromme"
 publications: ["10.1111/jopy.12700", "10.1111/pops.12735", "10.1186/s42409-020-00013-4"]
 summary: "Do people differ stably in their trust in and involvement with politics? What personality structure underlies these differences?"
 ---
