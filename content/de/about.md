@@ -5,10 +5,6 @@ type: about
 url: /about/
 ---
 
-Tobias Rothmund ist Professor für Kommunikations- und Medienpsychologie an der Friedrich-Schiller-Universität Jena und leitet dort das [KomRex](https://www.komrex.uni-jena.de/) (Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration). Er ist Principal Investigator im Exzellenzcluster [Imaginamics](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) der Universität Jena und Teil der verteilten DFG-Forschungsgruppe Beyond Cracy.
-
-In seiner Forschung verbindet er sozialpsychologische und kommunikationswissenschaftliche Perspektiven auf politisches Erleben und Verhalten. Er arbeitet zu unterschiedlichen Gerechtigkeitsvorstellungen, politischen Voreingenommenheiten und Ideologien, Desinformation und Verschwörungsmythen sowie zu politischer Radikalisierung und Polarisierungsdynamiken.
-
 Meine Arbeitsweise basiert auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht dabei grundsätzlich nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
 
 Gleichzeitig basiert der Prozess der Erkenntnisgewinnung immer auch auf normativen Überzeugungen und Grundannahmen. Für mich sind zwei Annahmen zentral:
