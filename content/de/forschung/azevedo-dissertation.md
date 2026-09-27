@@ -8,7 +8,13 @@ status: completed
 period: "2016 – 2023"
 team: ["Dr. Flávio Azevedo", "Prof. Dr. André Kaiser (Universität zu Köln; Erstgutachten)", "Prof. Dr. Tobias Rothmund (Zweitgutachten)"]
 teamnote: "Dissertation erlangt an der Universität zu Köln."
+teamlogos:
+  - img: "/images/projekte/images.png"
+    alt: "Logo der Universität zu Köln"
+    link: "https://www.uni-koeln.de/"
 weight: 0
+image: "/images/projekte/image-asset-rounded.webp"
+imagealt: "Porträt von Dr. Flávio Azevedo"
 publications: ["10.1111/josi.12310", "10.1037/tps0000122", "10.1111/pops.12632"]
 summary: "Sind Bürgerinnen und Bürger wirklich so ideologisch unbedarft, wie die Politikwissenschaft lange annahm? Welche psychologischen Merkmale prägen, zu welchen Ideologien Menschen neigen?"
 ---
