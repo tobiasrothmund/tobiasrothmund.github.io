@@ -1,6 +1,9 @@
 ---
 title: "Kompetenter Umgang mit Onlinemedien bei Jugendlichen? Eine längsschnittliche Befragungsstudie in acht Schulen in Rheinland-Pfalz"
 short: "Onlinemedien"
+image: "/images/projekte/Bildschirmfoto%202026-09-27%20um%2021.26.06.png"
+imagealt: "Jugendliche sitzen auf Stufen in einer Fußgängerzone und schauen auf ihre Smartphones"
+imagecaption: "Bild von [natureaddict](https://pixabay.com/de/users/natureaddict-818961/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1543556) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1543556)"
 date: 2009-01-01
 enddate: 2010-12-31
 translationKey: onlinemedien-jugendliche
