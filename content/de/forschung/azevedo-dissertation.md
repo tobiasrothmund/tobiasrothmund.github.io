@@ -7,6 +7,13 @@ translationKey: azevedo-dissertation
 status: completed
 period: "2016 – 2023"
 funding: "Datenerhebung gefördert durch die TU Darmstadt und die FSU Jena."
+fundinglogos:
+  - img: "/images/projekte/TU_Darmstadt_Logo.svg.webp"
+    alt: "Logo der TU Darmstadt"
+    link: "https://www.tu-darmstadt.de/"
+  - img: "/images/projekte/Bildmarke_blue_15cm.png"
+    alt: "Logo der Friedrich-Schiller-Universität Jena"
+    link: "https://www.uni-jena.de/"
 team: ["Dr. Flávio Azevedo", "Prof. Dr. André Kaiser (Universität zu Köln; Erstgutachten)", "Prof. Dr. Tobias Rothmund (Zweitgutachten)"]
 teamnote: "Dissertation erlangt an der Universität zu Köln."
 teamlogos:
