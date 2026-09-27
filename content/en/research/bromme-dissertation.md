@@ -6,12 +6,17 @@ enddate: 2021-12-31
 translationKey: bromme-dissertation
 status: completed
 period: "2017 – 2021"
-funding: "Doctoral scholarship from the Foundation of German Business (sdw). Doctorate obtained at RPTU Kaiserslautern-Landau."
+funding: "Doctoral scholarship from the Foundation of German Business (sdw)."
 fundinglogos:
+  - img: "/images/projekte/wbdn-projektpartner-stiftung-deutsche-wirtschaft.webp"
+    alt: "Logo of the Foundation of German Business (sdw)"
+    link: "https://www.sdw.org/"
+team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (supervision and review)", "Prof. Dr. Christian von Sikorski (review)"]
+teamnote: "Doctorate obtained at RPTU Kaiserslautern-Landau."
+teamlogos:
   - img: "/images/projekte/RPTU-Logo.png"
     alt: "Logo of RPTU Kaiserslautern-Landau"
     link: "https://rptu.de/"
-team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (supervision and review)", "Prof. Dr. Christian von Sikorski (review)"]
 weight: 0
 image: "/images/projekte/Foto_Bromme-2.jpg"
 imagealt: "Portrait of Dr. Laurits Bromme"
