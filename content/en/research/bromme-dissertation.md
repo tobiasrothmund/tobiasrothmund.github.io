@@ -14,7 +14,7 @@ fundinglogos:
 team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (supervision and review)", "Prof. Dr. Christian von Sikorski (review)"]
 teamnote: "Doctorate obtained at RPTU Kaiserslautern-Landau."
 teamlogos:
-  - img: "/images/projekte/RPTU-Logo.png"
+  - img: "/images/projekte/RPTU_Logo.svg%20(1).webp"
     alt: "Logo of RPTU Kaiserslautern-Landau"
     link: "https://rptu.de/"
 weight: 0
