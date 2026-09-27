@@ -6,6 +6,7 @@ enddate: 2023-12-31
 translationKey: azevedo-dissertation
 status: completed
 period: "2016 – 2023"
+funding: "Datenerhebung gefördert durch die TU Darmstadt und die FSU Jena."
 team: ["Dr. Flávio Azevedo", "Prof. Dr. André Kaiser (Universität zu Köln; Erstgutachten)", "Prof. Dr. Tobias Rothmund (Zweitgutachten)"]
 teamnote: "Dissertation erlangt an der Universität zu Köln."
 teamlogos:
