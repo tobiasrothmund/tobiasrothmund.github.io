@@ -1,5 +1,5 @@
 ---
-title: "Pandemic Denial or Support for Public Health Measures? A Multi-Lab Study in 67 Countries"
+title: "Pandemic Denial or Support for Public Health Measures? A Multi-Lab Study in 69 Countries"
 short: "COVID-19"
 date: 2020-01-01
 enddate: 2022-12-31
