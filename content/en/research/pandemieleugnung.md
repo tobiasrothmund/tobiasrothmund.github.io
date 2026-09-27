@@ -1,6 +1,8 @@
 ---
 title: "Pandemic Denial or Support for Public Health Measures? A Multi-Lab Study in 69 Countries"
 short: "COVID-19"
+image: "/images/projekte/IMG_2141%202.jpeg"
+imagealt: "Poster by the City of Leipzig from the COVID-19 period: “Zeig Deine Verbundenheit – mit Abstand!” (“Show your solidarity – keep your distance!”) with a heart and a double arrow"
 date: 2020-01-01
 enddate: 2022-12-31
 translationKey: pandemieleugnung
