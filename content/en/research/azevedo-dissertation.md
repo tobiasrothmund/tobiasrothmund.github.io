@@ -8,7 +8,13 @@ status: completed
 period: "2016 – 2023"
 team: ["Dr. Flávio Azevedo", "Prof. Dr. André Kaiser (University of Cologne; first reviewer)", "Prof. Dr. Tobias Rothmund (second reviewer)"]
 teamnote: "Doctorate obtained at the University of Cologne."
+teamlogos:
+  - img: "/images/projekte/images.png"
+    alt: "Logo of the University of Cologne"
+    link: "https://www.uni-koeln.de/"
 weight: 0
+image: "/images/projekte/image-asset-rounded.webp"
+imagealt: "Portrait of Dr. Flávio Azevedo"
 publications: ["10.1111/josi.12310", "10.1037/tps0000122", "10.1111/pops.12632"]
 summary: "Are ordinary citizens really as ideologically innocent as political science has long assumed? Which psychological characteristics shape the ideologies people are drawn to?"
 ---
