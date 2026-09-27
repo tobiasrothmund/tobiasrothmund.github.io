@@ -506,3 +506,6 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .focus-grid > .focus-card:hover { border-color: var(--line-strong); transform: translateY(-3px); box-shadow: 0 12px 30px -18px rgb(0 0 0 / .25); }
 .focus-grid > .focus-card:hover .project-fig img { transform: scale(1.02); }
 @media (prefers-reduced-motion: reduce) { .focus-grid > .focus-card:hover { transform: none; } }
+.team-logos img { max-width: 100%; object-fit: contain; }
+:root[data-theme="dark"] .team-logos img { background: #fff; padding: 0.35rem; border-radius: 4px; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .team-logos img { background: #fff; padding: 0.35rem; border-radius: 4px; } }
