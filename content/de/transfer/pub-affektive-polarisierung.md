@@ -1,9 +1,8 @@
 ---
 title: "PUB: Risse im gesellschaftlichen Zusammenhalt: Soziale und gesundheitliche Risiken affektiver Polarisierung"
 short: "Policy Brief"
-image: "/images/projekte/Bildschirmfoto%202026-09-27%20um%2022.08.10.png"
-imagealt: "Titelbild des Policy Ultra-Briefs: zwei Personen stehen auf beiden Seiten eines tiefen Risses im Boden, dazwischen ein Symbol mit Herz"
-imagefit: contain
+image: "/images/projekte/Bildschirmfoto%202026-09-28%20um%2000.05.57.png"
+imagealt: "Illustration: zwei Personen stehen auf beiden Seiten eines tiefen Risses im Boden, dazwischen ein Symbol mit Herz"
 date: 2026-01-01
 translationKey: pub-affektive-polarisierung
 category: policy
