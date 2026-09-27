@@ -1,9 +1,8 @@
 ---
 title: "PUB: Cracks in Social Cohesion: Social and Health Risks of Affective Polarisation"
 short: "Policy Brief"
-image: "/images/projekte/Bildschirmfoto%202026-09-27%20um%2022.08.10.png"
-imagealt: "Cover of the Policy Ultra-Brief: two people standing on either side of a deep crack in the ground, with a heart symbol between them"
-imagefit: contain
+image: "/images/projekte/Bildschirmfoto%202026-09-28%20um%2000.05.57.png"
+imagealt: "Illustration: two people standing on either side of a deep crack in the ground, with a heart symbol between them"
 date: 2026-01-01
 translationKey: pub-affektive-polarisierung
 category: policy
