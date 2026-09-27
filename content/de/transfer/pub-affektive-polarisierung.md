@@ -6,8 +6,8 @@ translationKey: pub-affektive-polarisierung
 category: policy
 period: "2026"
 periodlabel: "Umsetzung"
-team: ["Christine Finn", "DGPs", "BDP", "ZPID"]
-website: "https://psychologie.de/oeffentlichkeit/policy-ultra-briefs/psychologie-und-demokratiefoerderung/"
+team: ["Christine Finn", "Tobias Rothmund", "DGPs", "BDP", "ZPID"]
+website: "https://pada.psycharchives.org/preview/bitstream/698a15bf-a28f-497e-8448-6e247a33b135"
 websitelabel: "Link"
 websitetext: "Zum Beitrag"
 summary: "Welche Risiken birgt affektive Polarisierung für Gesundheit, soziale Beziehungen und gesellschaftlichen Zusammenhalt? Was können Politik, Gesundheitswesen und Zivilgesellschaft dagegen tun?"
@@ -18,4 +18,4 @@ Insgesamt erscheinen zwölf Beiträge in dieser Reihe. Sie bieten kompakte wisse
 
 Das Herausgeber:innen-Team der Reihe Psychologie und Demokratieförderung: Andreas Beelmann (Friedrich-Schiller-Universität Jena), Eva-Lotta Brakemeier (Universität Greifswald), Ulrich Wagner (Philipps-Universität Marburg) und Wolfgang G. Weber (Universität Innsbruck).
 
-[Zum Beitrag →](https://psychologie.de/oeffentlichkeit/policy-ultra-briefs/psychologie-und-demokratiefoerderung/)
+[Zum Beitrag →](https://pada.psycharchives.org/preview/bitstream/698a15bf-a28f-497e-8448-6e247a33b135)
