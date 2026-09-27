@@ -11,7 +11,11 @@ cascade:
   - params:
       category: drittmittel
     target:
-      path: "{/forschung/arapis,/forschung/egses24,/forschung/motivierte-wissenschaftsrezeption,/forschung/nethate,/forschung/sensipov,/forschung/viscom}"
+      path: "{/forschung/arapis,/forschung/motivierte-wissenschaftsrezeption,/forschung/nethate,/forschung/sensipov,/forschung/viscom}"
+  - params:
+      category: realkontexte
+    target:
+      path: "/forschung/egses24"
 description: "Laufende und abgeschlossene Forschungsprojekte."
 categorytitle: "Kategorie"
 emptytext: "Einträge folgen."
