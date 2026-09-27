@@ -7,7 +7,7 @@ translationKey: ziemer-dissertation
 status: completed
 period: "2020 – 2025"
 funding: "Research associate position at Friedrich Schiller University Jena"
-team: ["Dr. Carolin-Theresa Ziemer", "Prof. Dr. Tobias Rothmund (supervision and review)"]
+team: ["Dr. Carolin-Theresa Ziemer", "Prof. Dr. Tobias Rothmund (supervision, first reviewer)", "Prof. Dr. Lena Frischlich (second reviewer)"]
 teamnote: "Doctorate obtained at Friedrich Schiller University Jena."
 teamlogos:
   - img: "/images/projekte/Bildmarke_blue_15cm.png"
