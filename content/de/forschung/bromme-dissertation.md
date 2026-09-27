@@ -6,12 +6,17 @@ enddate: 2021-12-31
 translationKey: bromme-dissertation
 status: completed
 period: "2017 – 2021"
-funding: "Promotionsstipendium der Stiftung der Deutschen Wirtschaft (sdw). Dissertation erlangt an der RPTU Kaiserslautern-Landau."
+funding: "Promotionsstipendium der Stiftung der Deutschen Wirtschaft (sdw)."
 fundinglogos:
+  - img: "/images/projekte/wbdn-projektpartner-stiftung-deutsche-wirtschaft.webp"
+    alt: "Logo der Stiftung der Deutschen Wirtschaft (sdw)"
+    link: "https://www.sdw.org/"
+team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (Betreuung und Begutachtung)", "Prof. Dr. Christian von Sikorski (Begutachtung)"]
+teamnote: "Dissertation erlangt an der RPTU Kaiserslautern-Landau."
+teamlogos:
   - img: "/images/projekte/RPTU-Logo.png"
     alt: "Logo der RPTU Kaiserslautern-Landau"
     link: "https://rptu.de/"
-team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (Betreuung und Begutachtung)", "Prof. Dr. Christian von Sikorski (Begutachtung)"]
 weight: 0
 image: "/images/projekte/Foto_Bromme-2.jpg"
 imagealt: "Porträt von Dr. Laurits Bromme"
