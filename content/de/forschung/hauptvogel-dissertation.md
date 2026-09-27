@@ -8,6 +8,9 @@ status: completed
 period: "2018 – 2023"
 funding: "EU-Projekt ANIMA (Aviation Noise Impact Management through Novel Approaches, Grant Agreement No. 769627) und Deutsches Zentrum für Luft- und Raumfahrt (DLR)."
 fundinglogos:
+  - img: "/images/projekte/anima-logo-300ppi-acronym-explained.png"
+    alt: "Logo des EU-Projekts ANIMA"
+    link: "https://anima-project.eu/"
   - img: "/images/projekte/406px-DLR-Logo.svg.png"
     alt: "Logo des Deutschen Zentrums für Luft- und Raumfahrt (DLR)"
     link: "https://www.dlr.de/"
