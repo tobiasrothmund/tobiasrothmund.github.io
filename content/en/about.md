@@ -5,10 +5,6 @@ type: about
 url: /en/about/
 ---
 
-Tobias Rothmund is Professor for Psychology of Communication and Media Use at Friedrich Schiller University Jena, where he is the director of [KomRex](https://www.komrex.uni-jena.de/) (Centre for Research on Right-Wing Extremism, Democracy Education and Societal Integration). He is a Principal Investigator in the Cluster of Excellence [Imaginamics](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena and a member of the distributed DFG Research Unit Beyond Cracy.
-
-His research combines social psychological and communication science perspectives on political thinking, feeling and behaviour. His work focuses on differing conceptions of social justice, political biases and ideologies, misinformation and conspiracy myths, as well as political radicalisation and the dynamics of polarisation.
-
 My work is based on an empirical-positivist understanding of science: science fundamentally seeks truth that exists independently of the researcher and can be experienced through the senses.
 
 At the same time, the process of gaining knowledge is always also based on normative convictions and basic assumptions. Two assumptions are central for me:
