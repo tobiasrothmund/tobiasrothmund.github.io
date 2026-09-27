@@ -7,7 +7,7 @@ translationKey: ziemer-dissertation
 status: completed
 period: "2020 – 2025"
 funding: "Wissenschaftliche Mitarbeiterstelle an der Friedrich-Schiller-Universität Jena"
-team: ["Dr. Carolin-Theresa Ziemer", "Prof. Dr. Tobias Rothmund (Betreuung und Begutachtung)"]
+team: ["Dr. Carolin-Theresa Ziemer", "Prof. Dr. Tobias Rothmund (Betreuung und Erstgutachten)", "Prof. Dr. Lena Frischlich (Zweitgutachten)"]
 teamnote: "Dissertation erlangt an der FSU Jena."
 teamlogos:
   - img: "/images/projekte/Bildmarke_blue_15cm.png"
