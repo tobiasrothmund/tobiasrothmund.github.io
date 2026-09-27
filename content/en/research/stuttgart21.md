@@ -1,6 +1,8 @@
 ---
 title: "Oben bleiben? – A Longitudinal Survey Study on Protest Behaviour against Stuttgart 21"
 short: "Stuttgart 21"
+image: "/images/projekte/Bildschirmfoto%202026-09-27%20um%2021.56.36.png"
+imagealt: "An elderly man standing in front of a construction fence covered with protest posters and notes against Stuttgart 21"
 date: 2010-01-01
 enddate: 2011-12-31
 translationKey: stuttgart21
