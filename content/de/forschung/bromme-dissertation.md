@@ -7,8 +7,14 @@ translationKey: bromme-dissertation
 status: completed
 period: "2017 – 2021"
 funding: "Promotionsstipendium der Stiftung der Deutschen Wirtschaft (sdw). Dissertation erlangt an der RPTU Kaiserslautern-Landau."
+fundinglogos:
+  - img: "/images/projekte/RPTU-Logo.png"
+    alt: "Logo der RPTU Kaiserslautern-Landau"
+    link: "https://rptu.de/"
 team: ["Dr. Laurits Bromme", "Prof. Dr. Tobias Rothmund (Betreuung und Begutachtung)", "Prof. Dr. Christian von Sikorski (Begutachtung)"]
 weight: 0
+image: "/images/projekte/Foto_Bromme-2.jpg"
+imagealt: "Porträt von Dr. Laurits Bromme"
 publications: ["10.1111/jopy.12700", "10.1111/pops.12735", "10.1186/s42409-020-00013-4"]
 summary: "Unterscheiden sich Menschen stabil in Vertrauen und Involviertheit in Politik? Welche Persönlichkeitsstruktur liegt diesen Unterschieden zugrunde?"
 ---
