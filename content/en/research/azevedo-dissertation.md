@@ -8,7 +8,7 @@ status: completed
 period: "2016 – 2023"
 funding: "Data collection funded by TU Darmstadt and Friedrich Schiller University Jena."
 fundinglogos:
-  - img: "/images/projekte/TU_Darmstadt_Logo.svg.webp"
+  - img: "/images/projekte/newsimage32653.jpg"
     alt: "Logo of TU Darmstadt"
     link: "https://www.tu-darmstadt.de/"
   - img: "/images/projekte/Bildmarke_blue_15cm.png"
