@@ -14,6 +14,8 @@ teamlogos:
     alt: "Logo of Friedrich Schiller University Jena"
     link: "https://www.uni-jena.de/"
 weight: 0
+image: "/images/projekte/unnamed.jpg"
+imagealt: "Portrait of Dr. Carolin-Theresa Ziemer"
 publications: ["10.1027/1864-1105/a000407", "10.56296/aip00015", "10.1111/pops.13070"]
 summary: "How can misinformation and ideologically biased judgements be countered effectively? What role do social identity and ideology play?"
 ---
