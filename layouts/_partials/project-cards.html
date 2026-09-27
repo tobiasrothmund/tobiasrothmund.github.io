@@ -1,4 +1,4 @@
-{{- /* Projektkarten. Parameter: pages (Seiten), cats (optional: Kategorien aus dem Abschnitt, Liste mit key/label/badge). */ -}}
+{{- /* Projektkarten. Parameter: pages (Seiten), cats (optional: Kategorien aus dem Abschnitt, Liste mit key/label/badge), showstatus (optional: Status-Badge zusätzlich zur Kategorie). */ -}}
 {{- $cats := .cats | default slice -}}
 <ul class="project-grid">
   {{ range .pages }}{{ $p := . }}
@@ -7,7 +7,7 @@
       {{ partial "project-image.html" (dict "page" . "class" "project-fig") }}
       <div class="project-body">
         <p class="project-meta">
-          {{ with .Params.category }}{{ $k := . }}{{ range where $cats "key" $k }}<span class="badge badge-talk">{{ .badge | default .label }}</span>{{ end }}{{ else }}<span class="badge badge-{{ $p.Params.status }}">{{ i18n ($p.Params.status | default "running") }}</span>{{ end }}
+          {{ with .Params.category }}{{ $k := . }}{{ range where $cats "key" $k }}<span class="badge badge-talk">{{ .badge | default .label }}</span>{{ end }}{{ if $.showstatus }}<span class="badge badge-{{ $p.Params.status }}">{{ i18n ($p.Params.status | default "running") }}</span>{{ end }}{{ else }}<span class="badge badge-{{ $p.Params.status }}">{{ i18n ($p.Params.status | default "running") }}</span>{{ end }}
           {{ with .Params.period }}<span class="muted">{{ . }}</span>{{ end }}
         </p>
         <h2 class="project-title">{{ .Title }}</h2>
