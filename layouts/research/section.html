@@ -15,7 +15,7 @@
     </div>
   </div>
   <div data-filter-list>
-    {{ partial "project-cards.html" (dict "pages" $pages "cats" .) }}
+    {{ partial "project-cards.html" (dict "pages" $pages "cats" . "showstatus" $.Params.showstatus) }}
     <p class="no-results muted" hidden>{{ $.Params.emptytext | default (i18n "noResults") }}</p>
   </div>
   {{ else }}
