@@ -1,6 +1,8 @@
 ---
 title: "Oben bleiben? – Eine längsschnittliche Befragungsstudie zum Protestverhalten gegen Stuttgart 21"
 short: "Stuttgart 21"
+image: "/images/projekte/Bildschirmfoto%202026-09-27%20um%2021.56.36.png"
+imagealt: "Ein älterer Mann steht vor einem Bauzaun voller Protestplakate und Zettel gegen Stuttgart 21"
 date: 2010-01-01
 enddate: 2011-12-31
 translationKey: stuttgart21
