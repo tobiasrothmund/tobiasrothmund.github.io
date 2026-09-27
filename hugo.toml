@@ -48,6 +48,8 @@ timeZone = "Europe/Berlin"
     orcid = ""
     researchgate = ""
     linkedin = "https://de.linkedin.com/in/tobias-rothmund-62250015"
+    # Profilseite an der Universität Jena (nur unter dem Foto auf „Über mich“)
+    uni = "https://www.fsv.uni-jena.de/15410/prof-dr-tobias-rothmund"
     bluesky = ""
     mastodon = ""
     osf = ""
