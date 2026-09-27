@@ -1,12 +1,12 @@
 ---
 title: "Competent Use of Online Media among Adolescents? A Longitudinal Survey Study in Eight Schools in Rhineland-Palatinate"
 short: "Online Media"
-date: 2010-01-01
-enddate: 2011-12-31
+date: 2009-01-01
+enddate: 2010-12-31
 translationKey: onlinemedien-jugendliche
-category: drittmittel
+category: realkontexte
 status: completed
-period: "2010 – 2011"
+period: "2009 – 2010"
 funding: "Federal Criminal Police Office (BKA), University of Koblenz-Landau"
 team: ["Methods Centre Landau (Methodenzentrum Landau)", "Flavius Kehr", "Tobias Rothmund", "Mario Gollwitzer"]
 publications: ["10.1080/15213269.2013.841526", "10.1007/s11623-015-0417-5", "10.1016/j.adolescence.2016.01.007"]
