@@ -9,6 +9,19 @@ Tobias Rothmund is Professor for Psychology of Communication and Media Use at Fr
 
 His research combines social psychological and communication science perspectives on political thinking, feeling and behaviour. His work focuses on differing conceptions of social justice, political biases and ideologies, misinformation and conspiracy myths, as well as political radicalisation and the dynamics of polarisation.
 
+My work is based on an empirical-positivist understanding of science: science fundamentally seeks truth that exists independently of the researcher and can be experienced through the senses.
+
+At the same time, the process of gaining knowledge is always also based on normative convictions and basic assumptions. Two assumptions are central for me:
+
+1. Autonomy and social responsibility are the cornerstones for individual and collective ways of life to succeed.
+2. Societies can only be successful in the long term if they manage to integrate the interests and competences of their citizens as fully as possible.
+
+Against this background, I feel committed to the ideals of deliberative democracy.
+
+Democratic societies, however, rest not only on constitutions, the separation of powers and civil liberties. Cohesion and trust, shared visions of the future, individual and social experiences of justice, and an evidence-informed exchange of information are also central. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
+
+I am also committed to the ideals of open and transparent research practices (open science), inter- and transdisciplinary collaboration, and dialogue-based science communication on an equal footing.
+
 ## Career
 
 - **since 2024** – Director of the Centre for Research on Right-Wing Extremism, Democracy Education and Societal Integration (KomRex), Friedrich Schiller University Jena
