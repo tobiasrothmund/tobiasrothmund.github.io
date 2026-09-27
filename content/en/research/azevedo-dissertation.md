@@ -6,6 +6,7 @@ enddate: 2023-12-31
 translationKey: azevedo-dissertation
 status: completed
 period: "2016 – 2023"
+funding: "Data collection funded by TU Darmstadt and Friedrich Schiller University Jena."
 team: ["Dr. Flávio Azevedo", "Prof. Dr. André Kaiser (University of Cologne; first reviewer)", "Prof. Dr. Tobias Rothmund (second reviewer)"]
 teamnote: "Doctorate obtained at the University of Cologne."
 teamlogos:
