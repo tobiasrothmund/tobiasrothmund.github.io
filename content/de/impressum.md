@@ -7,8 +7,8 @@ url: /impressum/
 **Angaben gemäß § 5 DDG**
 
 Tobias Rothmund  
-Straße Hausnummer *(bitte ergänzen)*  
-PLZ Ort
+Ernst-Abbe-Platz 8  
+07743 Jena
 
 E-Mail: tobias.rothmund@uni-jena.de
 
