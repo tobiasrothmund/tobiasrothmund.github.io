@@ -6,12 +6,17 @@ enddate: 2023-12-31
 translationKey: hauptvogel-dissertation
 status: completed
 period: "2018 – 2023"
-funding: "EU-Projekt ANIMA (Aviation Noise Impact Management through Novel Approaches, Grant Agreement No. 769627) und Deutsches Zentrum für Luft- und Raumfahrt (DLR). Dissertation erlangt an der FSU Jena."
+funding: "EU-Projekt ANIMA (Aviation Noise Impact Management through Novel Approaches, Grant Agreement No. 769627) und Deutsches Zentrum für Luft- und Raumfahrt (DLR)."
 fundinglogos:
   - img: "/images/projekte/406px-DLR-Logo.svg.png"
     alt: "Logo des Deutschen Zentrums für Luft- und Raumfahrt (DLR)"
     link: "https://www.dlr.de/"
 team: ["Dr. Dominik Hauptvogel", "Dr. Susanne Bartels (DLR; Betreuung und Begutachtung)", "Prof. Dr. Tobias Rothmund (Betreuung und Begutachtung)"]
+teamnote: "Dissertation erlangt an der FSU Jena."
+teamlogos:
+  - img: "/images/projekte/Bildmarke_blue_15cm.png"
+    alt: "Logo der Friedrich-Schiller-Universität Jena"
+    link: "https://www.uni-jena.de/"
 weight: 0
 image: "/images/projekte/Dominik-Hauptvogel-3.webp"
 imagealt: "Porträt von Dr. Dominik Hauptvogel"
