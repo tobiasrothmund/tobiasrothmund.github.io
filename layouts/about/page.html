@@ -6,12 +6,18 @@
     {{ else }}
       <div class="portrait portrait-mono" aria-hidden="true"><span>{{ range split site.Params.name " " }}{{ substr . 0 1 }}{{ end }}</span></div>
     {{ end }}
-    <div class="about-links">{{ partial "social.html" . }}</div>
+    <div class="about-links">
+      <ul class="social">
+        {{ with site.Params.email }}<li><a href="mailto:{{ . }}">E-Mail</a></li>{{ end }}
+        {{ with site.Params.links.uni }}<li><a href="{{ . }}" rel="noopener">FSU-Jena</a></li>{{ end }}
+        {{ with site.Params.links.linkedin }}<li><a href="{{ . }}" rel="me noopener">LinkedIn</a></li>{{ end }}
+      </ul>
+    </div>
   </div>
   <div>
     <header class="page-head flush">
       <h1 class="page-title">{{ .Title }}</h1>
-      <p class="page-lead">{{ site.Params.honorific }} {{ site.Params.name }} · {{ site.Params.role }}</p>
+      <p class="page-lead">{{ site.Params.name }} · {{ site.Params.role }}</p>
     </header>
     <div class="prose">{{ .Content }}</div>
   </div>
