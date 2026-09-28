@@ -1,6 +1,8 @@
 ---
 title: "KomRex Dialogforum 2025 – Wie lässt sich die demokratische Kultur stärken?"
 short: "Dialogforum 2025"
+image: /images/projekte/20251025_160300.jpg
+imagealt: "Podiumsgespräch zu evidenzbasierter Politikberatung beim KomRex Dialogforum in den Rosensälen Jena, im Vordergrund das Publikum"
 date: 2025-10-25
 translationKey: komrex-dialogforum-2025
 category: events
