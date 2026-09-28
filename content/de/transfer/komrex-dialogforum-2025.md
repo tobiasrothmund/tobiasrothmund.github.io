@@ -9,6 +9,7 @@ category: events
 period: "25. Oktober 2025, Rosensäle der Universität Jena"
 periodlabel: "Termin & Ort"
 team: ["Prof. Dr. Tobias Rothmund (KomRex)", "Vladimir Bojarskich (KomRex, Organisation)", "Johannes Streitberger (Moderation)"]
+funding: "KomRex"
 summary: "Wie kann evidenzbasierte Politikberatung zur Stärkung der demokratischen Kultur beitragen? Beim Dialogforum kamen Wissenschaft und Politik auf Grundlage der KomRex-Wahlstudie 2024 ins Gespräch."
 ---
 Das Dialogforum „Wie lässt sich die demokratische Kultur stärken? Evidenzbasierte Politikberatung vor dem Hintergrund der KomRex-Wahlstudie 2024“ brachte am 25. Oktober 2025 in den Rosensälen der Universität Jena Wissenschaftlerinnen und Wissenschaftler mit Vertreterinnen und Vertretern aus der Politik zusammen. Grundlage waren Forschungsprojekte, die auf der [Wahlstudie des KomRex zu den Landtagswahlen 2024](/forschung/egses24/) aufbauen.
