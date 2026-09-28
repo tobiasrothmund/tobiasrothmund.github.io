@@ -9,10 +9,11 @@ translationKey: fakt-o-mat
 category: digital
 period: "2026"
 periodlabel: "Implementation"
-team: ["Dr. Christine Finn (lead)", "Arne Stolp", "Prof. Dr. Tobias Rothmund", "Prof. Dr. Christian Thiel", "Kallinich Media"]
+team: ["Dr. Christine Finn (lead)", "Arne Stolp", "Prof. Dr. Tobias Rothmund", "Prof. Dr. Christian Thiel", "[Kallinich Media](https://www.kallinich-media.de/)"]
 teamlogos:
   - img: "/images/projekte/KM_Logo.jpg"
     alt: "Kallinich Media logo"
+    link: "https://www.kallinich-media.de/"
     height: 110
 funding: "[SensipoV project](/en/research/sensipov/) and KomRex"
 website: "https://www.fakt-o-mat.de/"
