@@ -1,6 +1,9 @@
 ---
 title: "On the Role of Psychology in Social and Political Discourse"
 short: "Conference 2026"
+image: /images/projekte/1777031177714.jpeg
+imagealt: "Group photo of the conference participants at the Psychologische Hochschule Berlin"
+imagealign: "30%"
 date: 2025-12-31  # nur für die Sortierung (zwischen PUB und Policy Paper)
 translationKey: tagung-psychologie-diskurse
 category: events
