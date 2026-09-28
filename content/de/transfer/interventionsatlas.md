@@ -11,6 +11,10 @@ teamlogos:
   - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
     alt: "Logo Das NETTZ"
     link: "https://www.das-nettz.de/"
+  - img: "/images/projekte/schultzundschultz__LOGO.png"
+    alt: "Logo schultz+schultz Mediengestaltung"
+    link: "https://www.schultzundschultz.at/"
+    height: 40
 funding: "[NETHATE-Projekt](/forschung/nethate/)"
 website: "https://toneshift.org/interventionsatlas/"
 websitelabel: "Link"
