@@ -34,7 +34,7 @@
 <li class="pub{{ with $p.cover }} has-cover{{ end }}" data-type="{{ $p.type }}" data-search="{{ lower (printf "%s %s %s %v" $p.authors $p.title $p.venue $p.year) }}">
   {{ with $p.cover }}<img class="pub-cover" src="{{ . | relURL }}" alt="Cover: {{ $p.title }}" loading="lazy" width="120" height="180">{{ end }}
   <div class="pub-main">
-  <p class="pub-title">{{ $p.title }}</p>
+  <p class="pub-title">{{ if and $p.linktitle $link }}<a href="{{ $link }}" rel="noopener">{{ $p.title }}</a>{{ else }}{{ $p.title }}{{ end }}</p>
   <p class="pub-authors">{{ $authors | safeHTML }}</p>
   <p class="pub-venue">{{ if eq $p.type "article" }}<em>{{ $p.venue }}</em>{{ else }}{{ $p.venue }}{{ end }}{{ with $p.volume }}, {{ . }}{{ end }}{{ with $p.pages }}, {{ . }}{{ end }}</p>
   <div class="pub-actions">
