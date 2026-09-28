@@ -7,7 +7,7 @@ status: running
 period: "2024 – 2026"
 partners: ["KomRex (University of Jena)", "Chair of Social Psychology (Trier University)"]
 funding: "Free State of Thuringia and Volkswagen Foundation"
-team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Eva Walther (lead)", "Carla Grosche", "Dr. Christine Finn", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
+team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Eva Walther (lead)", "Dr. Christine Finn", "Dr. Anna-Sophie Heinze", "Carla Grosche", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich", "Arne Stolp", "Timon Scheuer", "Anna Lambrich"]
 weight: -3
 image: /images/projekte/oslwo24.webp
 imagealt: "Outlines of Thuringia, Saxony and Brandenburg with the 2024 election dates and a ballot box"
