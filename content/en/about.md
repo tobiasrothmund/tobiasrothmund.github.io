@@ -5,16 +5,16 @@ type: about
 url: /en/about/
 ---
 
-My work is based on an empirical-positivist understanding of science: science fundamentally seeks truth that exists independently of the researcher and can be experienced through the senses.
+My work is based on an empirical-positivist understanding of science: science seeks truth that exists independently of the researcher and can be experienced through the senses.
 
-At the same time, the process of gaining knowledge is always also based on normative convictions and basic assumptions. Two assumptions are central for me:
+This process of gaining knowledge is always influenced by normative convictions and basic assumptions. Two assumptions are central for me:
 
-1. Autonomy and social responsibility are the cornerstones for individual and collective ways of life to succeed.
-2. Societies can only be successful in the long term if they manage to integrate the interests and competences of their citizens as fully as possible.
+1. Self-determination and social responsibility are the keys to a dignified and fulfilled human life.
+2. The task of societies is to foster the interests and competences of their citizens in a way that enables self-determination for as many people as possible.
 
 Against this background, I feel committed to the ideals of deliberative democracy.
 
-Democratic societies, however, rest not only on constitutions, the separation of powers and civil liberties. Cohesion and trust, shared visions of the future, individual and social experiences of justice, and an evidence-informed exchange of information are also central. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
+Democratic societies rest not only on constitutions, the separation of powers and civil liberties. Cohesion and trust, shared visions of the future, individual and social experiences of justice, and an evidence-informed exchange of information are also central. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
 
 I am also committed to the ideals of open and transparent research practices (open science), inter- and transdisciplinary collaboration, and dialogue-based science communication on an equal footing.
 
