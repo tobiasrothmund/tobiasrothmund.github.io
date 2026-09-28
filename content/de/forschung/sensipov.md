@@ -11,7 +11,7 @@ fundinglogos:
     alt: "Gefördert durch: Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)"
     link: "https://www.bmftr.bund.de/"
     height: 150
-team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Christian Thiel (Leitung)", "Dr. Christine Finn", "Arne Stolp"]
+team: ["Dr. Christine Finn", "Arne Stolp", "Prof. Dr. Christian Thiel (Leitung)", "Prof. Dr. Tobias Rothmund (Leitung)"]
 weight: -2
 image: /images/projekte/a011123003.jpg
 imagealt: "Zwei Personen und ein Spiegel: Ein Mann hält einem anderen einen Spiegel vor, in dem dieser sich selbst betrachtet."
