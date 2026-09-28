@@ -1,6 +1,8 @@
 ---
 title: "Die Ergebnisse der Landtagswahlen 2024 in Ostdeutschland als Herausforderung für Politik und Demokratie"
 short: "Policy Paper"
+image: /images/projekte/oslwo24.webp
+imagealt: "Umrisse von Thüringen, Sachsen und Brandenburg mit den Wahlterminen 2024 und einer Wahlurne"
 date: 2024-09-28
 translationKey: komrex-policy-paper-landtagswahlen-2024
 category: policy
