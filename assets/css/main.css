@@ -511,3 +511,6 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .team-logos img { background: #fff; padding: 0.35rem; border-radius: 4px; } }
 /* Bildnachweis-Links im Projektbild */
 .project-hero figcaption a { color: #fff; text-decoration: underline; }
+
+/* Startseite: halber Abstand zwischen aufeinanderfolgenden Abschnitten */
+.block + .block { padding-top: 0; }
