@@ -21,7 +21,7 @@ Außerdem fühle ich mich den Idealen einer offenen und transparenten wissenscha
 ## Werdegang
 
 - **seit 2024** – Direktor am Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration (KomRex) der Friedrich-Schiller-Universität Jena
-- **2023–2026** – Geschäftsführender Direktor am Institut für Kommunikationswissenschaft (IfKW) der Friedrich-Schiller-Universität Jena
+- **seit 2023** – Geschäftsführender Direktor am Institut für Kommunikationswissenschaft (IfKW) der Friedrich-Schiller-Universität Jena
 - **seit 2018** – Professor für Kommunikations- und Medienpsychologie am Institut für Kommunikationswissenschaft (IfKW) der Friedrich-Schiller-Universität Jena
 - **2013–2018** – Juniorprofessor für Politische Psychologie am Institut für Kommunikationspsychologie und Medienpädagogik (IKM) der Universität Koblenz-Landau
 - **2014–2015** – Vertretung der Professur für Psychologische Diagnostik, Evaluation und Intervention an der Technischen Universität Darmstadt
@@ -36,7 +36,7 @@ Außerdem fühle ich mich den Idealen einer offenen und transparenten wissenscha
 
 ## Gutachtertätigkeit
 
-Ad-hoc-Gutachten u. a. für die Deutsche Forschungsgemeinschaft (DFG), die Alexander von Humboldt-Stiftung sowie für *Journal of Personality and Social Psychology*, *Psychological Science*, *Personality and Social Psychology Bulletin*, *Personality and Individual Differences*, *Journal of Experimental Social Psychology*, *Social Justice Research*, *European Journal of Personality*, *European Journal of Personality Assessment*, *Aggressive Behavior*, *Journal of Communication* und *Journal of Media Psychology*.
+Ad-hoc-Gutachten u. a. für die Deutsche Forschungsgemeinschaft (DFG), die Alexander von Humboldt-Stiftung sowie für *Journal of Personality and Social Psychology*, *Psychological Science*, *Personality and Social Psychology Bulletin*, *Personality and Individual Differences*, *Journal of Experimental Social Psychology*, *Social Justice Research*, *European Journal of Personality*, *European Journal of Psychological Assessment*, *Aggressive Behavior*, *Journal of Communication* und *Journal of Media Psychology*.
 
 ## Mitgliedschaften
 
