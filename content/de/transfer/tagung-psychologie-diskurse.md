@@ -1,7 +1,7 @@
 ---
 title: "Zur Rolle der Psychologie in gesellschaftlichen und politischen Diskursen"
 short: "Tagung 2026"
-date: 2026-03-26
+date: 2025-12-31  # nur für die Sortierung (zwischen PUB und Policy Paper)
 translationKey: tagung-psychologie-diskurse
 category: events
 period: "26.–27. März 2026, Psychologische Hochschule Berlin"
