@@ -45,7 +45,7 @@ timeZone = "Europe/Berlin"
   # Profile (leer lassen, um sie auszublenden)
   [params.links]
     scholar = "https://scholar.google.de/citations?user=WADUSNEAAAAJ"
-    orcid = ""
+    orcid = "https://orcid.org/0000-0003-2979-5129"
     researchgate = ""
     linkedin = "https://de.linkedin.com/in/tobias-rothmund-62250015"
     # Profilseite an der Universität Jena (nur unter dem Foto auf „Über mich“)
