@@ -7,7 +7,7 @@ status: running
 period: "2024 – 2026"
 partners: ["KomRex (Universität Jena)", "Lehrstuhl für Sozialpsychologie (Universität Trier)"]
 funding: "Freistaat Thüringen und VolkswagenStiftung"
-team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Carla Grosche", "Dr. Christine Finn", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
+team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Dr. Christine Finn", "Dr. Anna-Sophie Heinze", "Carla Grosche", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich", "Arne Stolp", "Timon Scheuer", "Anna Lambrich"]
 weight: -3
 image: /images/projekte/oslwo24.webp
 imagealt: "Umrisse von Thüringen, Sachsen und Brandenburg mit den Wahlterminen 2024 und einer Wahlurne"
