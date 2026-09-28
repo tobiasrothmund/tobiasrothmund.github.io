@@ -1,9 +1,9 @@
 ---
 title: "Fakt-o-Mat – Test Your Political Fact Knowledge"
 short: "Fakt-o-Mat"
-image: /images/projekte/fom-insta-meinung-post.png
-imagealt: "Fakt-o-Mat campaign visual: yellow text box with the quote “Meine Meinung steht fest, irritieren Sie mich nicht mit Tatsachen.” (“My mind is made up, don’t confuse me with facts.”)"
-imagealign: "40%"
+image: /images/projekte/fom-ms-rgb.png
+imagealt: "Fakt-o-Mat logo: „24 Fragen. 24 Fakten.“ (24 questions. 24 facts.)"
+imagefit: contain
 date: 2026-01-01
 translationKey: fakt-o-mat
 category: digital
