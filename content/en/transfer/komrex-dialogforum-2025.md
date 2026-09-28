@@ -9,6 +9,7 @@ category: events
 period: "25 October 2025, Rosensäle, University of Jena"
 periodlabel: "Date & venue"
 team: ["Prof. Dr. Tobias Rothmund (KomRex)", "Vladimir Bojarskich (KomRex, organisation)", "Johannes Streitberger (moderation)"]
+funding: "KomRex"
 summary: "How can evidence-based policy advice help strengthen democratic culture? At the Dialogue Forum, researchers and policymakers discussed findings based on the KomRex election study 2024."
 ---
 The Dialogue Forum “How can democratic culture be strengthened? Evidence-based policy advice in light of the KomRex election study 2024” brought researchers and representatives from politics together on 25 October 2025 in the Rosensäle of the University of Jena. It was based on research projects building on the [KomRex study on the 2024 state elections](/en/research/egses24/).
