@@ -7,7 +7,7 @@ status: running
 period: "2024 – 2026"
 partners: ["KomRex (University of Jena)", "Chair of Social Psychology (Trier University)"]
 funding: "Free State of Thuringia and Volkswagen Foundation"
-team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Eva Walther (lead)", "Carla Grosche", "Dr. Christine Finn", "Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
+team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Eva Walther (lead)", "Carla Grosche", "Dr. Christine Finn", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
 weight: -3
 image: /images/projekte/oslwo24.webp
 imagealt: "Outlines of Thuringia, Saxony and Brandenburg with the 2024 election dates and a ballot box"
@@ -25,3 +25,5 @@ The survey includes a core module of items and scales on
 4. ideological attitudes.
 
 In addition, early-career researchers – doctoral students and postdoctoral researchers up to six years after their PhD in the social and behavioural sciences with a quantitative focus – were invited to contribute their own survey modules along KomRex's thematic priorities (right-wing extremism research, democracy education and societal integration), to analyse and publish independently afterwards.
+
+Outputs based on the study include the [policy paper on the 2024 state elections](/en/transfer/komrex-policy-paper-landtagswahlen-2024/) and the [KomRex Dialogue Forum 2025](/en/transfer/komrex-dialogforum-2025/).

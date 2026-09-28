@@ -6,7 +6,12 @@ translationKey: sensipov
 status: running
 period: "November 2023 – October 2026"
 funding: "Federal Ministry of Research, Technology and Space (BMFTR)"
-team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Christian Thiel (lead)", "Dr. Christine Finn", "Arne Stolp, M. Sc."]
+fundinglogos:
+  - img: "/images/projekte/csm_logo-BMFTR-carousels_d92c1b1aaf.webp"
+    alt: "Funded by the Federal Ministry of Research, Technology and Space (BMFTR)"
+    link: "https://www.bmftr.bund.de/"
+    height: 150
+team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Christian Thiel (lead)", "Dr. Christine Finn", "Arne Stolp"]
 weight: -2
 image: /images/projekte/a011123003.jpg
 imagealt: "Two people and a mirror: one man holds up a mirror in which the other looks at himself."
@@ -25,3 +30,5 @@ So far, however, we know very little about the extent to which
 3. raising awareness of political bias can reduce susceptibility to misinformation, conspiracy narratives and science denial.
 
 Overall, the project aims to make political bias awareness measurable and to empirically examine the relationship between political bias awareness and politically biased processing of scientific evidence in the context of socio-scientific issues.
+
+The project gave rise to the [Fakt-o-Mat](/en/transfer/fakt-o-mat/) – an online quiz for testing your political fact knowledge.

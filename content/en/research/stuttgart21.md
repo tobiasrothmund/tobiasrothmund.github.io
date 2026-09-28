@@ -10,7 +10,7 @@ category: realkontexte
 status: completed
 period: "2010 – 2011"
 funding: "University of Koblenz-Landau"
-team: ["Methods Centre Landau (Methodenzentrum Landau)", "Anna Baumert", "Axel Zinkernagel", "Tobias Rothmund"]
+team: ["Methods Centre Landau (Methodenzentrum Landau)", "Prof. Dr. Anna Baumert", "Dr. Axel Zinkernagel", "Prof. Dr. Tobias Rothmund"]
 publications: ["10.1007/s11211-014-0202-x"]
 summary: "What motivates people to protest against Stuttgart 21? Are the mediation talks perceived as fair and conciliatory?"
 ---

@@ -11,7 +11,7 @@ category: realkontexte
 status: completed
 period: "2009 – 2010"
 funding: "Federal Criminal Police Office (BKA), University of Koblenz-Landau"
-team: ["Methods Centre Landau (Methodenzentrum Landau)", "Flavius Kehr", "Tobias Rothmund", "Mario Gollwitzer"]
+team: ["Methods Centre Landau (Methodenzentrum Landau)", "Dr. Flavius Kehr", "Prof. Dr. Tobias Rothmund", "Prof. Dr. Mario Gollwitzer"]
 publications: ["10.1027/1864-1105/a000177", "10.1080/15213269.2013.841526", "10.1007/s11623-015-0417-5", "10.1016/j.adolescence.2016.01.007"]
 summary: "How competently do adolescents deal with security risks posed by cybercrime? How stable are risky patterns of internet use over time?"
 ---

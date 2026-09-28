@@ -10,7 +10,7 @@ category: realkontexte
 status: completed
 period: "2020 – 2022"
 funding: "Friedrich Schiller University Jena"
-team: ["Carolin-Theresa Ziemer", "Fahima Farkhari", "Flávio Azevedo", "Tobias Rothmund"]
+team: ["Dr. Carolin-Theresa Ziemer", "Fahima Farkhari", "Dr. Flávio Azevedo", "Prof. Dr. Tobias Rothmund"]
 publications: ["10.1093/pnasnexus/pgac093", "10.1177/09636625211068131", "10.1038/s41467-021-27668-9", "https://www.idz-jena.de/wsddet/wsd9-4/", "10.1038/s41597-023-02080-8"]
 summary: "What role do social attitudes and personal characteristics play in how people deal with the COVID-19 pandemic? To what extent can pandemic denial be understood as a communicative phenomenon?"
 ---
