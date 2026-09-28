@@ -1,6 +1,9 @@
 ---
 title: "Zur Rolle der Psychologie in gesellschaftlichen und politischen Diskursen"
 short: "Tagung 2026"
+image: /images/projekte/1777031177714.jpeg
+imagealt: "Gruppenfoto der Teilnehmenden der Tagung an der Psychologischen Hochschule Berlin"
+imagealign: "30%"
 date: 2025-12-31  # nur für die Sortierung (zwischen PUB und Policy Paper)
 translationKey: tagung-psychologie-diskurse
 category: events
