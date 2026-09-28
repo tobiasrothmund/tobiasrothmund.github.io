@@ -11,6 +11,10 @@ teamlogos:
   - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
     alt: "Das NETTZ logo"
     link: "https://www.das-nettz.de/"
+  - img: "/images/projekte/schultzundschultz__LOGO.png"
+    alt: "schultz+schultz media design logo"
+    link: "https://www.schultzundschultz.at/"
+    height: 40
 funding: "[NETHATE project](/en/research/nethate/)"
 website: "https://nethate-itn.eu/applications/"
 websitelabel: "Link"

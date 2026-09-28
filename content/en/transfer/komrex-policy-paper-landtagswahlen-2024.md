@@ -9,7 +9,7 @@ category: policy
 period: "2024"
 periodlabel: "Published"
 team: ["Dr. Christine Finn", "Dr. Anna-Sophie Heinze", "Carla Grosche", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich", "Arne Stolp", "Timon Scheuer", "Anna Lambrich", "Prof. Dr. Eva Walther", "Prof. Dr. Tobias Rothmund"]
-funding: "KomRex"
+funding: "KomRex and VolkswagenStiftung"
 website: "https://www.komrex.uni-jena.de/komrexmedia/5302/komrex-policy-paper-final.pdf"
 websitelabel: "Link"
 websitetext: "Go to the policy paper (PDF, in German)"
