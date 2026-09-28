@@ -1,6 +1,9 @@
 ---
 title: "Fakt-o-Mat – Teste dein politisches Faktenwissen"
 short: "Fakt-o-Mat"
+image: /images/projekte/fom-insta-meinung-post.png
+imagealt: "Kampagnenmotiv des Fakt-o-Mat: gelbes Textfeld mit dem Zitat „Meine Meinung steht fest, irritieren Sie mich nicht mit Tatsachen.“"
+imagealign: "40%"
 date: 2026-01-01
 translationKey: fakt-o-mat
 category: digital
