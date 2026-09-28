@@ -8,7 +8,7 @@ translationKey: komrex-policy-paper-landtagswahlen-2024
 category: policy
 period: "2024"
 periodlabel: "Veröffentlichung"
-team: ["Dr. Christine Finn", "Dr. Anna-Sophie Heinze", "Carla Grosche", "Carolin-Theresa Ziemer", "Vladimir Bojarskich", "Arne Stolp", "Timon Scheuer", "Anna Lambrich", "Prof. Dr. Eva Walther", "Prof. Dr. Tobias Rothmund"]
+team: ["Dr. Christine Finn", "Dr. Anna-Sophie Heinze", "Carla Grosche", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich", "Arne Stolp", "Timon Scheuer", "Anna Lambrich", "Prof. Dr. Eva Walther", "Prof. Dr. Tobias Rothmund"]
 funding: "KomRex"
 website: "https://www.komrex.uni-jena.de/komrexmedia/5302/komrex-policy-paper-final.pdf"
 websitelabel: "Link"

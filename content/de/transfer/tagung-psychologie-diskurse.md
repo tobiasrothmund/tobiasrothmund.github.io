@@ -10,6 +10,7 @@ category: events
 period: "26.–27. März 2026, Psychologische Hochschule Berlin"
 periodlabel: "Termin & Ort"
 team: ["Prof. Dr. Andreas Beelmann (Friedrich-Schiller-Universität Jena)", "Prof. Dr. Eva Walther (Universität Trier)", "Prof. Dr. Rainer Banse (Rheinische Friedrich-Wilhelms-Universität Bonn)", "Dr. Stefanie Hechler (Freie Universität Berlin)", "Prof. Dr. Peter Noack (Friedrich-Schiller-Universität Jena)", "Prof. Dr. Tobias Rothmund (Friedrich-Schiller-Universität Jena)", "Prof. Dr. Uli Wagner (Philipps-Universität Marburg)"]
+funding: "KomRex und DGPs"
 website: "https://tally.so/r/kdW61Z"
 websitelabel: "Aufruf"
 websitetext: "Zum Aufruf (Unterzeichnung möglich)"

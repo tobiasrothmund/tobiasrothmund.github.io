@@ -7,12 +7,12 @@ date: 2026-01-01
 translationKey: pub-affektive-polarisierung
 category: policy
 period: "2026"
-periodlabel: "Umsetzung"
-team: ["Christine Finn", "Tobias Rothmund"]
+periodlabel: "Veröffentlichung"
+team: ["Dr. Christine Finn", "Prof. Dr. Tobias Rothmund"]
 funding: "DGPs, BDP und ZPID"
 website: "https://pada.psycharchives.org/preview/bitstream/698a15bf-a28f-497e-8448-6e247a33b135"
 websitelabel: "Link"
-websitetext: "Zum Beitrag"
+websitetext: "Zum Policy Brief (PDF)"
 summary: "Welche Risiken birgt affektive Polarisierung für Gesundheit, soziale Beziehungen und gesellschaftlichen Zusammenhalt? Was können Politik, Gesundheitswesen und Zivilgesellschaft dagegen tun?"
 ---
 Die zweite Reihe der Policy Ultra-Briefs bündelt sozialwissenschaftlich fundiertes Wissen zu zentralen Fragen: Sie reichen von Gewalt- und Radikalisierungsprävention über Zivilcourage, Polarisierung, soziale Kategorisierung und Intergruppenkontakt bis hin zu Demokratieförderung in der Schule, psychischer Gesundheit und Einsamkeit sowie den Auswirkungen Künstlicher Intelligenz und großer Sprachmodelle auf demokratische Prozesse.
