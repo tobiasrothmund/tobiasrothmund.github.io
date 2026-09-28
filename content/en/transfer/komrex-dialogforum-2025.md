@@ -1,6 +1,8 @@
 ---
 title: "KomRex Dialogue Forum 2025 – How Can Democratic Culture Be Strengthened?"
 short: "Dialogue Forum 2025"
+image: /images/projekte/20251025_160300.jpg
+imagealt: "Panel discussion on evidence-based policy advice at the KomRex Dialogue Forum in the Rosensäle, Jena, with the audience in the foreground"
 date: 2025-10-25
 translationKey: komrex-dialogforum-2025
 category: events
