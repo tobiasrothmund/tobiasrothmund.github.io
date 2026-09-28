@@ -6,7 +6,12 @@ translationKey: sensipov
 status: running
 period: "November 2023 – Oktober 2026"
 funding: "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)"
-team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Christian Thiel (Leitung)", "Dr. Christine Finn", "Arne Stolp, M. Sc."]
+fundinglogos:
+  - img: "/images/projekte/csm_logo-BMFTR-carousels_d92c1b1aaf.webp"
+    alt: "Gefördert durch: Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)"
+    link: "https://www.bmftr.bund.de/"
+    height: 150
+team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Christian Thiel (Leitung)", "Dr. Christine Finn", "Arne Stolp"]
 weight: -2
 image: /images/projekte/a011123003.jpg
 imagealt: "Zwei Personen und ein Spiegel: Ein Mann hält einem anderen einen Spiegel vor, in dem dieser sich selbst betrachtet."
@@ -25,3 +30,5 @@ Allerdings wissen wir bislang noch kaum etwas dazu, inwiefern
 3. eine Sensibilisierung für politische Voreingenommenheit die Anfälligkeit für Desinformation, Verschwörungserzählungen und Wissenschaftsleugnung reduzieren kann.
 
 Das Projekt zielt allgemein darauf ab, Sensibilität für politische Voreingenommenheit messbar zu machen und den Zusammenhang zwischen der Sensibilität für politische Voreingenommenheit und der politischen Voreingenommenheit mit wissenschaftlicher Evidenz im Kontext sozio-gesellschaftlicher Problemlagen empirisch zu untersuchen.
+
+Aus dem Projekt ist der [Fakt-o-Mat](/transfer/fakt-o-mat/) hervorgegangen – ein Online-Quiz, mit dem man sein politisches Faktenwissen testen kann.

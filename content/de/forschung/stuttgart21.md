@@ -10,7 +10,7 @@ category: realkontexte
 status: completed
 period: "2010 – 2011"
 funding: "Universität Koblenz-Landau"
-team: ["Methodenzentrum Landau", "Anna Baumert", "Axel Zinkernagel", "Tobias Rothmund"]
+team: ["Methodenzentrum Landau", "Prof. Dr. Anna Baumert", "Dr. Axel Zinkernagel", "Prof. Dr. Tobias Rothmund"]
 publications: ["10.1007/s11211-014-0202-x"]
 summary: "Was motiviert Menschen zum Protest gegen Stuttgart 21? Werden die Schlichtungsgespräche als fair und versöhnlich wahrgenommen?"
 ---

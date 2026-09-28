@@ -7,7 +7,7 @@ status: running
 period: "2024 – 2026"
 partners: ["KomRex (Universität Jena)", "Lehrstuhl für Sozialpsychologie (Universität Trier)"]
 funding: "Freistaat Thüringen und VolkswagenStiftung"
-team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Carla Grosche", "Dr. Christine Finn", "Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
+team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Carla Grosche", "Dr. Christine Finn", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich"]
 weight: -3
 image: /images/projekte/oslwo24.webp
 imagealt: "Umrisse von Thüringen, Sachsen und Brandenburg mit den Wahlterminen 2024 und einer Wahlurne"
@@ -25,3 +25,5 @@ Die Befragung umfasst ein Basismodul an Items und Skalen zu
 4. ideologischen Einstellungen.
 
 Darüber hinaus konnten Wissenschaftlerinnen und Wissenschaftler in frühen Karrierephasen – Doktorandinnen und Doktoranden sowie promovierte wissenschaftliche Mitarbeitende bis zu sechs Jahre nach der Promotion aus den Sozial- und Verhaltenswissenschaften mit quantitativer Forschungsausrichtung – eigene Befragungsmodule entlang der thematischen Schwerpunkte des KomRex (Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration) einbringen, um diese im Anschluss eigenständig auszuwerten und wissenschaftlich zu verwerten.
+
+Auf Grundlage der Studie entstanden unter anderem das [Policy Paper zu den Landtagswahlen 2024](/transfer/komrex-policy-paper-landtagswahlen-2024/) und das [KomRex Dialogforum 2025](/transfer/komrex-dialogforum-2025/).
