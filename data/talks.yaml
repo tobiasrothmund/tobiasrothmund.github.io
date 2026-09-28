@@ -23,6 +23,7 @@
   lang: de
   url: https://www.geo.de/wissen/psychologie--was-unsere-wahlentscheidung-wirklich-beeinflusst-38194918.html
   summary: Was geschieht im Kopf von Menschen, wenn sie ihr Kreuz machen? Im Interview mit Diana Laarz erklärt Tobias Rothmund, warum in der Wahlkabine selten rational entschieden wird.
+  paywall: true
 
 - type: tv
   date: 2026-07-02
