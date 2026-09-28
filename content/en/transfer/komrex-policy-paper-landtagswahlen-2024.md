@@ -1,6 +1,8 @@
 ---
 title: "The Results of the 2024 State Elections in East Germany as a Challenge for Politics and Democracy"
 short: "Policy Paper"
+image: /images/projekte/oslwo24.webp
+imagealt: "Outlines of Thuringia, Saxony and Brandenburg with the 2024 election dates and a ballot box"
 date: 2024-09-28
 translationKey: komrex-policy-paper-landtagswahlen-2024
 category: policy
