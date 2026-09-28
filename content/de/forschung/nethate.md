@@ -6,6 +6,11 @@ translationKey: nethate
 status: completed
 period: "Februar 2021 – Januar 2024"
 partners: ["Network of Excellence for Training on Hate (NETHATE): 15 Forschungsteams an 10 Universitäten und einer NGO, 14 Partnerorganisationen"]
+partnerlogos:
+  - img: "/images/projekte/logo-dark.webp"
+    alt: "Logo NETHATE – Network of Excellence for Training on Hate"
+    link: "https://nethate-itn.eu/"
+    height: 50
 funding: "EU Horizon 2020, Marie Skłodowska-Curie Actions (Grant Nr. 861047)"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Vladimir Bojarskich", "Laura Dellagiacoma"]
 weight: 0
