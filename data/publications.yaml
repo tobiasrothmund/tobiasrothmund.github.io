@@ -115,7 +115,7 @@
 
 - type: article
   year: 2024
-  authors: Hauptvogel, D., Kuhlmann, J., Richard, I., Emanuely, C., Schreckenberg, D., Quehl, J., … & Bartels, S.
+  authors: Hauptvogel, D., Kuhlmann, J., Richard, I., Emanuely, C., Schreckenberg, D., Quehl, J., Rothmund, T., & Bartels, S.
   title: 'Fairness perspectives of airport residents: A qualitative approach'
   venue: Transportation Research Interdisciplinary Perspectives
   volume: 27, 101221
@@ -190,7 +190,7 @@
 
 - type: article
   year: 2023
-  authors: Azevedo, F., Pavlović, T., Rêgo, G. G., Ay, F. C., Gjoneska, B., Etienne, T. W., … & Huang, G.
+  authors: Azevedo, F., Pavlović, T., Rêgo, G. G., Ay, F. C., Gjoneska, B., Etienne, T. W., … Rothmund, T., … & Huang, G.
   title: Social and moral psychology of COVID-19 across 69 countries
   venue: Scientific Data
   volume: 10(1), 272
@@ -205,7 +205,7 @@
 
 - type: article
   year: 2022
-  authors: Pavlović, T., Azevedo, F., De, K., Riaño-Moreno, J. C., Maglić, M., Gkinopoulos, T., … & Keudel, O.
+  authors: Pavlović, T., Azevedo, F., De, K., Riaño-Moreno, J. C., Maglić, M., Gkinopoulos, T., … Rothmund, T., … & Keudel, O.
   title: Predicting attitudinal and behavioral responses to COVID-19 pandemic using machine learning
   venue: PNAS Nexus
   volume: 1(3)
@@ -217,6 +217,7 @@
   authors: Rothmund, T., & Ziemer, C. T.
   title: Zur Psychologie der Unterstützung rechtspopulistischer Parteien und Politiker*innen
   venue: 'In A. Beelmann & D. Michelsen (Hrsg.), Rechtsextremismus, Demokratiebildung, gesellschaftliche Integration: Interdisziplinäre Debatten und Forschungsbilanzen (S. 103–125). Springer Fachmedien Wiesbaden'
+  doi: 10.1007/978-3-658-35564-7_6
 
 - type: article
   year: 2022
@@ -229,7 +230,7 @@
 
 - type: article
   year: 2021
-  authors: Imhoff, R., Alexopoulos, T., Cichocka, A., Degner, J., Dixon, J., Easterbrook, M. J., … & Smith, J.
+  authors: Imhoff, R., Alexopoulos, T., Cichocka, A., Degner, J., Dixon, J., Easterbrook, M. J., Greenaway, K. H., Henry, P. J., Marshall, T., Papies, E. K., Rothmund, T., Shnabel, N., & Smith, J.
   title: Thoroughly thought through? Experimenting with Registered Reports
   venue: European Journal of Social Psychology
   volume: 51(7), 1035–1037
@@ -237,7 +238,7 @@
 
 - type: article
   year: 2022
-  authors: Van Bavel, J. J., Cichocka, A., Capraro, V., Sjåstad, H., Nezlek, J. B., Pavlović, T., … & Jørgensen, F. J.
+  authors: Van Bavel, J. J., Cichocka, A., Capraro, V., Sjåstad, H., Nezlek, J. B., Pavlović, T., … Rothmund, T., … & Jørgensen, F. J.
   title: National identity predicts public health support during a global pandemic
   venue: Nature Communications
   volume: 13(1), 1–14
@@ -378,10 +379,11 @@
 
 - type: article
   year: 2018
-  authors: Imhoff, R., Smith, J., van Zomeren, M., Amiot, C., Andreouli, E., Bilewicz, M., … & Vaes, J.
+  authors: Imhoff, R., Smith, J., van Zomeren, M., Amiot, C., Andreouli, E., Bilewicz, M., … Rothmund, T., … & Vaes, J.
   title: Opening up to openness
   venue: European Journal of Social Psychology
   volume: 48(1), 1–3
+  doi: 10.1002/ejsp.2359
 
 - type: article
   year: 2017
@@ -584,6 +586,7 @@
   title: 'Biased estimation of violent video game effects on aggression: Contributing factors and boundary conditions'
   venue: Societies
   volume: 3, 383–398
+  doi: 10.3390/soc3040383
 
 - type: article
   year: 2013
@@ -591,6 +594,7 @@
   title: Proposal of a nonlinear interaction of person and situation (NIPS) model
   venue: Frontiers in Psychology
   volume: 4, 499
+  doi: 10.3389/fpsyg.2013.00499
 
 - type: article
   year: 2013
@@ -598,6 +602,7 @@
   title: 'The Sensitivity to Mean Intentions (SeMI) model: Basic assumptions, recent findings, and potential avenues for future research'
   venue: Social and Personality Psychology Compass
   volume: 7, 415–426
+  doi: 10.1111/spc3.12041
 
 - type: article
   year: 2013
@@ -612,12 +617,14 @@
   authors: Baumert, A., Rothmund, T., Thomas, N., Gollwitzer, M., & Schmitt, M.
   title: Justice as a moral motive – Belief in a just world and justice sensitivity as potential indicators of the justice motive
   venue: 'In K. Heinrichs, F. Oser & T. Lovat (Eds.), Handbook of Moral Motivation: Theories, Models, Applications (pp. 159–179). Sense Publishers'
+  doi: 10.1007/978-94-6209-275-4_10
 
 - type: chapter
   year: 2013
   authors: Rothmund, T., Gollwitzer, M., Baumert, A., & Schmitt, M.
   title: The psychological functions of justice in mass media
   venue: In R. Tamborini (Ed.), Media and the Moral Mind (pp. 170–197). Routledge
+  doi: 10.4324/9780203127070-17
 
 - type: article
   year: 2012
@@ -632,6 +639,7 @@
   title: Can network models represent personality structures and processes better than trait models do?
   venue: European Journal of Personality
   volume: 26, 444–445
+  doi: 10.1002/per.1875
 
 - type: article
   year: 2012
@@ -639,6 +647,7 @@
   title: Victim sensitivity and the accuracy of social judgment
   venue: Personality and Social Psychology Bulletin
   volume: 38(8), 975–984
+  doi: 10.1177/0146167212440887
 
 - type: chapter
   year: 2012
@@ -652,6 +661,7 @@
   title: Effects of consensus information and task demonstrability on preference-consistent information evaluation and decision quality in group decision making
   venue: Basic and Applied Social Psychology
   volume: 33(4), 382–390
+  doi: 10.1080/01973533.2011.614147
 
 - type: article
   year: 2011
@@ -667,6 +677,7 @@
   title: What exactly are victim-sensitive persons sensitive to?
   venue: Journal of Research in Personality
   volume: 45(5), 448–455
+  doi: 10.1016/j.jrp.2011.05.003
 
 - type: article
   year: 2011
@@ -674,6 +685,7 @@
   title: 'Of virtual victims and victimized virtues: Differential effects of experienced aggression in video games on social cooperation'
   venue: Personality and Social Psychology Bulletin
   volume: 37(1), 107–119
+  doi: 10.1177/0146167210391103
 
 - type: other
   year: 2010
@@ -700,19 +712,22 @@
   title: Why and when justice sensitivity leads to pro- and antisocial behavior
   venue: Journal of Research in Personality
   volume: 43(6), 999–1005
+  doi: 10.1016/j.jrp.2009.07.003
 
 - type: article
   year: 2009
   authors: Schmitt, M., Baumert, A., Fetchenhauer, D., Gollwitzer, M., Rothmund, T., & Schlösser, T.
-  title: Empfindlichkeit für Ungerechtigkeit
+  title: Sensibilität für Ungerechtigkeit
   venue: Psychologische Rundschau
   volume: 60(1), 8–22
+  doi: 10.1026/0033-3042.60.1.8
 
 - type: chapter
   year: 2009
   authors: Gollwitzer, M., & Rothmund, T.
   title: 'When the need to trust results in unethical behavior: The Sensitivity to Mean Intentions (SeMI) model'
   venue: In D. De Cremer (Ed.), Psychological perspectives on unethical behavior and decision making (pp. 135–152). Information Age
+  doi: 10.1108/978-1-60752-276-820251012
 
 - type: other
   year: 2008
