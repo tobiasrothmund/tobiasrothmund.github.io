@@ -7,12 +7,12 @@ date: 2026-01-01
 translationKey: pub-affektive-polarisierung
 category: policy
 period: "2026"
-periodlabel: "Implementation"
-team: ["Christine Finn", "Tobias Rothmund"]
+periodlabel: "Published"
+team: ["Dr. Christine Finn", "Prof. Dr. Tobias Rothmund"]
 funding: "DGPs, BDP and ZPID"
 website: "https://pada.psycharchives.org/preview/bitstream/698a15bf-a28f-497e-8448-6e247a33b135"
 websitelabel: "Link"
-websitetext: "Go to the brief (in German)"
+websitetext: "Go to the policy brief (PDF, in German)"
 summary: "What risks does affective polarisation pose to health, social relationships and social cohesion? What can policymakers, the health sector and civil society do about it?"
 ---
 The second series of Policy Ultra-Briefs (PUB) brings together social-science knowledge on key questions: from the prevention of violence and radicalisation, civil courage, polarisation, social categorisation and intergroup contact to democracy education in schools, mental health and loneliness, and the effects of artificial intelligence and large language models on democratic processes.

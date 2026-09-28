@@ -9,8 +9,8 @@ translationKey: fakt-o-mat
 category: digital
 period: "2026"
 periodlabel: "Implementation"
-team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Christian Thiel (lead)", "Dr. Christine Finn", "Arne Stolp, M. Sc."]
-funding: "[SensipoV project](/en/research/sensipov/), Federal Ministry of Research, Technology and Space (BMFTR)"
+team: ["Prof. Dr. Tobias Rothmund (lead)", "Prof. Dr. Christian Thiel (lead)", "Dr. Christine Finn", "Arne Stolp"]
+funding: "[SensipoV project](/en/research/sensipov/) and KomRex"
 website: "https://www.fakt-o-mat.de/"
 websitelabel: "Link"
 websitetext: "Go to the Fakt-o-Mat (in German)"

@@ -6,7 +6,7 @@ translationKey: interventionsatlas
 category: digital
 period: "2023"
 periodlabel: "Implementation"
-team: ["Vladimir Bojarskich (lead)", "Charlotte Freihse", "Das NETTZ", "Tobias Rothmund", "[media designers schultz+schultz](https://www.schultzundschultz.at/)"]
+team: ["Vladimir Bojarskich (lead)", "Charlotte Freihse", "Das NETTZ", "Prof. Dr. Tobias Rothmund", "[media designers schultz+schultz](https://www.schultzundschultz.at/)"]
 teamlogos:
   - img: "/images/projekte/crop_original_bp1648568185_NETTZ_RGB_schraffur__2_.jpg"
     alt: "Das NETTZ logo"
