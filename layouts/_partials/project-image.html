@@ -1,10 +1,13 @@
 {{- /* Projektbild: Front-Matter-Feld "image" (Pfad unter static/, z. B. /images/projekte/sensipov.jpg),
-       optional "imagecaption". Ohne Bild erscheint eine blaue Grafik mit dem Kurznamen ("short"). */ -}}
+       optional "imagecaption", "imagefit" (z. B. contain) und "imagealign" (top | bottom | Prozentwert wie "40%": vertikaler Bildausschnitt bei Zuschnitt). Ohne Bild erscheint eine blaue Grafik mit dem Kurznamen ("short"). */ -}}
 {{- $p := .page -}}
 {{- $short := $p.Params.short | default (cond (in $p.Title " – ") (index (split $p.Title " – ") 0) "") -}}
 <figure class="{{ .class }}{{ if not $p.Params.image }} is-fallback{{ end }}">
   {{- with $p.Params.image }}
-  <img src="{{ . | relURL }}" alt="{{ $p.Params.imagealt | default $p.Title }}" loading="lazy"{{ with $p.Params.imagefit }} style="object-fit:{{ . }};background:#fff;padding:0.5rem;box-sizing:border-box"{{ end }}>
+  {{- $style := "" -}}
+  {{- with $p.Params.imagefit }}{{ $style = printf "object-fit:%s;background:#fff;padding:0.5rem;box-sizing:border-box;" . }}{{ end -}}
+  {{- with $p.Params.imagealign }}{{ $style = printf "%sobject-position:center %s;" $style . }}{{ end }}
+  <img src="{{ . | relURL }}" alt="{{ $p.Params.imagealt | default $p.Title }}" loading="lazy"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
   {{- else }}
   {{ with $short }}<span class="project-fallback" aria-hidden="true">{{ . }}</span>{{ end }}
   {{- end }}
