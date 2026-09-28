@@ -16,6 +16,14 @@
 #             date wird dann nur zum Sortieren verwendet)
 # ─────────────────────────────────────────────────────────────
 
+- type: interview
+  date: 2026-09-04
+  title: "Das Kreuz mit dem Kreuz: Was unsere Wahlentscheidung wirklich beeinflusst"
+  venue: GEO
+  lang: de
+  url: https://www.geo.de/wissen/psychologie--was-unsere-wahlentscheidung-wirklich-beeinflusst-38194918.html
+  summary: Was geschieht im Kopf von Menschen, wenn sie ihr Kreuz machen? Im Interview mit Diana Laarz erklärt Tobias Rothmund, warum in der Wahlkabine selten rational entschieden wird.
+
 - type: tv
   date: 2026-07-02
   title: Warum Menschen die gleichen Nachrichten unterschiedlich wahrnehmen
