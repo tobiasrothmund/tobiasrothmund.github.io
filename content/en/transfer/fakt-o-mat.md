@@ -10,6 +10,10 @@ category: digital
 period: "2026"
 periodlabel: "Implementation"
 team: ["Dr. Christine Finn (lead)", "Arne Stolp", "Prof. Dr. Tobias Rothmund", "Prof. Dr. Christian Thiel", "Kallinich Media"]
+teamlogos:
+  - img: "/images/projekte/KM_Logo.jpg"
+    alt: "Kallinich Media logo"
+    height: 110
 funding: "[SensipoV project](/en/research/sensipov/) and KomRex"
 website: "https://www.fakt-o-mat.de/"
 websitelabel: "Link"
