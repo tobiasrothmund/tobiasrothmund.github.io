@@ -21,7 +21,7 @@ I am also committed to the ideals of open and transparent research practices (op
 ## Career
 
 - **since 2024** – Director of the Centre for Research on Right-Wing Extremism, Democracy Education and Societal Integration (KomRex), Friedrich Schiller University Jena
-- **2023–2026** – Executive Director of the Department of Communication Science (IfKW), Friedrich Schiller University Jena
+- **since 2023** – Executive Director of the Department of Communication Science (IfKW), Friedrich Schiller University Jena
 - **since 2018** – Professor for Psychology of Communication and Media Use, Department of Communication Science (IfKW), Friedrich Schiller University Jena
 - **2013–2018** – Assistant Professor (Juniorprofessor) of Political Psychology, Institute for Communication Psychology and Media Education (IKM), University of Koblenz-Landau
 - **2014–2015** – Interim Professor of Psychological Assessment, Evaluation and Intervention, Technical University of Darmstadt
@@ -36,7 +36,7 @@ I am also committed to the ideals of open and transparent research practices (op
 
 ## Reviewing
 
-Ad hoc reviews for, among others, the German Research Foundation (DFG), the Alexander von Humboldt Foundation, *Journal of Personality and Social Psychology*, *Psychological Science*, *Personality and Social Psychology Bulletin*, *Personality and Individual Differences*, *Journal of Experimental Social Psychology*, *Social Justice Research*, *European Journal of Personality*, *European Journal of Personality Assessment*, *Aggressive Behavior*, *Journal of Communication* and *Journal of Media Psychology*.
+Ad hoc reviews for, among others, the German Research Foundation (DFG), the Alexander von Humboldt Foundation, *Journal of Personality and Social Psychology*, *Psychological Science*, *Personality and Social Psychology Bulletin*, *Personality and Individual Differences*, *Journal of Experimental Social Psychology*, *Social Justice Research*, *European Journal of Personality*, *European Journal of Psychological Assessment*, *Aggressive Behavior*, *Journal of Communication* and *Journal of Media Psychology*.
 
 ## Memberships
 
