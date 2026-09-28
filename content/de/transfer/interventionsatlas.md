@@ -16,6 +16,11 @@ teamlogos:
     link: "https://www.schultzundschultz.at/"
     height: 40
 funding: "[NETHATE-Projekt](/forschung/nethate/)"
+fundinglogos:
+  - img: "/images/projekte/logo-dark.webp"
+    alt: "Logo NETHATE – Network of Excellence for Training on Hate"
+    link: "https://nethate-itn.eu/"
+    height: 50
 website: "https://toneshift.org/interventionsatlas/"
 websitelabel: "Link"
 websitetext: "Zum Interventionsatlas"
