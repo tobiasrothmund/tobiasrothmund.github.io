@@ -8,7 +8,8 @@ translationKey: pub-affektive-polarisierung
 category: policy
 period: "2026"
 periodlabel: "Umsetzung"
-team: ["Christine Finn", "Tobias Rothmund", "DGPs", "BDP", "ZPID"]
+team: ["Christine Finn", "Tobias Rothmund"]
+funding: "DGPs, BDP und ZPID"
 website: "https://pada.psycharchives.org/preview/bitstream/698a15bf-a28f-497e-8448-6e247a33b135"
 websitelabel: "Link"
 websitetext: "Zum Beitrag"
