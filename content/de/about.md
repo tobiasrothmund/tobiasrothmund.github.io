@@ -5,16 +5,16 @@ type: about
 url: /about/
 ---
 
-Meine Arbeitsweise basiert auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht dabei grundsätzlich nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
+Meine Arbeitsweise basiert auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht dabei nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
 
-Gleichzeitig basiert der Prozess der Erkenntnisgewinnung immer auch auf normativen Überzeugungen und Grundannahmen. Für mich sind zwei Annahmen zentral:
+Dieser Prozess der Erkenntnisgewinnung ist immer durch normative Überzeugungen und Grundannahmen beeinflusst. Für mich sind zwei Annahmen zentral:
 
-1. Autonomie und soziale Verantwortung sind die Grundpfeiler dafür, dass individuelle und gesellschaftliche Lebensentwürfe gelingen können.
-2. Gesellschaften können nur langfristig erfolgreich sein, wenn es ihnen gelingt, die Interessen und Kompetenzen ihrer BürgerInnen bestmöglich zu integrieren.
+1. Selbstbestimmung und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
+2. Die Aufgabe für Gesellschaften liegt darin, die Interessen und Kompetenzen ihrer BürgerInnen auf eine Weise zu befördern, so dass Selbstbestimmtheit für möglichst viele Menschen ermöglicht wird.
 
 Vor diesem Hintergrund fühle ich mich den Idealen einer deliberativen Demokratie verbunden.
 
-Demokratische Gesellschaften basieren jedoch nicht nur auf Verfassungen, Gewaltenteilung und Freiheitsrechten. Zentral sind auch Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein evidenzinformierter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
+Demokratische Gesellschaften basieren nicht nur auf Verfassungen, Gewaltenteilung und Freiheitsrechten. Zentral sind auch Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein evidenzinformierter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
 
 Außerdem fühle ich mich den Idealen einer offenen und transparenten wissenschaftlichen Arbeitsweise (Open Science), einer inter- und transdisziplinären Zusammenarbeit sowie einer dialogischen Wissenschaftskommunikation auf Augenhöhe verbunden.
 
