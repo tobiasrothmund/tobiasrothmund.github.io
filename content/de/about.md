@@ -9,14 +9,14 @@ Ich forsche seit mehr als zehn Jahren dazu, wie Menschen politische Prozesse erl
 
 Meine Arbeitsweise basiert dabei auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
 
-Dieser Prozess der Erkenntnisgewinnung ist immer durch normative Überzeugungen und Grundannahmen beeinflusst. Für mich sind zwei Annahmen zentral:
+Erkenntnisgewinnung ist immer durch normative Überzeugungen und Grundannahmen beeinflusst und gebahnt. Für mich sind zwei Annahmen zentral:
 
 1. Selbstbestimmtheit und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
 2. Gesellschaftliche Rahmenbedingungen sollten so gestaltet werden, dass Menschen soziale Verantwortung übernehmen wollen und selbstbestimmt leben können.
 
-Vor diesem Hintergrund fühle ich mich den Idealen einer deliberativen Demokratie verbunden, die auf gegenseitigem Respekt und Offenheit sowie einem vernunftgeleiteten und evidenzinformierten Diskurs basiert. Letzterer setzt jedoch voraus, dass die Interessen, Emotionen und Vorstellungen aller Beteiligten bestmöglich berücksichtigt werden.
+Vor diesem Hintergrund bin ich den Zielen einer deliberativen Demokratie verbunden, die auf gegenseitigem Respekt und Offenheit sowie einem vernunftgeleiteten und evidenzinformierten Diskurs basiert. Letzterer setzt jedoch voraus, dass die Interessen, Emotionen und Vorstellungen aller Beteiligten bestmöglich berücksichtigt werden.
 
-Zentral für das Gelingen einer deliberativen Demokratie sind nicht nur Verfassungen, Gewaltenteilung und Freiheitsrechte, sondern auch Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein transparenter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
+Zentral für das Gelingen einer deliberativen Demokratie sind Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein transparenter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
 
 Schließlich habe ich mich den Idealen einer offenen und transparenten wissenschaftlichen Arbeitsweise (Open Science), einer inter- und transdisziplinären Zusammenarbeit sowie einer dialogischen Wissenschaftskommunikation auf Augenhöhe verschrieben.
 
