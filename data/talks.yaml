@@ -17,6 +17,93 @@
 # ─────────────────────────────────────────────────────────────
 
 - type: interview
+  date: 2025-11-01
+  datelabel: Heft 3/2025
+  title: Rechtsradikalisierung ist ein Wechselspiel von Über- und Unterlegenheitsgefühlen
+  venue: Report Psychologie (BDP) – mit Prof. Dr. Eva Walther
+  lang: de
+  url: https://www.uni-trier.de/fileadmin/fb1/prof/PSY/SPS/reportpsychologie_03-2025_Online.pdf
+  summary: Im Gespräch mit Isabelle Bock erläutern Eva Walther und Tobias Rothmund psychologische Mechanismen der Rechtsradikalisierung – insbesondere die Rolle von Deprivationserfahrungen und Emotionen – und wie Bildung, Kultur und demokratische Strukturen den gesellschaftlichen Zusammenhalt stärken können.
+
+- type: interview
+  date: 2025-10-01
+  datelabel: Ausgabe 3/2025
+  title: Die innere Brille
+  venue: TEAG Magazin
+  lang: de
+  url: https://www.thueringerenergie.de/Content/Documents/TEAG_Magazin_03-25.pdf
+  summary: Wie entstehen Meinungen – und warum sehen wir oft nur, was wir sehen wollen? Im Interview mit Lars Schuster geht es um die „innere Brille“, den Bestätigungsfehler in sozialen Medien und darum, wie man im eigenen Denken beweglich bleibt (S. 12–15).
+
+- type: interview
+  date: 2020-07-13
+  title: "Corona-Kommunikation: Viel Licht, viel Schatten"
+  venue: wissenschaftskommunikation.de
+  lang: de
+  url: https://www.wissenschaftskommunikation.de/corona-kommunikation-viel-licht-viel-schatten-40303/
+  summary: Im Interview mit Joachim Retzbach geht es um eine Studie mit rund 1.500 Befragten und über 100 Virolog:innen – drei Viertel der Bevölkerung teilen die Einschätzungen der Wissenschaft, Skeptiker:innen informieren sich dagegen häufiger über soziale Medien.
+
+- type: press
+  date: 2018-09-12
+  title: Reden mit Rechten
+  venue: Psychologie Heute 10/2018
+  lang: de
+  url: https://www.psychologie-heute.de/gesellschaft/39465-reden-mit-rechten.html
+  summary: Wie reagiert man, wenn Familie oder Freunde rechtspopulistische Positionen vertreten? Der Beitrag von Susanne Ackermann stützt sich maßgeblich auf Einschätzungen von Tobias Rothmund zu Weltbildern und politischer Kommunikation.
+  paywall: true
+
+- type: talk
+  date: 2018-06-05
+  title: "E-Democracy-Workshop: Politische Meinungsbildung in Social Media"
+  venue: Universität Koblenz-Landau – Koblenzer Wochen der Demokratie
+  place: Koblenz
+  lang: de
+  url: https://www.uni-koblenz-landau.de/de/koblenz/fb4/aktuelles/termine/edemocracy-2018
+  summary: Workshop für die interessierte Öffentlichkeit, insbesondere Jugendliche und junge Erwachsene, über Social Bots und motivierte Informationsverarbeitung als Risiken für den demokratischen Diskurs im Netz.
+
+- type: interview
+  date: 2017-06-01
+  datelabel: Heft 2/2017
+  title: Das Geheimnis der guten Wahl
+  venue: BDLspezial – Fachmagazin der Landjugend
+  lang: de
+  url: https://www.fsv.uni-jena.de/fsvmedia/26150/interview-landjugend.pdf
+  summary: Vor der Bundestagswahl 2017 erklärt Tobias Rothmund im Gespräch mit Carina Gräschke, welche Rolle Vertrauen in Integrität, Kompetenz und Wohlwollen von Politiker:innen für Wahlentscheidungen spielt – und warum Falschinformationen auch nach ihrer Richtigstellung nachwirken können.
+
+- type: interview
+  date: 2017-03-14
+  title: Der Selbstverliebte
+  venue: Rhein-Zeitung
+  lang: de
+  url: https://www.fsv.uni-jena.de/fsvmedia/26165/trump-interview.pdf
+  summary: Anlässlich des Treffens von Angela Merkel und Donald Trump analysiert Tobias Rothmund im Interview mit Nina Kugler Trumps populistische Strategien und seinen Umgang mit Kritik.
+
+- type: press
+  date: 2016-12-09
+  title: The Roots of Implicit Bias
+  venue: The New York Times – Sunday Review
+  lang: en
+  url: https://www.nytimes.com/2016/12/09/opinion/sunday/the-roots-of-implicit-bias.html
+  summary: Gastbeitrag von Daniel Yudkin und Jay Van Bavel über gruppenbezogene Verzerrungen bei der Bestrafung von Normverstößen – mit Bezug auf die gemeinsame Forschung mit Tobias Rothmund.
+  paywall: true
+
+- type: press
+  date: 2015-09-03
+  title: "Medienpsychologie: Macht Gewalt in Unterhaltungsmedien aggressiv?"
+  venue: Spektrum.de / Gehirn&Geist
+  lang: de
+  url: https://www.spektrum.de/news/macht-gewalt-in-unterhaltungsmedien-aggressiv/1360548
+  summary: Gastbeitrag einer Kommission von Medienpsycholog:innen um Tobias Rothmund, Malte Elson und Markus Appel zum Forschungsstand, ob Gewaltdarstellungen in Unterhaltungsmedien aggressives Verhalten fördern.
+
+- type: press
+  date: 2013-09-01
+  datelabel: Heft 3/2013
+  title: "Sonderheft Politische Psychologie – Politisches Handeln verstehen und gestalten"
+  venue: In-Mind (deutschsprachige Ausgabe) – Herausgeber Tobias Rothmund
+  lang: de
+  url: http://de.in-mind.org/issue/3-2013
+  summary: Populärwissenschaftliches Themenheft zu politischen Gruppenentscheidungen, Unterhaltung in der politischen Kommunikation, Graswurzel-Engagement, europäischer Identität und Versöhnung zwischen Konfliktgruppen.
+
+- type: interview
   date: 2026-09-04
   title: "Das Kreuz mit dem Kreuz: Was unsere Wahlentscheidung wirklich beeinflusst"
   venue: GEO
