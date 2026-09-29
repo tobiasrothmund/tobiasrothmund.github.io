@@ -51,15 +51,6 @@
   summary: Wie reagiert man, wenn Familie oder Freunde rechtspopulistische Positionen vertreten? Der Beitrag von Susanne Ackermann stützt sich maßgeblich auf Einschätzungen von Tobias Rothmund zu Weltbildern und politischer Kommunikation.
   paywall: true
 
-- type: talk
-  date: 2018-06-05
-  title: "E-Democracy-Workshop: Politische Meinungsbildung in Social Media"
-  venue: Universität Koblenz-Landau – Koblenzer Wochen der Demokratie
-  place: Koblenz
-  lang: de
-  url: https://www.uni-koblenz-landau.de/de/koblenz/fb4/aktuelles/termine/edemocracy-2018
-  summary: Workshop für die interessierte Öffentlichkeit, insbesondere Jugendliche und junge Erwachsene, über Social Bots und motivierte Informationsverarbeitung als Risiken für den demokratischen Diskurs im Netz.
-
 - type: interview
   date: 2017-06-01
   datelabel: Heft 2/2017
@@ -161,7 +152,7 @@
   audio: true
   duration: 31 Min
 
-- type: press
+- type: podcast
   date: 2020-09-28
   title: "Sprache in den Nachrichten: Zwischen Zuspitzung und Präzision"
   venue: Deutschlandfunk
