@@ -29,12 +29,12 @@
   </div>
 </header>
 {{- with site.Home.OutputFormats.Get "searchindex" }}
-<div class="site-search" id="site-search" role="dialog" aria-modal="true" aria-label="{{ i18n "siteSearch" }}" data-index="{{ .RelPermalink }}" data-noresults="{{ i18n "noResults" }}" hidden>
+<div class="site-search" id="site-search" role="dialog" aria-modal="true" aria-label="{{ i18n "siteSearch" }}" data-index="{{ .RelPermalink }}" data-noresults="{{ i18n "noResults" }}" data-more="{{ i18n "searchMore" }}" hidden>
   <div class="site-search-panel">
     <div class="site-search-bar">
       <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
       <input type="search" class="site-search-input" placeholder="{{ i18n "siteSearch" }} …" aria-label="{{ i18n "siteSearch" }}" autocomplete="off" spellcheck="false">
-      <button class="site-search-close" type="button" aria-label="{{ i18n "searchClose" }}">Esc</button>
+      <button class="site-search-close" type="button" aria-label="{{ i18n "searchClose" }}"><span class="esc-key">Esc</span><span class="esc-x" aria-hidden="true">✕</span></button>
     </div>
     <p class="site-search-hint muted">{{ i18n "searchHint" }}</p>
     <ol class="site-search-results" aria-live="polite"></ol>
