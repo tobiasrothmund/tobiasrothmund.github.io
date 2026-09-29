@@ -5,20 +5,15 @@ type: about
 url: /about/
 ---
 
-Ich forsche seit mehr als zehn Jahren dazu, wie Menschen politische Prozesse erleben und gestalten.
+Ich forsche seit zwanzig Jahren dazu, wie Menschen politische Prozesse erleben und gestalten. Meine Arbeit ist geprägt durch Überzeugungen, die sich aus einer christlichen Wertorientierung, dem kritischen Rationalismus als Wissenschaftstheorie, den Prinzipien der Open Science Bewegung sowie einem Glauben an die Kraft deliberativer Demokratie speisen:
 
-Meine Arbeitsweise basiert dabei auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
+1. Unser Wissen ist immer nur vorläufig und muss ständig an neue Erkenntnisse angepasst werden.
+2. Wissenschaft sucht nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
+3. Selbstbestimmtheit und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
+4. Gesellschaftliche Rahmenbedingungen erzeugen das größtmögliche Glück, wenn sie so gestaltet werden, dass Menschen soziale Verantwortung übernehmen wollen und selbstbestimmt leben können.
+5. Ein vernunftgeleiteter politischer Diskurs ist nur dann fair, wenn auch die Interessen, Emotionen und Vorstellungen derer berücksichtigt werden, die sich nicht daran beteiligen können oder wollen.
 
-Erkenntnisgewinnung ist immer durch normative Überzeugungen und Grundannahmen beeinflusst und gebahnt. Für mich sind zwei Annahmen zentral:
-
-1. Selbstbestimmtheit und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
-2. Gesellschaftliche Rahmenbedingungen sollten so gestaltet werden, dass Menschen soziale Verantwortung übernehmen wollen und selbstbestimmt leben können.
-
-Vor diesem Hintergrund bin ich den Zielen einer deliberativen Demokratie verbunden, die auf gegenseitigem Respekt und Offenheit sowie einem vernunftgeleiteten und evidenzinformierten Diskurs basiert. Letzterer setzt jedoch voraus, dass die Interessen, Emotionen und Vorstellungen aller Beteiligten bestmöglich berücksichtigt werden.
-
-Zentral für das Gelingen einer deliberativen Demokratie sind Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein transparenter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
-
-Schließlich habe ich mich den Idealen einer offenen und transparenten wissenschaftlichen Arbeitsweise (Open Science), einer inter- und transdisziplinären Zusammenarbeit sowie einer dialogischen Wissenschaftskommunikation auf Augenhöhe verschrieben.
+Zentral für das Gelingen einer deliberativen Demokratie sind Zusammenhalt und Vertrauen, geteilte Zukunftsvorstellungen, Gerechtigkeitserleben, Perspektivübernahme und das Hinterfragen der eigenen Voreingenommenheit sowie ein transparenter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
 
 ## Werdegang
 
