@@ -5,18 +5,20 @@ type: about
 url: /about/
 ---
 
-Meine Arbeitsweise basiert auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht dabei nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
+Ich forsche seit mehr als zehn Jahren dazu, wie Menschen politische Prozesse erleben und gestalten.
+
+Meine Arbeitsweise basiert dabei auf einem empirisch-positivistischen Wissenschaftsverständnis: Wissenschaft sucht nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
 
 Dieser Prozess der Erkenntnisgewinnung ist immer durch normative Überzeugungen und Grundannahmen beeinflusst. Für mich sind zwei Annahmen zentral:
 
-1. Selbstbestimmung und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
-2. Die Aufgabe für Gesellschaften liegt darin, die Interessen und Kompetenzen ihrer BürgerInnen auf eine Weise zu befördern, so dass Selbstbestimmtheit für möglichst viele Menschen ermöglicht wird.
+1. Selbstbestimmtheit und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
+2. Gesellschaftliche Rahmenbedingungen sollten so gestaltet werden, dass Menschen soziale Verantwortung übernehmen wollen und selbstbestimmt leben können.
 
-Vor diesem Hintergrund fühle ich mich den Idealen einer deliberativen Demokratie verbunden.
+Vor diesem Hintergrund fühle ich mich den Idealen einer deliberativen Demokratie verbunden, die auf gegenseitigem Respekt und Offenheit sowie einem vernunftgeleiteten und evidenzinformierten Diskurs basiert. Letzterer setzt jedoch voraus, dass die Interessen, Emotionen und Vorstellungen aller Beteiligten bestmöglich berücksichtigt werden.
 
-Demokratische Gesellschaften basieren nicht nur auf Verfassungen, Gewaltenteilung und Freiheitsrechten. Zentral sind auch Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein evidenzinformierter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
+Zentral für das Gelingen einer deliberativen Demokratie sind nicht nur Verfassungen, Gewaltenteilung und Freiheitsrechte, sondern auch Zusammenhalt und Vertrauen, geteilte Zukunftsutopien, individuelles und soziales Gerechtigkeitserleben oder ein transparenter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
 
-Außerdem fühle ich mich den Idealen einer offenen und transparenten wissenschaftlichen Arbeitsweise (Open Science), einer inter- und transdisziplinären Zusammenarbeit sowie einer dialogischen Wissenschaftskommunikation auf Augenhöhe verbunden.
+Schließlich habe ich mich den Idealen einer offenen und transparenten wissenschaftlichen Arbeitsweise (Open Science), einer inter- und transdisziplinären Zusammenarbeit sowie einer dialogischen Wissenschaftskommunikation auf Augenhöhe verschrieben.
 
 ## Werdegang
 
