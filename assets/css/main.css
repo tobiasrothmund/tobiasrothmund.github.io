@@ -533,5 +533,27 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .site-search-snip { font-size: 0.875rem; color: var(--ink-2); line-height: 1.5; }
 .site-search-results mark { background: rgba(255, 214, 10, .45); color: inherit; border-radius: 2px; padding: 0 1px; }
 .site-search-empty { padding: 0.8rem; }
+.site-search-more { padding: 0.7rem 0.8rem 0.5rem; font-size: 0.8125rem; border-top: 1px solid var(--line); margin-top: 0.3rem; }
+.site-search-close .esc-x { display: none; }
 body.search-open { overflow: hidden; }
-@media (max-width: 640px) { .site-search { padding-top: 4.5rem; } }
+@media (max-width: 640px) {
+  .site-search { padding-top: 4.5rem; }
+  .site-search-close { font-size: 1rem; line-height: 1; padding: 0.35rem 0.55rem; }
+  .site-search-close .esc-key { display: none; }
+  .site-search-close .esc-x { display: inline; }
+}
+/* Schmale Handys: Kopfzeile kompakter, damit nichts über den Rand ragt */
+@media (max-width: 400px) {
+  .header-inner { gap: 0.5rem; }
+  .header-tools { gap: 0.3rem; }
+  .wordmark { font-size: 0.9375rem; }
+  .icon-btn { width: 2rem; height: 2rem; }
+  .lang { padding: 0.2rem 0.45rem; }
+}
+@media (max-width: 350px) {
+  .header-inner { gap: 0.35rem; }
+  .header-tools { gap: 0.2rem; }
+  .wordmark { font-size: 0.8125rem; }
+  .icon-btn { width: 1.85rem; height: 1.85rem; }
+  .lang { padding: 0.15rem 0.35rem; }
+}
