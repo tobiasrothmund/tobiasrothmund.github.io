@@ -5,18 +5,20 @@ type: about
 url: /en/about/
 ---
 
+For more than ten years, I have been researching how people experience and shape political processes.
+
 My work is based on an empirical-positivist understanding of science: science seeks truth that exists independently of the researcher and can be experienced through the senses.
 
 This process of gaining knowledge is always influenced by normative convictions and basic assumptions. Two assumptions are central for me:
 
 1. Self-determination and social responsibility are the keys to a dignified and fulfilled human life.
-2. The task of societies is to foster the interests and competences of their citizens in a way that enables self-determination for as many people as possible.
+2. Societal conditions should be shaped in such a way that people want to take on social responsibility and are able to live self-determined lives.
 
-Against this background, I feel committed to the ideals of deliberative democracy.
+Against this background, I feel committed to the ideals of deliberative democracy, based on mutual respect and openness as well as reasoned and evidence-informed discourse. Such discourse, however, requires that the interests, emotions and ideas of everyone involved are taken into account as fully as possible.
 
-Democratic societies rest not only on constitutions, the separation of powers and civil liberties. Cohesion and trust, shared visions of the future, individual and social experiences of justice, and an evidence-informed exchange of information are also central. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
+Central to the success of deliberative democracy are not only constitutions, the separation of powers and civil liberties, but also cohesion and trust, shared visions of the future, individual and social experiences of justice, and a transparent exchange of information. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
 
-I am also committed to the ideals of open and transparent research practices (open science), inter- and transdisciplinary collaboration, and dialogue-based science communication on an equal footing.
+Finally, I am dedicated to the ideals of open and transparent research practices (open science), inter- and transdisciplinary collaboration, and dialogue-based science communication on an equal footing.
 
 ## Career
 
