@@ -20,6 +20,10 @@
     }
     return { n: n, map: map };
   }
+  // kurze Füllwörter (gefaltete Form) werden ignoriert, sofern noch andere Suchwörter übrig bleiben
+  var STOP = ('und oder der die das den dem des ein eine einen einem einer eines ich mich mir du er sie es wir ihr sich '
+    + 'zu zum zur mit von vom fur im in ins am an auf aus bei uber unter um als wie auch nicht ist sind war '
+    + 'the and or of to in for on at by an with from is are was as it').split(' ');
   function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function mark(orig, p, terms) {
     var ranges = [];
@@ -50,6 +54,9 @@
   function search() {
     var q = fold(input.value).trim();
     var terms = q.split(/\s+/).filter(function (t) { return t.length > 1; });
+    var core = terms.filter(function (t) { return STOP.indexOf(t) < 0; });
+    if (core.length) terms = core;
+    else if (terms.length > 1) terms = [terms.join(' ')];   // nur Füllwörter: als Wortgruppe suchen
     list.innerHTML = '';
     hint.hidden = terms.length > 0;
     if (!terms.length || !docs) return;
@@ -66,13 +73,15 @@
     });
     hits.sort(function (a, b) { return b[0] - a[0]; });
     if (!hits.length) { list.innerHTML = '<li class="site-search-empty muted">' + esc(box.dataset.noresults) + '</li>'; return; }
-    list.innerHTML = hits.slice(0, 30).map(function (h) {
+    var MAX = 30;
+    list.innerHTML = hits.slice(0, MAX).map(function (h) {
       var d = h[1], ext = d.u.charAt(0) !== '/';
       return '<li><a href="' + esc(d.u) + '"' + (ext ? ' target="_blank" rel="noopener"' : '') + '>' +
         (d.s ? '<span class="site-search-sec">' + esc(d.s) + '</span>' : '') +
         '<span class="site-search-title">' + mark(d.t, d.tp, terms) + (ext ? ' <span aria-hidden="true">↗</span>' : '') + '</span>' +
         (d.x ? '<span class="site-search-snip">' + snippet(d, terms) + '</span>' : '') + '</a></li>';
-    }).join('');
+    }).join('') + (hits.length > MAX ? '<li class="site-search-more muted">' +
+      esc((box.dataset.more || '').replace('{n}', MAX).replace('{total}', hits.length)) + '</li>' : '');
   }
   function open() {
     lastFocus = document.activeElement;
