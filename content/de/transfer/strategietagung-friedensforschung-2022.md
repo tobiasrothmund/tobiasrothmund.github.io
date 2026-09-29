@@ -7,7 +7,7 @@ category: events
 period: "14.–16. Oktober 2022, Jena"
 periodlabel: "Termin & Ort"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)"]
-funding: "Deutsche Stiftung Friedensforschung (DSF)"
+funding: "Deutsche Stiftung Friedensforschung (DSF) und KomRex"
 website: "https://bundesstiftung-friedensforschung.de/blog/perspektiven-einer-sozialpsychologischen-friedensforschung/"
 websitelabel: "Link"
 websitetext: "Zum Projekt bei der DSF"
