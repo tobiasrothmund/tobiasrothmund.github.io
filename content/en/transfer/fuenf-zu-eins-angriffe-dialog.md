@@ -1,6 +1,9 @@
 ---
 title: "On Attacks, Campaigns and Dialogue – Guidance for Cultural Institutions"
 short: "fünf zu eins"
+image: /images/projekte/unnamed-1-scaled.jpg
+imagealt: "Cover visual of fünf zu eins, issue no. 1/2025: “Wie weitergehen, wenn der Weg verstellt scheint?” (How to go on when the way seems blocked?)"
+imagealign: top
 date: 2025-01-01
 translationKey: fuenf-zu-eins-angriffe-dialog
 category: digital
