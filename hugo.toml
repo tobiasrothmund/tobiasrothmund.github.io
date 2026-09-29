@@ -19,8 +19,14 @@ timeZone = "Europe/Berlin"
 [taxonomies]
   tag = "tags"
 
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS"]
 
 [markup.goldmark.renderer]
