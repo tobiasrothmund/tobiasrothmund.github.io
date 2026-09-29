@@ -1,0 +1,26 @@
+{{- /* Suchindex für die Volltextsuche im Menü (eine Datei pro Sprache) */ -}}
+{{- $de := eq site.Language.Lang "de" -}}
+{{- $idx := slice -}}
+{{- range site.RegularPages -}}
+  {{- $sec := "" -}}
+  {{- with .Parent }}{{ if not .IsHome }}{{ $sec = .Title }}{{ end }}{{ end -}}
+  {{- $extra := slice -}}
+  {{- with .Params.summary }}{{ $extra = $extra | append . }}{{ end -}}
+  {{- with .Params.period }}{{ $extra = $extra | append . }}{{ end -}}
+  {{- with .Params.team }}{{ $extra = $extra | append (delimit . ", " | markdownify | plainify) }}{{ end -}}
+  {{- with .Params.partners }}{{ $extra = $extra | append (delimit . ", " | markdownify | plainify) }}{{ end -}}
+  {{- with .Params.funding }}{{ $extra = $extra | append (. | markdownify | plainify) }}{{ end -}}
+  {{- $txt := printf "%s %s" (delimit $extra " · ") .Plain | htmlUnescape -}}
+  {{- $idx = $idx | append (dict "t" .Title "u" .RelPermalink "s" $sec "x" (substr $txt 0 4000)) -}}
+{{- end -}}
+{{- $pubs := site.GetPage (cond $de "/publikationen" "/publications") -}}
+{{- range site.Data.publications -}}
+  {{- $u := "" -}}
+  {{- with .doi }}{{ $u = printf "https://doi.org/%s" . }}{{ else }}{{ with .url }}{{ $u = . }}{{ else }}{{ $u = $pubs.RelPermalink }}{{ end }}{{ end -}}
+  {{- $idx = $idx | append (dict "t" .title "u" $u "s" (cond $de "Publikation" "Publication") "x" (printf "%s (%v). %s %s" .authors .year .venue (.volume | default ""))) -}}
+{{- end -}}
+{{- $m := site.GetPage (cond $de "/medien" "/media") -}}
+{{- range site.Data.talks -}}
+  {{- $idx = $idx | append (dict "t" .title "u" (.url | default $m.RelPermalink) "s" (cond $de "In den Medien" "In the media") "x" (printf "%s · %s %s" .venue (time.Format "2006" .date) (.summary | default ""))) -}}
+{{- end -}}
+{{- $idx | jsonify -}}
