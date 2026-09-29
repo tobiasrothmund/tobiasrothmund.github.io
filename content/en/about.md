@@ -5,20 +5,15 @@ type: about
 url: /en/about/
 ---
 
-For more than ten years, I have been researching how people experience and shape political processes.
+For twenty years, I have been researching how people experience and shape political processes. My work is shaped by convictions that draw on a Christian value orientation, critical rationalism as a philosophy of science, the principles of the open science movement, and a belief in the power of deliberative democracy:
 
-My work is based on an empirical-positivist understanding of science: science seeks truth that exists independently of the researcher and can be experienced through the senses.
+1. Our knowledge is always provisional and must constantly be adapted to new insights.
+2. Science seeks truth that exists independently of the researcher and can be experienced through the senses.
+3. Self-determination and social responsibility are the keys to a dignified and fulfilled human life.
+4. Societal conditions create the greatest possible happiness when they are shaped in such a way that people want to take on social responsibility and are able to live self-determined lives.
+5. Reasoned political discourse is only fair if it also takes into account the interests, emotions and ideas of those who cannot or do not want to take part in it.
 
-Gaining knowledge is always influenced and shaped by normative convictions and basic assumptions. Two assumptions are central for me:
-
-1. Self-determination and social responsibility are the keys to a dignified and fulfilled human life.
-2. Societal conditions should be shaped in such a way that people want to take on social responsibility and are able to live self-determined lives.
-
-Against this background, I am committed to the goals of deliberative democracy, based on mutual respect and openness as well as reasoned and evidence-informed discourse. Such discourse, however, requires that the interests, emotions and ideas of everyone involved are taken into account as fully as possible.
-
-Central to the success of deliberative democracy are cohesion and trust, shared visions of the future, individual and social experiences of justice, and a transparent exchange of information. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
-
-Finally, I am dedicated to the ideals of open and transparent research practices (open science), inter- and transdisciplinary collaboration, and dialogue-based science communication on an equal footing.
+Central to the success of deliberative democracy are cohesion and trust, shared visions of the future, experiences of justice, perspective-taking and questioning one's own biases, as well as a transparent exchange of information. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
 
 ## Career
 
