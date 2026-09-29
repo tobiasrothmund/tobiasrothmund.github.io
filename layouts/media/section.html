@@ -6,7 +6,7 @@
   <div class="toolbar" data-filter-root>
     <div class="chips" role="group">
       <button class="chip is-active" data-filter="all" type="button">{{ i18n "all" }} <span class="count">{{ len $all }}</span></button>
-      {{ range slice "keynote" "talk" "interview" "podcast" "tv" "press" }}
+      {{ range slice "interview" "podcast" "tv" "press" }}
         {{ $n := len (where $all "type" .) }}
         {{ if $n }}<button class="chip" data-filter="{{ . }}" type="button">{{ i18n (printf "type_%s" .) }} <span class="count">{{ $n }}</span></button>{{ end }}
       {{ end }}
