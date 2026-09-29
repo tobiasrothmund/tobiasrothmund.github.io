@@ -514,3 +514,24 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 
 /* Startseite: halber Abstand zwischen aufeinanderfolgenden Abschnitten */
 .block + .block { padding-top: 0; }
+
+/* Volltextsuche (Lupe im Menü) */
+.site-search { position: fixed; inset: 0; z-index: 100; background: rgba(10, 12, 16, .45); backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); padding: 10vh var(--gutter) 2rem; overflow-y: auto; }
+.site-search[hidden] { display: none; }
+.site-search-panel { max-width: 44rem; margin: 0 auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 24px 60px -20px rgba(0,0,0,.35); overflow: hidden; }
+.site-search-bar { display: flex; align-items: center; gap: 0.75rem; padding: 0.9rem 1.1rem; border-bottom: 1px solid var(--line); color: var(--ink-3); }
+.site-search-input { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--ink); font: inherit; font-size: 1.125rem; }
+.site-search-input::-webkit-search-cancel-button { display: none; }
+.site-search-close { font: inherit; font-size: 0.75rem; color: var(--ink-3); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 0.2rem 0.5rem; cursor: pointer; }
+.site-search-hint { margin: 0; padding: 1rem 1.1rem; font-size: 0.9375rem; }
+.site-search-results { list-style: none; margin: 0; padding: 0.35rem; max-height: 62vh; overflow-y: auto; }
+.site-search-results:empty { display: none; }
+.site-search-results a { display: flex; flex-direction: column; gap: 0.2rem; padding: 0.7rem 0.8rem; border-radius: 10px; text-decoration: none; color: inherit; }
+.site-search-results a:hover, .site-search-results a:focus { background: var(--accent-soft); outline: none; }
+.site-search-sec { font-size: 0.6875rem; font-weight: 650; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); }
+.site-search-title { font-weight: 600; line-height: 1.35; }
+.site-search-snip { font-size: 0.875rem; color: var(--ink-2); line-height: 1.5; }
+.site-search-results mark { background: rgba(255, 214, 10, .45); color: inherit; border-radius: 2px; padding: 0 1px; }
+.site-search-empty { padding: 0.8rem; }
+body.search-open { overflow: hidden; }
+@media (max-width: 640px) { .site-search { padding-top: 4.5rem; } }
