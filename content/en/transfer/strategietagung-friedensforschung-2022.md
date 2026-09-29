@@ -1,6 +1,9 @@
 ---
 title: "Perspectives for Social Psychological Peace Research in Germany – Strategy Conference"
 short: "Peace research"
+image: /images/projekte/logoDSF4-1.svg
+imagealt: "Logo of the German Foundation for Peace Research (DSF)"
+imagefit: contain
 date: 2022-10-14
 translationKey: strategietagung-friedensforschung-2022
 category: events
