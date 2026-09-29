@@ -1,6 +1,9 @@
 ---
 title: "Über Angriffe, Kampagnen und Dialog – Impulse für Kultureinrichtungen"
 short: "fünf zu eins"
+image: /images/projekte/unnamed-1-scaled.jpg
+imagealt: "Titelmotiv von fünf zu eins, Ausgabe Nr. 1/2025: „Wie weitergehen, wenn der Weg verstellt scheint?“"
+imagealign: top
 date: 2025-01-01
 translationKey: fuenf-zu-eins-angriffe-dialog
 category: digital
