@@ -1,6 +1,9 @@
 ---
 title: "Perspektiven einer sozialpsychologischen Friedensforschung in Deutschland – Strategietagung"
 short: "Friedensforschung"
+image: /images/projekte/logoDSF4-1.svg
+imagealt: "Logo der Deutschen Stiftung Friedensforschung (DSF)"
+imagefit: contain
 date: 2022-10-14
 translationKey: strategietagung-friedensforschung-2022
 category: events
