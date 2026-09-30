@@ -5,7 +5,7 @@ enddate: 2026-12-31
 translationKey: egses24
 status: running
 period: "2024 – 2026"
-partners: ["KomRex (Universität Jena)", "Lehrstuhl für Sozialpsychologie (Universität Trier)"]
+partners: ["KomRex (Universität Jena)", "[NURTUREDEMOS (Universität Trier)](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-i/faecher-und-institute/psychologie/professuren/sozialpsychologie/forschung/nurturing-democratic-resilience-among-youth-to-counter-far-right-influence-in-the-eastern-german-elections-2024-nurturedemos)"]
 funding: "Freistaat Thüringen und VolkswagenStiftung"
 team: ["Prof. Dr. Tobias Rothmund (Leitung)", "Prof. Dr. Eva Walther (Leitung)", "Dr. Christine Finn", "Dr. Anna-Sophie Heinze", "Carla Grosche", "Dr. Carolin-Theresa Ziemer", "Vladimir Bojarskich", "Arne Stolp", "Timon Scheuer", "Anna Lambrich"]
 weight: -3
