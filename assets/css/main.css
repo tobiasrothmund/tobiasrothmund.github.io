@@ -405,10 +405,10 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 
 /* ── Startseite: Vorstellung mit Foto ───────────────────────
    Foto als "static/images/hero.jpg" (oder .webp/.png) ablegen.
-   Farbe der Textfläche: in hugo.toml heroBg = "#002f5d" */
+   Textfläche im Seitengrau (var(--bg)), Schrift dunkel; Foto mit Verlauf ins Grau */
 section.intro {
   display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
-  background: var(--hero-bg, #002f5d); color: #fff; overflow: hidden;
+  background: var(--bg); color: var(--ink); overflow: hidden;
 }
 section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-text { padding: clamp(2.5rem, 4.5vw, 4rem) clamp(1.5rem, 3.2vw, 3.25rem); align-self: start; }
@@ -418,19 +418,19 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
   position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 16%;
   -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 14%); mask-image: linear-gradient(90deg, transparent 0%, #000 14%);
 }
-.intro-role { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: rgb(255 255 255 / .75); line-height: 1.6; margin-bottom: 1.1rem; }
-.intro-role strong { color: #fff; font-weight: 650; }
-.intro-name { font-size: clamp(2.25rem, 1rem + 2.6vw, 3.6rem); font-weight: 640; letter-spacing: -0.04em; line-height: 1; color: #fff; }
-.intro-lead { margin-top: 1.4rem; font-size: clamp(1.1rem, 0.95rem + 0.4vw, 1.3rem); line-height: 1.4; letter-spacing: -0.012em; font-weight: 500; color: #fff; text-wrap: pretty; }
-.intro-bio { margin-top: 1.1rem; font-size: 1rem; line-height: 1.65; color: rgb(255 255 255 / .82); }
+.intro-role { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); line-height: 1.6; margin-bottom: 1.1rem; }
+.intro-role strong { color: var(--ink); font-weight: 650; }
+.intro-name { font-size: clamp(2.25rem, 1rem + 2.6vw, 3.6rem); font-weight: 640; letter-spacing: -0.04em; line-height: 1; color: var(--ink); }
+.intro-lead { margin-top: 1.4rem; font-size: clamp(1.1rem, 0.95rem + 0.4vw, 1.3rem); line-height: 1.4; letter-spacing: -0.012em; font-weight: 500; color: var(--ink); text-wrap: pretty; }
+.intro-bio { margin-top: 1.1rem; font-size: 1rem; line-height: 1.65; color: var(--ink-2); }
 .intro-bio > * + * { margin-top: 0.9em; }
-.intro-bio strong { color: #fff; font-weight: 600; }
-.intro-bio a { color: #fff; }
+.intro-bio strong { color: var(--ink); font-weight: 600; }
+.intro-bio a { color: var(--ink); }
 .intro-links { margin-top: 1.75rem; }
-.intro .social a { color: #fff; border-color: rgb(255 255 255 / .4); }
-.intro .social a:hover { color: #fff; border-color: #fff; background: rgb(255 255 255 / .1); }
-.intro .social li:first-child a { background: #fff; color: var(--hero-bg, #002f5d); border-color: #fff; }
-.intro .social li:first-child a:hover { background: rgb(255 255 255 / .85); color: var(--hero-bg, #002f5d); }
+.intro .social a { color: var(--ink); border-color: var(--line-strong); }
+.intro .social a:hover { color: var(--ink); border-color: var(--ink); background: var(--line); }
+.intro .social li:first-child a { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.intro .social li:first-child a:hover { background: var(--ink-2); color: var(--bg); }
 @media (max-width: 1100px) { .intro.has-photo { grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); } }
 @media (max-width: 880px) {
   section.intro, .intro.has-photo { grid-template-columns: 1fr; }
@@ -463,7 +463,11 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .talk-day:only-child { font-size: 1rem; }
 
 /* Startseite: Logos unter dem Vorstellungstext */
-.intro-logos { display: grid; grid-template-columns: repeat(3, auto); justify-content: space-between; align-items: center; gap: 1.25rem; margin-top: 2.25rem; padding-top: 1.75rem; border-top: 1px solid rgb(255 255 255 / .2); }
+.intro-logos { display: grid; grid-template-columns: repeat(3, auto); justify-content: space-between; align-items: center; gap: 1.25rem; margin-top: 2.25rem; padding-top: 1.75rem; border-top: 1px solid var(--line); }
+/* Logos sind weiß: im hellen Farbschema schwarz darstellen */
+.intro-logos img { filter: brightness(0); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .intro-logos img { filter: none; } }
+:root[data-theme="dark"] .intro-logos img { filter: none; }
 .intro-logos li { min-width: 0; }
 .intro-logos img { display: block; width: auto; max-width: 100%; height: auto; max-height: 2.6rem; }
 .intro-logos .logo-komrex, .intro-logos .logo-imaginamics { max-height: 1.3rem; }
