@@ -412,6 +412,11 @@ section.intro {
 }
 section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-text { padding: clamp(2.5rem, 4.5vw, 4rem) clamp(1.5rem, 3.2vw, 3.25rem); align-self: start; }
+/* Textfläche als Karte wie die Kästen weiter unten */
+.intro.has-photo .intro-text {
+  align-self: stretch; margin: clamp(1rem, 2vw, 1.5rem); padding: clamp(1.75rem, 3.5vw, 3rem) clamp(1.25rem, 2.6vw, 2.5rem);
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+}
 .intro:not(.has-photo) .intro-text { max-width: calc(44rem + 2 * var(--gutter)); margin-inline: auto; padding-inline: var(--gutter); }
 .intro-photo { position: relative; min-height: 24rem; }
 .intro-img {
@@ -438,6 +443,7 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
   .intro-img { position: relative; height: auto; aspect-ratio: 1 / 1; object-position: 50% 10%;
     border-radius: 0 0 1.5rem 1.5rem; }
   .intro-text { padding: 1.5rem var(--gutter) 3rem; }
+  .intro.has-photo .intro-text { margin: 1rem var(--gutter) 0; padding: 1.5rem 1.25rem 2rem; }
 }
 
 /* Publikationen: Buchcover */
