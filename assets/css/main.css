@@ -416,7 +416,6 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-photo { position: relative; min-height: 24rem; }
 .intro-img {
   position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 16%;
-  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 14%); mask-image: linear-gradient(90deg, transparent 0%, #000 14%);
 }
 .intro-role { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); line-height: 1.6; margin-bottom: 1.1rem; }
 .intro-role strong { color: var(--ink); font-weight: 650; }
@@ -435,8 +434,7 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 @media (max-width: 880px) {
   section.intro, .intro.has-photo { grid-template-columns: 1fr; }
   .intro-photo { order: -1; min-height: 0; }
-  .intro-img { position: relative; height: auto; aspect-ratio: 1 / 1; object-position: 50% 10%;
-    -webkit-mask-image: linear-gradient(0deg, transparent 0%, #000 18%); mask-image: linear-gradient(0deg, transparent 0%, #000 18%); }
+  .intro-img { position: relative; height: auto; aspect-ratio: 1 / 1; object-position: 50% 10%; }
   .intro-text { padding: 1.5rem var(--gutter) 3rem; }
 }
 
