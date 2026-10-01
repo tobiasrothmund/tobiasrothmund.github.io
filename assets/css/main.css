@@ -470,10 +470,9 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 
 /* Startseite: Logos unter dem Vorstellungstext */
 .intro-logos { display: grid; grid-template-columns: repeat(3, auto); justify-content: space-between; align-items: center; gap: 1.25rem; margin-top: 2.25rem; padding-top: 1.75rem; border-top: 1px solid var(--line); }
-/* Logos sind weiß: im hellen Farbschema schwarz darstellen */
-.intro-logos img { filter: brightness(0); }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .intro-logos img { filter: none; } }
-:root[data-theme="dark"] .intro-logos img { filter: none; }
+/* Logos in Originalfarbe; im dunklen Farbschema weiß darstellen */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .intro-logos img { filter: brightness(0) invert(1); } }
+:root[data-theme="dark"] .intro-logos img { filter: brightness(0) invert(1); }
 .intro-logos li { min-width: 0; }
 .intro-logos img { display: block; width: auto; max-width: 100%; height: auto; max-height: 2.6rem; }
 .intro-logos .logo-komrex, .intro-logos .logo-imaginamics { max-height: 1.3rem; }
