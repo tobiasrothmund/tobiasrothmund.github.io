@@ -5,15 +5,15 @@ type: about
 url: /en/about/
 ---
 
-For twenty years, I have been researching how people experience and shape political processes. My work is shaped by convictions that draw on a Christian value orientation, critical rationalism as a philosophy of science, the principles of the open science movement, and a belief in the power of deliberative democracy:
+For twenty years, I have been researching how people experience and shape political processes. My work is shaped by convictions that draw on a Christian value orientation, critical rationalism, the principles of the open science movement, and the intellectual power of social discourse:
 
-1. Our knowledge is always provisional and must constantly be adapted to new insights.
-2. Science seeks truth that exists independently of the researcher and can be experienced through the senses.
-3. Self-determination and social responsibility are the keys to a dignified and fulfilled human life.
-4. Societal conditions create the greatest possible happiness when they are shaped in such a way that people want to take on social responsibility and are able to live self-determined lives.
-5. Reasoned political discourse is only fair if it also takes into account the interests, emotions and ideas of those who cannot or do not want to take part in it.
-
-Central to the success of deliberative democracy are cohesion and trust, shared visions of the future, experiences of justice, perspective-taking and questioning one's own biases, as well as a transparent exchange of information. With my research, I want to contribute – from a psychological perspective – to understanding and shaping these "soft" conditions for the success of democratic societies.
+1. Our understanding of the world is always provisional.
+2. Anyone who is not prepared to seriously question their own convictions is not fit for social discourse.
+3. Anyone who believes they have an unbiased view of the world, one not shaped by their own convictions, has to go back to 1.
+4. Science seeks truth that exists independently of the researcher and can be experienced through the senses.
+5. Self-determination and social responsibility are the keys to a dignified and fulfilled human life.
+6. Societal conditions create the greatest possible happiness when they are shaped in such a way that people want to take on social responsibility and are able to live self-determined lives.
+7. Reasoned socio-political discourse is only fair if it also takes into account the interests, emotions and ideas of those who cannot or do not want to take part in it.
 
 ## Career
 
