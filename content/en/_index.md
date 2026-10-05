@@ -21,6 +21,10 @@ focus:
     text: "Motivated reasoning, polarisation and radicalisation from a social-psychological perspective."
 ---
 
-Tobias Rothmund is Professor for [**Psychology of Communication and Media Use**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) at Friedrich Schiller University Jena, where he is the director of [**KomRex**](https://www.komrex.uni-jena.de/) (Centre for Research on Right-Wing Extremism, Democracy Education and Societal Integration). He is a Principal Investigator in the Cluster of Excellence [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena and a member of the distributed DFG Research Unit **Beyond Cracy**.
+I am Professor for [**Psychology of Communication and Media Use**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) at Friedrich Schiller University Jena and teach students in the BA programme in Communication Science and the MA programme in Political Communication.
 
-His research combines social psychological and communication science perspectives on political thinking, feeling and behaviour. His work focuses on conceptions of justice, political biases and ideologies, misinformation and conspiracy myths, as well as political radicalisation and the dynamics of polarisation.
+In the Cluster of Excellence [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena, I have been researching since 2026 how imaginaries of society and democracy emerge and spread.
+
+As part of the distributed DFG Research Unit **Beyond Cracy**, I will investigate from 2027 onwards the justice-psychological and socio-political functions of conspiracy myths and beliefs.
+
+Since 2024, I have been director of [**KomRex**](https://www.komrex.uni-jena.de/) (Centre for Research on Right-Wing Extremism, Democracy Education and Societal Integration), where I coordinate research and outreach projects on the dynamics of political (de-)radicalisation and (de-)polarisation.
