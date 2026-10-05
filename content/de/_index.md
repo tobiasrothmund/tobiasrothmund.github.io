@@ -24,6 +24,10 @@ focus:
     text: "Motiviertes Denken, Polarisierung und Radikalisierung aus sozialpsychologischer Perspektive."
 ---
 
-Tobias Rothmund ist Professor für [**Kommunikations- und Medienpsychologie**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) an der Friedrich-Schiller-Universität Jena und leitet dort das [**KomRex**](https://www.komrex.uni-jena.de/) (Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration). Er ist Principal Investigator im Exzellenzcluster [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) der Universität Jena und Teil der verteilten DFG-Forschungsgruppe **Beyond Cracy**.
+Ich bin Professor für [**Kommunikations- und Medienpsychologie**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) an der Friedrich-Schiller-Universität Jena und beteiligt an der Ausbildung von Studierenden im BA-Studiengang Kommunikationswissenschaft und im MA-Studiengang Politische Kommunikation.
 
-In seiner Forschung verbindet er sozialpsychologische und kommunikationswissenschaftliche Perspektiven auf politisches Erleben und Verhalten. Er arbeitet zu Gerechtigkeitsvorstellungen, politischen Voreingenommenheiten und Ideologien, Desinformation und Verschwörungsmythen sowie zu politischer Radikalisierung und Polarisierungsdynamiken.
+Im Exzellenzcluster [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) der Universität Jena forsche ich seit 2026 zur Entstehung und Verbreitung von Vorstellungen über Gesellschaft und Demokratie.
+
+Als Teil der verteilten DFG-Forschungsgruppe **Beyond Cracy** untersuche ich ab 2027 gerechtigkeitspsychologische und gesellschaftspolitische Funktionen von Verschwörungsmythen und -überzeugungen.
+
+Seit 2024 leite ich das [**KomRex**](https://www.komrex.uni-jena.de/) (Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration) und koordiniere dort Forschungs- und Vermittlungsprojekte zu Dynamiken der politischen (De-)Radikalisierung und (De-)Polarisierung.
