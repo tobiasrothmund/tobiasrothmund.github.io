@@ -14,6 +14,14 @@
 
 - type: other
   year: 2026
+  authors: Finn, C., & Rothmund, T.
+  title: 'Risse im gesellschaftlichen Zusammenhalt: Soziale und gesundheitliche Risiken affektiver Polarisierung'
+  venue: PsychArchives. Leibniz-Institut für Psychologie (ZPID)
+  doi: 10.23668/psycharchives.22415
+  openaccess: true
+
+- type: other
+  year: 2026
   authors: Hillinger, C., Wilk, V., Dellagiacoma, L., Kretzmann, J., Holewik, C. J., Rothmund, T., & Henn, S. (Hrsg.).
   title: 'Abschlussbericht ARAPiS: Analyse der Rolle und des Arbeitsmarkt-Potenzials internationaler Studierender der Friedrich-Schiller-Universität Jena im Kontext Thüringens'
   venue: Friedrich-Schiller-Universität Jena
@@ -76,11 +84,11 @@
   openaccess: true
 
 - type: article
-  year: 2025
+  year: 2026
   authors: Bojarskich, V., Grosche, C., Ziemer, C.-T., & Rothmund, T.
   title: Solidarity with Ukraine? How fear- and moral-based motivations explain the psychological tug-of-war in the German public
   venue: 'Peace and Conflict: Journal of Peace Psychology'
-  volume: Advance online publication
+  volume: 32(1), 56–67
   doi: 10.1037/pac0000813
 
 - type: book
@@ -153,7 +161,7 @@
   authors: Ziemer, C.-T., & Rothmund, T.
   title: 'Psychological underpinnings of misinformation countermeasures: A systematic scoping review'
   venue: 'Journal of Media Psychology: Theories, Methods, and Applications'
-  volume: Advance online publication
+  volume: 36(6), 397–409
   doi: 10.1027/1864-1105/a000407
   openaccess: true
 
