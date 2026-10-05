@@ -5,15 +5,15 @@ type: about
 url: /about/
 ---
 
-Ich forsche seit zwanzig Jahren dazu, wie Menschen politische Prozesse erleben und gestalten. Meine Arbeit ist geprägt durch Überzeugungen, die sich aus einer christlichen Wertorientierung, dem kritischen Rationalismus als Wissenschaftstheorie, den Prinzipien der Open Science Bewegung sowie einem Glauben an die Kraft deliberativer Demokratie speisen:
+Ich forsche seit zwanzig Jahren dazu, wie Menschen politische Prozesse erleben und gestalten. Meine Arbeit ist geprägt durch Überzeugungen, die sich aus einer christlichen Wertorientierung, dem kritischen Rationalismus, den Prinzipien der Open Science Bewegung sowie der intellektuellen Kraft sozialer Diskurse speisen:
 
-1. Unser Wissen ist immer nur vorläufig und muss ständig an neue Erkenntnisse angepasst werden.
-2. Wissenschaft sucht nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
-3. Selbstbestimmtheit und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
-4. Gesellschaftliche Rahmenbedingungen erzeugen das größtmögliche Glück, wenn sie so gestaltet werden, dass Menschen soziale Verantwortung übernehmen wollen und selbstbestimmt leben können.
-5. Ein vernunftgeleiteter politischer Diskurs ist nur dann fair, wenn auch die Interessen, Emotionen und Vorstellungen derer berücksichtigt werden, die sich nicht daran beteiligen können oder wollen.
-
-Zentral für das Gelingen einer deliberativen Demokratie sind Zusammenhalt und Vertrauen, geteilte Zukunftsvorstellungen, Gerechtigkeitserleben, Perspektivübernahme und das Hinterfragen der eigenen Voreingenommenheit sowie ein transparenter Informationsaustausch. Ich möchte mit meiner Forschung zum Verständnis und zur Gestaltung dieser „soften“ Gelingensbedingungen demokratischer Gesellschaften aus einer psychologischen Perspektive beitragen.
+1. Unser Verständnis der Welt ist immer vorläufig.
+2. Wer nicht bereit ist, seine eigenen Überzeugungen ernsthaft zu hinterfragen, ist für den sozialen Diskurs nicht geeignet.
+3. Wer glaubt, einen unvoreingenommenen Blick auf die Welt zu haben, der nicht durch eigene Überzeugungen geprägt ist, der muss zurück auf 1.
+4. Wissenschaft sucht nach Wahrheit, die unabhängig vom Forschenden existiert und sinnlich erfahrbar ist.
+5. Selbstbestimmtheit und soziale Verantwortung sind die Schlüssel für ein würdevolles und erfülltes Menschenleben.
+6. Gesellschaftliche Rahmenbedingungen erzeugen das größtmögliche Glück, wenn sie so gestaltet werden, dass Menschen soziale Verantwortung übernehmen wollen und selbstbestimmt leben können.
+7. Ein vernunftgeleiteter gesellschaftspolitischer Diskurs ist nur dann fair, wenn auch die Interessen, Emotionen und Vorstellungen derer berücksichtigt werden, die sich nicht daran beteiligen können oder wollen.
 
 ## Werdegang
 
