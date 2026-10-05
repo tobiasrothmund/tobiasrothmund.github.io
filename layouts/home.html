@@ -4,7 +4,6 @@
 {{ range slice "images/hero.jpg" "images/hero.jpeg" "images/hero.png" "images/hero.webp" }}{{ if and (not $hero) (fileExists (printf "static/%s" .)) }}{{ $hero = . }}{{ end }}{{ end }}
 <section class="intro{{ if $hero }} has-photo{{ end }}"{{ with site.Params.heroBg }} style="--hero-bg: {{ . | safeCSS }}"{{ end }}>
   <div class="intro-text">
-    <p class="intro-role">{{ site.Params.role }}<br><strong>{{ site.Params.affiliation }}</strong></p>
     <h1 class="intro-name">{{ site.Params.name }}</h1>
     {{ with .Params.lead }}<p class="intro-lead">{{ . }}</p>{{ end }}
     <div class="intro-bio">{{ .Content }}</div>
