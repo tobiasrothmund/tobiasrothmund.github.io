@@ -426,7 +426,7 @@ section.intro:not(.has-photo) { grid-template-columns: 1fr; }
 .intro-role { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); line-height: 1.6; margin-bottom: 1.1rem; }
 .intro-role strong { color: var(--ink); font-weight: 650; }
 .intro-name { font-size: clamp(2.25rem, 1rem + 2.6vw, 3.6rem); font-weight: 640; letter-spacing: -0.04em; line-height: 1; color: var(--ink); }
-.intro-lead { margin-top: 1.4rem; font-size: clamp(1.1rem, 0.95rem + 0.4vw, 1.3rem); line-height: 1.4; letter-spacing: -0.012em; font-weight: 500; color: var(--ink); text-wrap: pretty; }
+.intro-lead { margin-top: 1.4rem; font-size: clamp(1.4rem, 1rem + 1.1vw, 2.05rem); line-height: 1.25; letter-spacing: -0.012em; font-weight: 500; color: var(--ink); text-wrap: pretty; }
 .intro-bio { margin-top: 1.1rem; font-size: 1rem; line-height: 1.65; color: var(--ink-2); }
 .intro-bio > * + * { margin-top: 0.9em; }
 .intro-bio strong { color: var(--ink); font-weight: 600; }
