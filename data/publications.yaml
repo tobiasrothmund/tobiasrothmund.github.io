@@ -12,6 +12,15 @@
 #  cover:     Bild für Bücher, z. B. /images/cover-buch.jpg
 # ─────────────────────────────────────────────────────────────
 
+- type: article
+  year: 2026
+  authors: Taddicken, M., Krämer, N. C., Allgaier, J., Bilandzić, H., Bol, N., Bromme, R., Cacciatore, M. A., Fage-Butler, A. M., Greussing, E., Guenther, L., Hendriks, F., Huber, B., Kienhues, D., Koteyko, N., Reif, A., Rothmund, T., Winter, S., & Wonneberger, A.
+  title: 'Public construction of evidence: Rethinking scientific evidence in social media environments'
+  venue: Media, Culture & Society
+  volume: Advance online publication
+  doi: 10.1177/01634437261488254
+  openaccess: true
+
 - type: other
   year: 2026
   authors: Finn, C., & Rothmund, T.
