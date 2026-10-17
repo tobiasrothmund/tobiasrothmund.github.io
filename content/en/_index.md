@@ -1,7 +1,7 @@
 ---
 title: "Tobias Rothmund"
 translationKey: home
-lead: "How do people develop, evaluate and spread imaginaries about politics and society – and what does this mean for the public sphere in democracies?"
+lead: "How do people develop, evaluate and spread imaginaries about politics and society – and how can democracies grow from them?"
 logos:
   - id: uni-jena
     img: /images/logos/uni-jena.png
@@ -21,9 +21,9 @@ focus:
     text: "Motivated reasoning, polarisation and radicalisation from a social-psychological perspective."
 ---
 
-I am Professor for [**Psychology of Communication and Media Use**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) at Friedrich Schiller University Jena and teach students in the BA programme in Communication Science and the MA programme in Political Communication.
+I am Professor for Psychology of Communication and Media Use at the Department of Communication Science at Friedrich Schiller University Jena. We teach students in the BA programme in Communication Science and the MA programme in Political Communication.
 
-In the Cluster of Excellence [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena, I have been researching since 2026 how imaginaries of society and democracy emerge and spread.
+In the Cluster of Excellence [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena, I have been researching since 2026 the practices through which imaginaries of democracy emerge, spread and are shaped.
 
 As part of the distributed DFG Research Unit **Beyond Cracy**, I will investigate from 2027 onwards the justice-psychological and socio-political functions of conspiracy myths and beliefs.
 
