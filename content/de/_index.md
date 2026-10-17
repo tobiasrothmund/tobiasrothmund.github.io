@@ -2,7 +2,7 @@
 title: "Tobias Rothmund"
 translationKey: home
 # Hervorgehobener erster Satz der Vorstellung auf der Startseite
-lead: "Wie entwickeln, bewerten und verbreiten Menschen Vorstellungen über Politik und Gesellschaft – und was bedeutet das für die demokratische Öffentlichkeit?"
+lead: "Wie entwickeln, bewerten und verbreiten Menschen Vorstellungen über Politik und Gesellschaft – und wie können Demokratien daran wachsen?"
 # Logos unter dem Vorstellungstext (Reihenfolge = Anzeige)
 logos:
   - id: uni-jena
@@ -24,9 +24,9 @@ focus:
     text: "Motiviertes Denken, Polarisierung und Radikalisierung aus sozialpsychologischer Perspektive."
 ---
 
-Ich bin Professor für [**Kommunikations- und Medienpsychologie**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) an der Friedrich-Schiller-Universität Jena und beteiligt an der Ausbildung von Studierenden im BA-Studiengang Kommunikationswissenschaft und im MA-Studiengang Politische Kommunikation.
+Ich bin Professor für Kommunikations- und Medienpsychologie am Institut für Kommunikationswissenschaft der Friedrich-Schiller-Universität Jena. Wir bilden Studierende im BA-Studiengang Kommunikationswissenschaft und im MA-Studiengang Politische Kommunikation aus.
 
-Im Exzellenzcluster [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) der Universität Jena forsche ich seit 2026 zur Entstehung und Verbreitung von Vorstellungen über Gesellschaft und Demokratie.
+Im Exzellenzcluster [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) der Universität Jena forsche ich seit 2026 zu Praktiken der Entstehung, Verbreitung und Gestaltung von Vorstellungen über Demokratie.
 
 Als Teil der verteilten DFG-Forschungsgruppe **Beyond Cracy** untersuche ich ab 2027 gerechtigkeitspsychologische und gesellschaftspolitische Funktionen von Verschwörungsmythen und -überzeugungen.
 
