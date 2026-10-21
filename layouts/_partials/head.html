@@ -35,3 +35,6 @@
 {"@context":"https://schema.org","@type":"Person","name":{{ site.Params.name | jsonify }},"jobTitle":{{ site.Params.role | jsonify }},"affiliation":{"@type":"Organization","name":{{ site.Params.affiliation | jsonify }}},"url":{{ site.Home.Permalink | jsonify }}}
 </script>
 {{ end }}
+{{ if hugo.IsProduction }}{{ with site.Params.goatcounter }}
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+{{ end }}{{ end }}
