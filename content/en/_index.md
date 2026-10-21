@@ -1,7 +1,7 @@
 ---
 title: "Tobias Rothmund"
 translationKey: home
-lead: "How do people develop, evaluate and spread imaginaries about politics and society – and how can democracies grow from them?"
+lead: "How do people develop, evaluate and spread imaginaries about politics and society – and how can democracies learn from them?"
 logos:
   - id: uni-jena
     img: /images/logos/uni-jena.png
