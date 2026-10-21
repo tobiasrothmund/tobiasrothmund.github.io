@@ -47,6 +47,8 @@ timeZone = "Europe/Berlin"
   portrait = "/images/portrait.jpg"
   # Kürzel, das in Publikationslisten hervorgehoben wird
   highlightAuthor = "Rothmund, T."
+  # Besucherstatistik (GoatCounter-Kontoname; leer lassen = aus)
+  goatcounter = "tobiasrothmund"
 
   # Profile (leer lassen, um sie auszublenden)
   [params.links]
