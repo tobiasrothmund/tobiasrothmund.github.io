@@ -2,7 +2,7 @@
 title: "Tobias Rothmund"
 translationKey: home
 # Hervorgehobener erster Satz der Vorstellung auf der Startseite
-lead: "Wie entwickeln, bewerten und verbreiten Menschen Vorstellungen über Politik und Gesellschaft – und wie können Demokratien davon lernen?"
+lead: "Wie entwickeln, bewerten und verbreiten Menschen Vorstellungen über Politik und Gesellschaft – und was können Demokratien daraus lernen?"
 # Logos unter dem Vorstellungstext (Reihenfolge = Anzeige)
 logos:
   - id: uni-jena
