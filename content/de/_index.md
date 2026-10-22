@@ -24,7 +24,7 @@ focus:
     text: "Motiviertes Denken, Polarisierung und Radikalisierung aus sozialpsychologischer Perspektive."
 ---
 
-Ich bin [Professor für Kommunikations- und Medienpsychologie](https://www.fsv.uni-jena.de/15410/prof-dr-tobias-rothmund) am [Institut für Kommunikationswissenschaft](https://www.fsv.uni-jena.de/14745/institut-fuer-kommunikations-wissenschaft-ifkw-jena) der [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/). Wir bilden Studierende im BA-Studiengang Kommunikationswissenschaft und im MA-Studiengang Politische Kommunikation aus.
+Ich leite die Arbeitsgruppe für [**Kommunikations- und Medienpsychologie**](https://www.fsv.uni-jena.de/15395/kommunikations-medienpsychologie-sp-netzoeffentlichkeit-social-media) am [**Institut für Kommunikationswissenschaft**](https://www.fsv.uni-jena.de/14745/institut-fuer-kommunikations-wissenschaft-ifkw-jena) der [**Friedrich-Schiller-Universität Jena**](https://www.uni-jena.de/). Wir bilden Studierende im BA-Studiengang Kommunikationswissenschaft und im MA-Studiengang Politische Kommunikation aus.
 
 Im Exzellenzcluster [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) der Universität Jena forsche ich seit 2026 zu Praktiken der Entstehung, Verbreitung und Gestaltung von Vorstellungen über Demokratie.
 
