@@ -21,7 +21,7 @@ focus:
     text: "Motivated reasoning, polarisation and radicalisation from a social-psychological perspective."
 ---
 
-I am [Professor for Psychology of Communication and Media Use](https://www.fsv.uni-jena.de/en/15410/prof-dr-tobias-rothmund) at the [Department of Communication Science](https://www.fsv.uni-jena.de/en/14745/institute-of-communication-science-ifkw-jena) at [Friedrich Schiller University Jena](https://www.uni-jena.de/en/). We teach students in the BA programme in Communication Science and the MA programme in Political Communication.
+I lead the research group for [**Psychology of Communication and Media Use**](https://www.fsv.uni-jena.de/en/15395/psychology-of-communication-and-media-use) at the [**Department of Communication Science**](https://www.fsv.uni-jena.de/en/14745/institute-of-communication-science-ifkw-jena) at [**Friedrich Schiller University Jena**](https://www.uni-jena.de/en/). We teach students in the BA programme in Communication Science and the MA programme in Political Communication.
 
 In the Cluster of Excellence [**Imaginamics**](https://www.uni-jena.de/265518/exzellenzcluster-imaginamics) at the University of Jena, I have been researching since 2026 the practices through which imaginaries of democracy emerge, spread and are shaped.
 
