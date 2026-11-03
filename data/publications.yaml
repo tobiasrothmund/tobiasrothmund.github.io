@@ -76,10 +76,10 @@
 
 - type: article
   year: 2026
-  authors: Fischer, H., Bojarskich, V., Ziemer, C.-T., Louis, W., & Rothmund, T.
+  authors: Fischer, H., Bojarskich, V., Ziemer, C.-T., Louis, W., Huff, M., & Rothmund, T.
   title: 'Zone-flooding, public confusion, and Signal Detection Theory: A theoretical framework and registered report'
   venue: Political Psychology
-  volume: 47(2)
+  volume: 47(2), e70076
   doi: 10.1111/pops.70076
   openaccess: true
 
@@ -93,10 +93,11 @@
   openaccess: true
 
 - type: article
-  year: 2025
+  year: 2026
   authors: Grosche, C., & Rothmund, T.
-  title: 'Yesterday, all our troubles seemed so far away: Measuring nostalgic deprivation as a predictor for radical-right support – Empirical evidence from Germany and the US'
+  title: Yesterday, all our troubles seemed so far away—(Re)conceptualizing nostalgic deprivation as a predictor for radical-right support
   venue: Political Psychology
+  volume: 47(2), e70057
   doi: 10.1111/pops.70057
   openaccess: true
 
