@@ -13,6 +13,15 @@
 # ─────────────────────────────────────────────────────────────
 
 - type: article
+  year: 2026
+  authors: Finn, C., Bojarskich, V., Grosche, C., Walther, E., & Rothmund, T.
+  title: A Collaborative Omnibus Survey on the 2024 East German State Elections
+  venue: Social Psychology
+  volume: Advance online publication
+  doi: 10.1027/1864-9335/a000602
+  openaccess: true
+
+- type: article
   year: 2024
   authors: Hauptvogel, D., Schreckenberg, D., Rothmund, T., Schmitz, M.-T., & Bartels, S.
   title: Entwicklung und Validierung eines Fragebogens zur Wahrnehmung von Fairnessaspekten in der Beziehung zwischen Flughäfen und ihren Anwohnenden (fAIR-In)
