@@ -16,6 +16,14 @@
 #             date wird dann nur zum Sortieren verwendet)
 # ─────────────────────────────────────────────────────────────
 
+- type: press
+  date: 2026-11-23
+  title: "Faktomat aus Jena: Wie sehr beeinflussen politische Überzeugungen unseren Blick auf Fakten?"
+  venue: MDR THÜRINGEN
+  lang: de
+  url: https://www.mdr.de/nachrichten/thueringen/ost-thueringen/jena/uni-forschung-test-psychologie,faktomat-100.html
+  summary: Carmen Fiedler stellt den Fakt-o-Mat aus dem SensipoV-Projekt vor – einen Online-Selbsttest mit 24 Fragen zu Klimawandel, Energie, innerer Sicherheit und Migration, der sichtbar macht, wie stark politische Überzeugungen die Bewertung von Fakten prägen. Im Gespräch erläutert Christine Finn Entwicklung, Validierung mit rund 3.000 Befragten und erste Befunde.
+
 - type: interview
   date: 2025-11-01
   datelabel: Heft 3/2025
